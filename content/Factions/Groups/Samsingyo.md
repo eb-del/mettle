@@ -5,7 +5,7 @@ tags:
   - 
 ---
 
-The **Samsingyo**[^sam] (infrequently known as the **Southern Tritheon** or **Southern Triune**) is a [[Pantheons|pantheon]] that contains three [[eternals]]: [[Dalnim]], [[Haenim]], and [[Gureumnim]]; as well as countless stellar beings and [[household divinities]]. 
+The **Samsingyo**[^sam] (infrequently known as the **Southern Tritheon** or **Southern Triune**) is a [[Pantheons|pantheon]] that contains three [[Eternals|eternals]]: [[Dalnim]], [[Haenim]], and [[Gureumnim]]; as well as countless stellar beings and [[Household Divinities|household divinities]]. 
 
 # Worship
 Samsingyo disciples believe that the nature of the sky and the climate of the world are influenced by the passionate love between the moon, Dalnim, and the sun, Haenim. Their love was deemed so potent that it regularly attracts the curiosity of other stars (leading to constellations, comets, shooting stars, and the creation of the household divinities). Their most noteworthy recruit is named Gureumnim, the cloud herald. Originally a nebula, Gureumnim traded his natural starlight for the freedom to be closer to [[Humans|humanity]], willingly granting them gifts of rain, shade, and wind. Gureumnim is temperamental, and prone to fits of rage, manifesting as storms, thunder, and lightning. 

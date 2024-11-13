@@ -10,7 +10,7 @@ tags:
 # Description
 Household divinities are invisible and immaterial. They have very little ability to interact with the physical world, yet produce phenomena extremely similar to (and often mistaken for) [[Psyche#Ensoulment|ensoulment]] or [[quirk magic]]. For this reason, household divinities are also often mistaken for [[wisps]]. Unlike wisps, however, household divinities exhibit a personality, a social tendency, an individual consciousness, an understanding of property, and a sense of courtesy. 
 
-Though household divinities do not communicate with [[humans]] through language, they often show their approval or disapproval of a human's behavior by the altering state of the vessel they inhabit. Extreme indignation by a household divinity can often lead to damage or outright destruction of a vessel.
+Though household divinities do not communicate with [[Humans|humans]] through language, they often show their approval or disapproval of a human's behavior by the altering state of the vessel they inhabit. Extreme indignation by a household divinity can often lead to damage or outright destruction of a vessel.
 
 Unlike wisps, household divinities can have interpersonal relationships with their own kind: they can find partners and cohabitate a vessel; they can have grievances and disputes; and they can organize themselves into simple societies.
 

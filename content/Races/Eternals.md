@@ -5,7 +5,7 @@ tags:
   - 
 ---
 
-**Eternals** (referenced popularly by [[humans]] as **gods**) are a timeless and powerful [[Races|race]] from other [[Places#Planes|planes of existence]], known for their immortality and role in [[Pantheons|religion]]. 
+**Eternals** (referenced popularly by [[Humans|humans]] as **gods**) are a timeless and powerful [[Races|race]] from other [[Places#Planes|planes of existence]], known for their immortality and role in [[Pantheons|religion]]. 
  
 
 # Description

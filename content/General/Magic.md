@@ -5,9 +5,9 @@ tags:
   - 
 ---
 
-To the average person, **magic**[^mag] (also known as **sorcery**[^sorc]) broadly encompasses all mysterious and supernatural phenomena. To more empirically-minded practitioners of magic, there exists a more precise description of magic: as the behaviors and nuances of the [[thaumic field]].
+To the average person, **magic**[^mag] (also known as **sorcery**[^sorc]) broadly encompasses all mysterious and supernatural phenomena. To more empirically-minded practitioners of magic, there exists a more precise description of magic: as the behaviors and nuances of the [[Thaumic Field|thaumic field]].
 
-It is believed by many that magic is not native to [[Seath]], acting in opposition to the natural order of the world. It is believed that magic stems from the otherworldly intervention of the [[Races#Actors and Agents|actor races]]; that magic is native to elsewhere. In [[humans]] (and certain species of [[animals|animal]]), magic has the unique property of interfacing with the [[psyche]] or soul—a fundamental relationship at the core of all forms of sorcery. 
+It is believed by many that magic is not native to [[Seath]], acting in opposition to the natural order of the world. It is believed that magic stems from the otherworldly intervention of the [[Races#Actors and Agents|actor races]]; that magic is native to elsewhere. In [[Humans|humans]] (and certain species of [[Animals|animal]]), magic has the unique property of interfacing with the [[Psyche|psyche]] or soul—a fundamental relationship at the core of all forms of sorcery. 
 
 # Practitioners
 The most common and most broad term used for any [[Humans|human]] magic-practitioner is **sorcerer**[^sorc]. The term often carries the connotation of someone who uses magic to capture, bend, and weave fate; to oppose the natural order with one's ambition. This connotation can come with both praise and prejudice. The terms  **mage**[^mag] and **wizard**[^wiz] are alternative titles for sorcerers, typically associated with more experienced, older practitioners.

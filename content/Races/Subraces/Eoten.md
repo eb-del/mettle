@@ -19,7 +19,7 @@ Most Eoten are gentle-hearted, slow to provoke, hard to offend, and resilient to
 The mildness of the Eoten people has spawned a pejorative stereotype that they are brutish and simple-minded. The reality, however, is that Eoten are deeply thoughtful, mindful of their strength, and understanding of the burden they can impose on those smaller than them. 
 
 ## Psyche
-The Eoten are known for being sensitive to the presence of a [[psyche]], granting them an innate tendency towards empathy and compassion. This extends to animals as well; the Eoten are especially capable understanding the emotional state of many creatures. Reciprocally, animals are less likely to be alarmed by or aggressive towards Eoten.
+The Eoten are known for being sensitive to the presence of a [[Psyche|psyche]], granting them an innate tendency towards empathy and compassion. This extends to animals as well; the Eoten are especially capable understanding the emotional state of many creatures. Reciprocally, animals are less likely to be alarmed by or aggressive towards Eoten.
 
 Their natural sensitivity to psyche also gives them an advantage in learning [[Egersis|evocation]]. 
 

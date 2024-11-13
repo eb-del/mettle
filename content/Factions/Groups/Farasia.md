@@ -5,7 +5,7 @@ tags:
   - 
 ---
 
-**Farasia**[^fara] is a [[Polities|confederacy]] of partly-nomadic [[humans|human]] tribes occupying the [[Farasian Steppe]]. The confederacy is most known for its cold-accustomed people, recognized by their horse-mounted archers, hunter-pastoralists, and shamans. Protecting the people of the steppe is an unbound [[Primordials|primordial]], [[Khimore]], a horse chimera.
+**Farasia**[^fara] is a [[Polities|confederacy]] of partly-nomadic [[Humans|human]] tribes occupying the [[Farasian Steppe]]. The confederacy is most known for its cold-accustomed people, recognized by their horse-mounted archers, hunter-pastoralists, and shamans. Protecting the people of the steppe is an unbound [[Primordials|primordial]], [[Khimore]], a horse chimera.
 
 The term "Farasia" is an exonym first mentioned by scholars from the city-state of [[Saramnatia]]. The term was distributed and adopted by the Farasian tribes through the prominent fur trade of the region. A popular and historic endonym for the network of confederacies in this region is **Faikalia**[^faik].
 

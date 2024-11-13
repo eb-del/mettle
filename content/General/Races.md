@@ -16,7 +16,7 @@ There are presently five known races, with a large number of subraces.
 - [[Humans]]
 
 # Actors and Agents
-One of the central sources of cooperation and conflict within the world of *Make & Mettle* is the relationship between the **actor races** (also known as the **triumvirate**; otherworldly interlopers: [[Eternals]], [[Ephemerals]], and [[Primordials]]) and the **agent races** (the natural, [[Psyche|soul-baring]] inhabitants of [[Seath]]: [[Animals]] and [[Humans]]). 
+One of the central sources of cooperation and conflict within the world of *Make & Mettle* is the relationship between the **actor races** (also known as the **triumvirate**; otherworldly interlopers: [[Eternals]], [[Ephemerals]], and [[Primordials]]) and the **agent races** (the natural, [[Psyche|soul-baring]] inhabitants of [[Seath]]: [[Animals|animals]] and [[Humans|humans]]). 
 
 The world is naturally inhospitable to the actor races. Eternals are confined to foreign and exotic [[Places#Planes|planes of existence]], constantly forced to evade natural banishment. Ephemerals, similarly, are fleeting, phantasmal beings subject to a persistent and willful struggle against dissolution. Primordials are animals that have become afflicted with the powers and burdens of an [[Primordials#Primordial Curse|ancient curse]]; their existence a cancer to the natural world. All the actor races constantly endeavor to maintain a purchase upon the mortal world.
 

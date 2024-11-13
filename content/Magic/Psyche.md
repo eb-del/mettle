@@ -5,7 +5,7 @@ tags:
   - 
 ---
 
-The **psyche** of a being (also commonly known as a **soul**) refers to the abstract and immaterial essence that constitutes consciousness and the state of self. The psyche includes the mind (as a thinking, conscious entity), but excludes the brain (as a physical organ). Memories, personality, ambitions, and one's perception of themselves are believed to be kept within the psyche. It is from the psyche that [[Eidolons]] (including ghosts) are formed. Only certain [[animals]] and [[humans]] are known to have a psyche.
+The **psyche** of a being (also commonly known as a **soul**) refers to the abstract and immaterial essence that constitutes consciousness and the state of self. The psyche includes the mind (as a thinking, conscious entity), but excludes the brain (as a physical organ). Memories, personality, ambitions, and one's perception of themselves are believed to be kept within the psyche. It is from the psyche that [[Eidolons]] (including ghosts) are formed. Only certain [[Animals|animals]] and [[Humans|humans]] are known to have a psyche.
 
 The discipline of magic that studies the psyche (predominantly in the context of resurrection) is [[egersis]].
 
