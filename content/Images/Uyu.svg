@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="61.052494mm"
+   height="70.752884mm"
+   viewBox="0 0 61.052494 70.752884"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1"
+     transform="translate(-20.392914,-40.651848)">
+    <g
+       id="g16"
+       transform="matrix(1.0620804,0,0,1.0616121,-12.017669,0.34355458)"
+       style="stroke-width:0.941756">
+      <path
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#7aa3ca;fill-opacity:1;stroke:none;stroke-width:0.061214;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         d="M 44.887096,52.423382 30.516128,65.290321 V 94.032257 L 59.258064,104.61559 88.000003,94.032257 V 65.290321 L 73.629035,41.840049 Z"
+         id="path6" />
+      <path
+         id="rect1"
+         style="fill:#b2d8f9;fill-opacity:1;stroke:none;stroke-width:0.166115;stroke-linecap:square;stroke-linejoin:round;paint-order:fill markers stroke"
+         d="M 30.516129,65.290321 59.258066,75.873654 V 104.61559 L 30.516129,94.032259 Z" />
+      <path
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#90c2ed;fill-opacity:1;stroke:none;stroke-width:0.061214;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         d="M 59.258064,75.873654 30.516129,65.259823 59.258064,54.645992 88.000003,65.259823 Z"
+         id="path8" />
+      <path
+         id="path5"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#629ad8;fill-opacity:1;stroke:none;stroke-width:0.061214;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         d="M 73.629283,41.83957 44.887367,52.422904 59.258066,75.873152 v 28.742438 l 28.741917,-10.58334 2e-5,-28.741929 z" />
+      <path
+         id="path1"
+         style="fill:#3e85ce;fill-opacity:1;stroke:none;stroke-width:0.166115;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1;paint-order:fill markers stroke"
+         d="M 87.999983,65.290312 59.258046,75.873645 V 104.61558 L 87.999983,94.03225 Z" />
+      <path
+         id="path7"
+         style="fill:#b2d8f9;fill-opacity:1;stroke:none;stroke-width:0.166115;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1;paint-order:fill markers stroke"
+         d="M 73.629034,37.968945 44.887097,48.552278 v 3.871103 L 73.629034,41.84005 Z" />
+    </g>
+  </g>
+</svg>

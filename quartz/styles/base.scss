@@ -68,21 +68,21 @@ strong {
 }
 
 a {
-  font-weight: $semiBoldWeight;
-  text-decoration: none;
-  transition: color 0.2s ease;
-  color: var(--secondary);
+  //font-weight: $semiBoldWeight;
+  //text-decoration: none;
+  //transition: color 0.2s ease;
+  //color: var(--secondary);
 
   &:hover {
-    color: var(--tertiary) !important;
+    //color: var(--tertiary) !important;
   }
 
   &.internal {
-    text-decoration: none;
-    background-color: var(--highlight);
-    padding: 0 0.1rem;
-    border-radius: 5px;
-    line-height: 1.4rem;
+    //text-decoration: none;
+    //background-color: var(--highlight);
+    //padding: 0 0.1rem;
+    //border-radius: 5px;
+    //line-height: 1.4rem;
 
     &:has(> img) {
       background-color: none;
@@ -269,8 +269,8 @@ a {
 }
 
 .footnotes {
-  margin-top: 2rem;
-  border-top: 1px solid var(--lightgray);
+  //margin-top: 2rem;
+  //border-top: 1px solid var(--lightgray);
 }
 
 input[type="checkbox"] {

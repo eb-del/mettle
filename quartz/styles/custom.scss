@@ -1,3 +1,101 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+@media screen and (min-width:768px) {
+    .page {
+        max-width: 70%;
+        min-width: 70%;
+    }
+}
+
+footer {
+    font-family: Arial !important;
+    font-size: 0.75em !important;
+    text-align: left;
+    margin-bottom: 4rem;
+    opacity: 0.5;
+}
+
+sup { 
+    font-size: 0.7em !important;
+    vertical-align: top;
+    position: relative; 
+    top: -0.1em; 
+}
+
+a {
+    color: var(--secondary);
+    &:hover {
+        color: var(--tertiary) !important;
+     }
+    &.internal {
+        font-weight: 400!important;
+     }
+}
+
+.breadcrumb-element,
+p {
+    font-family: Arial !important;
+    font-size: 0.9em !important;
+    line-height:1.5em !important;
+    text-align: justify;
+    text-justify: inter-word;
+
+    & img {
+        margin: 0px;
+    }
+}
+
+ol,
+ul,
+{
+   font-family: Arial !important;
+   font-size: 0.9em !important;
+   line-height:1.5em !important;
+}
+
+.article-title {
+    padding-top: 0px;
+    font-weight: 500 !important;
+    font-size: 1.8em !important;
+}
+
+h1 {
+    font-family: Georgia !important;
+    font-weight: 500 !important;
+    font-size: 1.4em !important;
+    line-height:1em !important;
+    letter-spacing: 0.8px;
+
+    padding-top: 10px;
+    padding-bottom: 3px;
+    border-bottom: 0.2px solid #494949;
+}
+
+h2 {
+    font-family: Arial !important;
+    font-weight: 600!important;
+    font-size: 1em !important;
+    line-height:1em !important;
+}
+
+h2#footnote-label{
+  display: none;
+  border-bottom: none;
+}
+
+h3 {
+    font-family: Arial !important;
+    font-weight: 600!important;
+    font-size: 1em !important;
+    line-height:1em !important;
+    padding-bottom: 3px;
+}
+
+.toc {
+    & h3 {
+             font-family: Arial !important;
+             font-weight: 600!important;
+             font-size: 1.2em !important;
+             line-height:1em !important;
+    }
+}

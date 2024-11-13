@@ -14,8 +14,8 @@ export default ((opts?: Options) => {
     return (
       <footer class={`${displayClass ?? ""}`}>
         <p>
-          {i18n(cfg.locale).components.footer.createdWith}{" "}
-          <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
+A lore database by ebdel and the <i>Make & Mettle</i> community — <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}<br></br>
+All written works and images used in this site were made by either ebdel or members of the <i>Make & Mettle</i> community and are licensed under the <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> license.
         </p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
