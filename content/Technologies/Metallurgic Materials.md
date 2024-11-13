@@ -5,7 +5,7 @@ tags:
   - 
 ---
 
-**Metallurgic materials** refer to the principal materials of interest for [[metallurgy]], primarily metals and alloys.
+**Metallurgic materials** refer to the principal materials of interest for [[Metallurgy]], primarily metals and alloys.
 
 # Metals
 **Metals** are materials that are known for their hardness, luster, and ability to be worked (to be malleable and ductile).

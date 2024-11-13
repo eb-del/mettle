@@ -39,4 +39,4 @@ Necromancy and its widespread practice is strongly associated with the [[Thanata
 - [[Paramnestra]]
 
 # Footnotes
-[^man]:[[OOU]]: The term "mantis" comes from the Ancient Greek term, "mántis" (μάντις), which is the term for a soothsayer. This relates to the Ancient Greek term "manteíā" (μᾰντείᾱ) meaning divination, from which the Latin -mantīa is derived, and by extension the English -mancy suffix.
+[^man]: ![[Uyu.svg|12]] **[[OOU]]**:  The term "mantis" comes from the Ancient Greek term, "mántis" (μάντις), which is the term for a soothsayer. This relates to the Ancient Greek term "manteíā" (μᾰντείᾱ) meaning divination, from which the Latin -mantīa is derived, and by extension the English -mancy suffix.

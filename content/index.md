@@ -10,7 +10,7 @@ tags:
 - [[Races]]
 - [[Places]]
 - [[Magic]]
-- [[Technology]]
+- [[Technologies]]
 
 # Appendix
 - [[Themes]]
