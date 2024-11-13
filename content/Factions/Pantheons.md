@@ -17,4 +17,4 @@ A **pantheon**[^pan] is a [[Humans|human]]-defined set of—either or both—[[E
 - [[Eternals]]
 
 # Footnotes
-[^pan]: ![[Uyu.svg|12]] **[[OOU]]**:2]]](<OOU>)2]]](<OOU>) The English word "pantheon" comes from the Ancient Greek monument and temple, the "Pántheion" (Πάνθειον), whose is derived the Ancient Greek words "pân" (πᾶν), meaning all; and "theós" (θεός) meaning god.
+[^pan]: ![[Uyu.svg|12]] **[[OOU]]**: The English word "pantheon" comes from the Ancient Greek monument and temple, the "Pántheion" (Πάνθειον), whose is derived the Ancient Greek words "pân" (πᾶν), meaning all; and "theós" (θεός) meaning god.
