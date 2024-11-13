@@ -5,7 +5,7 @@ tags:
   - 
 ---
 
-**Kinesis** (whose practitioners are called **kinesists**) is the study and practice of [[magic]] as a means to manipulate kinetic energy. Typically, subdisciplines of kinesis can identified by their suffix of *-kinesis*. 
+**Kinesis** (whose practitioners are called **kinesists**) is the study and practice of [[Magic|magic]] as a means to manipulate kinetic energy. Typically, subdisciplines of kinesis can identified by their suffix of *-kinesis*. 
 
 # Subdisciplines
 ## Stasis

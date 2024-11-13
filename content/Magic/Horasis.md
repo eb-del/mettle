@@ -5,7 +5,7 @@ tags:
   - 
 ---
 
-**Horasis**[^hor] (whose practitioners are called **horasists**, or more popularly, **seers**) is the study and practice of using [[magic]] as a means to see great distances away, even beyond the horizon. Horasis contrasts strongly the disciplines of [[diagnosis]] (the use of magic for hindsight) and [[mantis]] (the use of magic for foresight).
+**Horasis**[^hor] (whose practitioners are called **horasists**, or more popularly, **seers**) is the study and practice of using [[Magic|magic]] as a means to see great distances away, even beyond the horizon. Horasis contrasts strongly the disciplines of [[Diagnosis|diagnosis]] (the use of magic for hindsight) and [[Mantis|mantis]] (the use of magic for foresight).
 
 # Subdisciplines
 ## Oric horasis

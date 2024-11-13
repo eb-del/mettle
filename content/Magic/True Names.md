@@ -7,17 +7,17 @@ tags:
 
 A **true name** is the unique name of an item, idea, or being that expresses, or is somehow identical to, its true nature. This contrasts the **given name**, which is a name that is taught or created through language, and are not guaranteed to be unique.
 
-The [[Humans|human]] study of magic that seeks to understand and catalog true names is called **onomastics**[^ono] (whose practitioners are called **onomasticians**). Onomastics and [[Thaumic Field|thaumaturgy]] form the combined discipline of magic called [[cryptothesis]].
+The [[Humans|human]] study of magic that seeks to understand and catalog true names is called **onomastics**[^ono] (whose practitioners are called **onomasticians**). Onomastics and [[Thaumic Field|thaumaturgy]] form the combined discipline of magic called [[Cryptothesis|cryptothesis]].
 
-True names are written using [[Hitturpyx]].
+True names are encoded and shared using [[Hitturpyx]].
 
 # Properties
-All items, ideas, and beings—that have existed, do exist, or will eventually come to exist—have a true name that is unique, untransferable, and independent of all language. A true name is unchangeable and exists in all [[Places#Planes|plane of existence]] across all modes of existence. Nearly all things or beings in all of existence have their true name hidden from all knowledge, with the true name instead encoded into the fabric of reality itself.
+All items, ideas, and beings—that have existed, do exist, or will eventually come to exist—have a true name that is unique, untransferable, and independent of all language. A true name is unchangeable and exists in all [[Places#Planes|planes of existence]] across all modes of existence. Nearly all things or beings in all of existence have their true name hidden from all knowledge, with the true name instead encoded into the fabric of reality itself.
 
 ## Divisibility
 All things can be divided into smaller components. Therefor, all components and combinations of components have distinct and unique true names. For any given being, there is an infinite number of true names for all components and combinations of components that constitute that being. To know the true name of the being as a whole, naturally grants knowledge of all subordinate true names.
 
-All things can be grouped into groups of any size. Therefor, there exists true names for all groups of items or beings. By extension, there exists one true name that describes all things everywhere, granting knowledge of all true names in existence. This true name as an onomastic concept has a title, the **Panonoma**[^pan]. 
+All things can be grouped into groups of any size. Therefor, there exists true names for all groups of items or beings. By extension, there exists one true name that describes all things, everywhere, and across all time, granting knowledge of all true names in existence. This true name as an onomastic concept has a title, the **Panonoma**[^pan]. 
 
 To discover the Panonoma is considered the ultimate goal of onomastics.
 

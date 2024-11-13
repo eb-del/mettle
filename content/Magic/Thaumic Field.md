@@ -5,12 +5,12 @@ tags:
   - 
 ---
 
-The **thaumic field**[^qft][^thau] (sometimes called the **ether**) is an empirically-motivated quantitative and spatial description of [[magic]].  
+The **thaumic field**[^qft][^thau] (sometimes called the **ether**) is an empirically-motivated quantitative and spatial description of [[Magic|magic]].  
 
-The [[Humans|human]] quantitative study of the the thaumic field is called **thaumaturgy**[^thau] (also known as **thaumatology**; whose practitioners are known as **thaumaturgists**). Thaumaturgy and [[True Names|onomastics]] form the discipline of magic called [[cryptothesis]].
+The [[Humans|human]] quantitative study of the the thaumic field is called **thaumaturgy**[^thau] (also known as **thaumatology**; whose practitioners are known as **thaumaturgists**). Thaumaturgy and [[True Names|onomastics]] form the discipline of magic called [[Cryptothesis|cryptothesis]].
 
 # Description
-The thaumic field is best understood as an invisible, intangible "air" (hence ether) that permeates across the [[Seath|world]]. This field can have loci (also called potentials), in which the magnitude or concentration of thaumic energy  can vary from the average energy across the entire field. Unbenkownst to humanity (requiring further advances in physics and mathematics), the thaumic field is analogous to other fields such as electric fields, magnetic fields, gravitational fields.
+The thaumic field is best understood as an invisible, intangible "air" (from which the word "ether" is derived) that permeates across the [[Seath|world]]. This field can have loci (also called potentials), in which the magnitude or concentration of thaumic energy  can vary from the average energy across the entire field. Unbenkownst to humanity (requiring further advances in physics and mathematics), the thaumic field is analogous to other fields such as electric fields, magnetic fields, gravitational fields.
 
 ## Sandbox Analogy
 A two-dimensional analogy often used to teach the concept of the thaumic field is a box of sand. The thaumic field has a natural tendency to be uniform and flat, shown by shaking the container of sand until it is level. To wield magic in the way many people recognize—some supernatural effect—hills and divots can be made in the sand. It is considered an important fact to note is that no sand is added or removed from the box, simply shifted around and made into different forms. Marbles are sometimes introduced to illustrate the thaumic field's relationship with the physical world. Marbles represent some physical phenomena, like heat or material; multiple marbles gathering in a divot in the sand is akin to concentrating heat in [[Kinesis#Pyrokinesis|pyrokinesis]].

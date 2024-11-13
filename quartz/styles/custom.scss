@@ -18,40 +18,33 @@
     }
 }
 
-ul.tags,
-hr {
-    display: none;
-}
-
 footer {
-    font-family: Arial !important;
-    font-size: 0.75em !important;
+    font-family: Arial;
+    font-size: 0.75em;
     text-align: left;
     margin-bottom: 4rem;
     opacity: 0.5;
 }
 
-sup { 
-    font-size: 0.7em !important;
+sup {
+    font-size: 0.7em;
     vertical-align: top;
-    position: relative; 
-    top: -0.1em; 
+    position: relative;
+    top: -0.1em;
 }
 
 a {
     color: var(--secondary);
+    text-decoration: none;
     &:hover {
-        color: var(--tertiary) !important;
+        color: var(--tertiary);
      }
-    &.internal {
-        font-weight: 400 !important;
-     }
-}
 
-#search-container,
-#search-space,
-.search {
-    border-radius: 0px  !important;
+}
+div.desc{
+    & a.internal {
+        font-weight: 400;
+    }
 }
 
 .breadcrumb-element,
@@ -68,12 +61,23 @@ p {
     }
 }
 
+ul.tags,
+hr {
+    display: none;
+}
+
 ol,
 ul,
 {
-   font-family: Arial !important;
-   font-size: 0.9em !important;
-   line-height:1.5em !important;
+   font-family: Arial;
+   font-size: 0.9em ;
+   line-height: 1.5em;
+}
+
+ul.no-bullets {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
 
 .footnotes {
@@ -85,8 +89,8 @@ ul,
 .article-title {
     padding-top: 0px;
     margin-top: 20px;
-    font-weight: 500 !important;
-    font-size: 1.8em !important;
+    font-weight: 500;
+    font-size: 1.8em;
 }
 
 .content-meta {
@@ -94,10 +98,10 @@ ul,
 }
 
 h1 {
-    font-family: Georgia !important;
-    font-weight: 500 !important;
-    font-size: 1.4em !important;
-    line-height:1em !important;
+    font-family: Georgia;
+    font-weight: 500;
+    font-size: 1.4em;
+    line-height:1em;
     letter-spacing: 0.8px;
 
     padding-top: 10px;
@@ -106,10 +110,10 @@ h1 {
 }
 
 h2 {
-    font-family: Arial !important;
-    font-weight: 600!important;
-    font-size: 1em !important;
-    line-height:1em !important;
+    font-family: Arial;
+    font-weight: 600;
+    font-size: 1em;
+    line-height:1em;
 }
 
 h2#footnote-label {
@@ -118,18 +122,18 @@ h2#footnote-label {
 }
 
 h3 {
-    font-family: Arial !important;
-    font-weight: 600!important;
-    font-size: 1em !important;
-    line-height:1em !important;
+    font-family: Arial;
+    font-weight: 600;
+    font-size: 1em;
+    line-height:1em;
     padding-bottom: 3px;
 }
 
 .toc {
     & h3 {
-             font-family: Arial !important;
-             font-weight: 600!important;
-             font-size: 1.2em !important;
-             line-height:1em !important;
+        font-family: Arial;
+        font-weight: 600;
+        font-size: 1.2em;
+        line-height:1em;
     }
 }

@@ -5,9 +5,9 @@ tags:
   - 
 ---
 
-**Diagnosis**[^diag] (whose practitioners are called **diagnosists**, or more popularly, **memorists**) is the study and practice of using [[magic]] as a means to appraise information and recall past events (hindsight), particularly those outside the experiences of the practitioner. 
+**Diagnosis**[^diag] (whose practitioners are called **diagnosists**, or more popularly, **memorists**) is the study and practice of using [[Magic|magic]] as a means to appraise information and recall past events (hindsight), particularly those outside the experiences of the practitioner. 
 
-Diagnosis contrasts strongly the disciplines of [[mantis]] (the use of magic for foresight) and [[horasis]] (the use of magic for far-sight). Diagnosis is also distinct from [[True Names|onomastics]], identification and recognition by the use of true names.
+Diagnosis contrasts strongly the disciplines of [[Mantis|mantis]] (the use of magic for foresight) and [[Horasis|horasis]] (the use of magic for far-sight). Diagnosis is also distinct from [[True Names|onomastics]], identification and recognition by the use of true names.
 
 # Subdisciplines
 ## Scourge-sight

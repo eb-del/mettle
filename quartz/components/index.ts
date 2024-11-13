@@ -21,6 +21,9 @@ import RecentNotes from "./RecentNotes"
 import Breadcrumbs from "./Breadcrumbs"
 import Comments from "./Comments"
 
+// Import ebdel's Components
+import CustomUtil from "./CustomUtil"
+
 export {
   ArticleTitle,
   Content,
@@ -44,4 +47,7 @@ export {
   NotFound,
   Breadcrumbs,
   Comments,
+
+  // Export ebdel's Components
+  CustomUtil,
 }
