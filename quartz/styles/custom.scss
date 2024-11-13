@@ -1,10 +1,25 @@
 @use "./base.scss";
+@use "./variables.scss" as *;
 
 @media screen and (min-width:768px) {
     .page {
         max-width: 70%;
         min-width: 70%;
     }
+
+    [saved-theme=light] article {
+        outline: 0.5px solid var(--lightgray);
+        padding: 35px;
+    }
+
+    [saved-theme=dark] article {
+        outline: 0.5px solid #494949;
+        padding: 35px;
+    }
+}
+
+hr {
+    display: none;
 }
 
 footer {
@@ -34,6 +49,7 @@ a {
 
 .breadcrumb-element,
 p {
+    margin-top: 0px;
     font-family: Arial !important;
     font-size: 0.9em !important;
     line-height:1.5em !important;
@@ -55,8 +71,13 @@ ul,
 
 .article-title {
     padding-top: 0px;
+    margin-top: 20px;
     font-weight: 500 !important;
     font-size: 1.8em !important;
+}
+
+.content-meta {
+    margin-bottom: 20px;
 }
 
 h1 {
