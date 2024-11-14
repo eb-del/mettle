@@ -9,7 +9,7 @@ tags:
 
 # Features
 ## Physiology
-When comparing outward features between the Manutoa and [[Heorthwyrhtas|common humans]], Manutoa are slightly taller, with a leaner physique, and a tendency towards a darker pigmentation of the hair and skin (owing to their high-altitude lifestyles and exposure to the sun's radiation). 
+When comparing outward features between the Manutoa and [[Harthwrichts|common humans]], Manutoa are slightly taller, with a leaner physique, and a tendency towards a darker pigmentation of the hair and skin (owing to their high-altitude lifestyles and exposure to the sun's radiation). 
 
 The Manutoa's primary uniqueness in physiology is in their internal organs. Their bones are different, lighter than that of a humans. Their muscles are highly efficient, able to produce greater force per unit of bodymass. A Manutoa's heart is highly adaptable; their cardiovascular system is optimized to compensate for drastic changes in heart rate and blood pressure. This allows a Manutoa to maintain adequate blood flow at a variety of altitudes. Manutoa have a natural resistance to forces imposed by acceleration, able to maintain consciousness even while performing aggressive aerial acrobatics. 
 

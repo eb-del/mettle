@@ -14,7 +14,7 @@ Of the five Thanatan eternals, only Nycta provided written works to the disciple
 
 A common belief among disciples of the pantheon is that none of the five Thanatan eternals inherently represent an ethical or moral death. Thanatan disciples believe that no single manner of death (and by extension, no single Thanatan eternal) should be preferred or sought after, fearing that one would be granted the opposite. Instead, Thanatan disciples instead teach individuals to seek a more ambiguous "worthy death" (granting access to the Thanatan [[Afterlife]]), which can only be obtained by thorough appreciation of one's own life, and fulfillment of one's living purpose.
 
-The largest cohesive group of [[Egersis|evocators]] and [[Mantis#Necromancy|necromancers]] are among the Thanatan disciples. The largest institution of Thanatan disciples is known as the [[Acheriom#Letheia|Letheia]], situated in the heart of [[Acheriom]].
+The largest cohesive group of [[Egersis|evocators]] and [[Mantis#Necromancy|necromancers]] are among the Thanatan disciples. The largest institution of Thanatan disciples is known as the [[Letheia]], situated in the heart of [[Acheriom]].
 
 ## Archiaters
 An **archiater**[^arc] is a deceased member of the Thanatan discipleship who has been posthumously granted institution-wide endorsement and sanctification, due to their contributions to the study of evocation and necromancy. 

@@ -5,7 +5,7 @@ tags:
   - 
 ---
 
-**Mantis**[^man] (whose practitioners are called **mantists** or **mancers**) is the study of [[Magic|magic]] as a means for foretelling future events. Typically, subdisciplines of mantis can identified by their suffix of *-mancy*. Mantis is also popularly known as **divination** (whose practitioners are called **diviners**). Mantis contrasts strongly the disciplines of [[Diagnosis|diagnosis]] (the use of magic for hindsight) and [[Horasis|horasis]] (the use of magic for far-sight).
+**Mantis**[^man] (whose practitioners are called **mantists** or **mancers**) is the study of [[Magic|magic]] as a means for foretelling future events. Typically, subdisciplines of mantis can identified by their suffix of "-mancy". Mantis is also popularly known as **divination** (whose practitioners are called **diviners**). Mantis contrasts strongly the disciplines of [[Diagnosis|diagnosis]] (the use of magic for hindsight) and [[Horasis|horasis]] (the use of magic for far-sight).
 
 Of all magic subdisciplines, Mantis is the most beholden to tradition and folk practice, due to the timeless importance of predictive magic. Many present-day groups of people owe their survival to the foresight of mancers in their ancestry.
 

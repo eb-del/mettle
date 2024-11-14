@@ -35,7 +35,7 @@ There are many disciplines in the study and practice of magic.
 **Obscurities** are any form of magic that evade all attempts at human understanding and replication. Unlike the disciplines, obscurities cannot be taught or gifted outright, but rather appear and disappear as a raw, anomalous phenomena. 
 
 - [[Quirk Magic]]
-- [[Wandrianhvima]]
+- [[Wanderwhimsy]]
 
 # Further Reading
 - [[index|Make and Mettle]]

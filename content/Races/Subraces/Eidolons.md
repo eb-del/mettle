@@ -25,6 +25,6 @@ As a manifestation of the psyche, eidolons can produce a phenomena similar to [[
 - [[Psyche]]
 
 # Footnotes
-[^eid]: ![[Uyu.svg|12]] **[[OOU]]**:]**:]**: The English word "eidolon" comes from the Ancient Greek word "eídōlon" (εἴδωλον), meaning a figure, a representation. The term has roots in the Ancient Greek word "eîdos" (εἶδος) meaning sight. 
+[^eid]: ![[Uyu.svg|12]] **[[OOU]]**: The English word "eidolon" comes from the Ancient Greek word "eídōlon" (εἴδωλον), meaning a figure, a representation. The term has roots in the Ancient Greek word "eîdos" (εἶδος) meaning sight. 
 
 [^thor]:![[Uyu.svg|12]] **[[OOU]]**: The English word "thorybism" has origins in the Ancient Greek word "thórubos" (θόρυβος), meaning noise, tumult, confusion, uproar. The term thorybism was originally coined by parapsychologist René Sudre. Variations of onomatopoeic German word "poltern"—such as in the more common English word "poltergeist"—were not used due to poltern's relationship to boulders (to rumble).  

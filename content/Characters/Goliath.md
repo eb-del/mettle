@@ -5,9 +5,10 @@ tags:
   - 
 ---
 
-**Goliath** is a pureblooded millipede [[Primordials|primordial]], residing within the catacombs of the [[Thanatan Pantheon#Letheia|Letheia]]. Unlike other primordials, Goliath does not form blood pacts with humanity, instead sustaining itself (and its atrophying [[Psyche|psyche]]), by devouring the [[Ephemerals#Eidolons|ghosts]] that wander the catacombs.
+**Goliath** is a pureblooded millipede [[Primordials|primordial]], residing within the catacombs of the [[Letheia]]. Unlike other primordials, Goliath does not form blood pacts with humanity, instead sustaining itself (and its atrophying [[Psyche|psyche]]), by devouring the [[Ephemerals#Eidolons|ghosts]] that wander the catacombs.
 
-# Personality
+# Description
+## Personality
 >"You mistake me for [[Python]], I'm afraid. A foolish mistake, really. The sound of countless footsteps should've given me away."
 >— Goliath, in response to the ghost of an [[Orisir|Orisirian]] merchant
 

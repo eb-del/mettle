@@ -10,7 +10,7 @@ tags:
 # Legacy
 
 ## Thanatothesis
-Paramnestra, for most of her life, was an evocator (egersist) residing within the [[Acheriom#Letheia|Letheia]], the largest institution devoted to the Thanatan pantheon. During her time there, Paramnestra would become lovers with a scribe by the name of [[Themis]]. Themis would later die of an unknown illness, leading Paramnestra to become reclusive and isolated for the remainder of her years, entranced in prayer within the deepest tomb of the Letheia.
+Paramnestra, for most of her life, was an evocator (egersist) residing within the [[Letheia]], the largest institution devoted to the Thanatan pantheon. During her time there, Paramnestra would become lovers with a scribe by the name of [[Themis]]. Themis would later die of an unknown illness, leading Paramnestra to become reclusive and isolated for the remainder of her years, entranced in prayer within the deepest tomb of the Letheia.
 
 A year after Themis' death, Letheia presented fifteen clay tablets to her fellow disciples. These fifteen clay tablets were collectively known as the *Thanatothesis*[^thano], and detailed various techniques to commune with the deceased that have departed for the [[Afterlife]]. Paramnestra would then go on to demonstrate the techniques in order to briefly communicate with the departed essence of [[Themis]]. At the time, this was considered a blasphemy in the Thanatan pantheon, as it was believed that once a psyche had departed for the afterlife, it had severed any binds to the living world—a state that many disciples believed should be sacred and untresspassed. 
 

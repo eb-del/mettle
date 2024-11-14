@@ -9,7 +9,7 @@ tags:
 
 # Features
 ## Physiology
-A mysterious subrace of human, Galateans are born from statues baring the human form, particularly that of [[Heorthwyrhtas]] . Galateans emerge indistinguishable from their a regular human, aside from a subtle discoloration pattern on their skin that resembles the veins in their source marble. 
+A mysterious subrace of human, Galateans are born from statues baring the human form, particularly that of [[Harthwrichts]] . Galateans emerge indistinguishable from their a regular human, aside from a subtle discoloration pattern on their skin that resembles the veins in their source marble. 
 
  It is impossible to create a Galatean purposefully, as the statues they are born from are often neglected, unseen, and forgotten from memory. A Galatean's age at birth depends on that which is depicted by their statue; the statue of a child produces a child, the statue of an adult produces an adult. Any damage to a statue is not reflected in the produced individual; as though the newborn Galatean is the perfect image that the original sculptor attempted to capture in stone. Statues are often made of noteworthy people, as a result, Galateans often bare a resemblance to some important figure—though they are often quick to find some level of individual expression in their hair, dress, and stylings.
 

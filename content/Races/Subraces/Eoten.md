@@ -9,7 +9,7 @@ tags:
 
 # Features
 ## Physiology
-Eoten are the largest of the human subraces, standing nearly twice as tall as the [[Heorthwyrhtas|average human]]. They are known for a tendency towards a bulkier physique—some are as wide as they are tall. They are capable of superhuman feats of strength and durability. Eoten eat a large and diverse diet, capable of consuming and efficiently digesting foods otherwise impossible for other subraces of human, rivaled only by the [[Ungin|bearkin]]. Their diet is protein rich, consisting of fish, insects, and—on occasion—red meat.
+Eoten are the largest of the human subraces, standing nearly twice as tall as the [[Harthwrichts|average human]]. They are known for a tendency towards a bulkier physique—some are as wide as they are tall. They are capable of superhuman feats of strength and durability. Eoten eat a large and diverse diet, capable of consuming and efficiently digesting foods otherwise impossible for other subraces of human, rivaled only by the [[Ungin|bearkin]]. Their diet is protein rich, consisting of fish, insects, and—on occasion—red meat.
 
 Eoten are most often born as the offspring between two Eoten; rarely are relations between Eoten and smaller human subraces productive. Eoten have a tendency to produce precisely two children in their familial units, leading to their overall population declining when compared to other human subraces. Eoten, however, are very venerable, with many having lifespans triple or quadruple that of another human.
 

@@ -7,6 +7,7 @@ tags:
 
 **Khimore**[^khi] is a legendary horse [[Primordials#Chimeras|chimera]], emblematic of the [[Farasia|Farasian people]].
 
+# Description
 # Further Reading
 - [[Primordials]]
 

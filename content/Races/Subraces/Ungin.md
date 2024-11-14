@@ -9,7 +9,7 @@ tags:
 
 # Features
 ## Physiology
-In their humanoid form, Ungin are indistinguishable from the [[Heorthwyrhtas|average human]], aside from a tendency towards denser hair of the head and body.
+In their humanoid form, Ungin are indistinguishable from the [[Harthwrichts|average human]], aside from a tendency towards denser hair of the head and body.
 
 The shapeshifting process of an Ungin is magical in nature; one of the naturally occurring versions of true and perfect [[morphosis]]. The transformation is akin to reconciling the two modes of the Ungin [[psyche]]. Ungin are best described as having two bodies to which they switch between freely: one that is completely human, and one that is completely bear. There is no middle-ground or half-changed state for an Ungin. 
 
@@ -19,7 +19,7 @@ An Ungin's human hair color corresponds to the color of their bear form's fur.
 
 Ungin are omnivorous, favoring a highly variable diet. Ungin are capable of eating raw meat in either form, though cooked meat is universally preferred. Nutrition is important to an Ungin, as their ability to maintain their bear form relies on being well-fed. A starving Ungin is unable to shapeshift, often returning to their human form (which has lower nutritional demands than their bear form). Most Ungin prefer to eat their meals in human form.
 
-Ungin are born as the offspring of any coupling where one or both of the parents are also Ungin. In mixed-subrace unions, the likelihood of producing a purely Ungin child is twice that of producing a child of another subrace. This prevalence in genetic probability leads to a steady increase in the Ungin population, balanced only by the Ungin preference for three or fewer offspring. There are no Ungin half-breeds; if a parent of an Ungin is of another subrace, only [[Humans#Common Features|heorthwyrhtic features]] are imparted.
+Ungin are born as the offspring of any coupling where one or both of the parents are also Ungin. In mixed-subrace unions, the likelihood of producing a purely Ungin child is twice that of producing a child of another subrace. This prevalence in genetic probability leads to a steady increase in the Ungin population, balanced only by the Ungin preference for three or fewer offspring. There are no Ungin half-breeds; if a parent of an Ungin is of another subrace, only [[Humans#Common Features|common features]] are imparted.
 
 ## Personality
 Ungin have a heightened sense of proportionality of self, understanding clearly how much space their bodies occupy. Ungin have a tendency to keep away from narrow or cramped spaces, and will often give others a wide berth. Some Ungin get irritable in crowded areas or if their personal space is invaded. The extremes of this natural tendency can manifest as claustrophobia or agoraphobia.
