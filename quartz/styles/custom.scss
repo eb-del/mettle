@@ -1,6 +1,8 @@
 @use "./base.scss";
 @use "./variables.scss" as *;
 
+// Also see quartz/component/styles
+
 @media screen and (min-width:768px) {
     .page {
         max-width: 70%;
@@ -36,10 +38,6 @@ sup {
 a {
     color: var(--secondary);
     text-decoration: none;
-    &:hover {
-        color: var(--tertiary);
-     }
-
 }
 div.desc{
     & a.internal {
@@ -50,9 +48,9 @@ div.desc{
 .breadcrumb-element,
 p {
     margin-top: 0px;
-    font-family: Arial !important;
-    font-size: 0.9em !important;
-    line-height:1.5em !important;
+    font-family: Arial;
+    font-size: 0.9em;
+    line-height: 1.5em;
     text-align: justify;
     text-justify: inter-word;
 
@@ -127,13 +125,4 @@ h3 {
     font-size: 1em;
     line-height:1em;
     padding-bottom: 3px;
-}
-
-.toc {
-    & h3 {
-        font-family: Arial;
-        font-weight: 600;
-        font-size: 1.2em;
-        line-height:1em;
-    }
 }

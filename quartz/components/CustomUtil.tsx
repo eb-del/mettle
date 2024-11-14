@@ -18,7 +18,7 @@ const CustomUtil: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps
         </li>
         <li>
           <a href = "" class = {classNames(displayClass, "utilDarkToggle")} id = "utilDarkToggle">
-            Switch to dark mode
+            Switch to dark theme
           </a>
         </li>
       </ul>

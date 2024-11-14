@@ -5,13 +5,21 @@
   flex-direction: column;
 
   &.desktop-only {
-    max-height: 40%;
+    max-height: none;
   }
 }
 
 @media all and not ($mobile) {
-  .toc {
-    display: flex;
+  [saved-theme=light] .toc {
+      outline: 0.5px solid var(--lightgray);
+      padding: 15px;
+      display: flex;
+  }
+
+  [saved-theme=dark] .toc {
+      outline: 0.5px solid #494949;
+      padding: 15px;
+      display: flex;
   }
 }
 
@@ -26,14 +34,16 @@ button#toc {
   align-items: center;
 
   & h3 {
-    font-size: 1rem;
-    display: inline-block;
-    margin: 0;
+    font-family: Arial;
+    font-weight: 600;
+    font-size: 1.2em;
+    line-height: 1em;
+    margin: 0px;
   }
 
   & .fold {
     margin-left: 0.5rem;
-    transition: transform 0.3s ease;
+    //transition: transform 0.3s ease;
     opacity: 0.8;
   }
 
@@ -47,17 +57,17 @@ button#toc {
   overflow: hidden;
   overflow-y: auto;
   max-height: 100%;
-  transition:
-    max-height 0.35s ease,
-    visibility 0s linear 0s;
+  //transition:
+    //max-height 0.35s ease,
+    //visibility 0s linear 0s;
   position: relative;
   visibility: visible;
 
   &.collapsed {
     max-height: 0;
-    transition:
-      max-height 0.35s ease,
-      visibility 0s linear 0.35s;
+    //transition:
+      //max-height 0.35s ease,
+      //visibility 0s linear 0.35s;
     visibility: hidden;
   }
 
@@ -67,17 +77,21 @@ button#toc {
 
   & ul {
     list-style: none;
-    margin: 0.5rem 0;
+    margin-top: 10px;
+    margin-bottom: 0px;
     padding: 0;
     & > li > a {
       color: var(--dark);
       opacity: 0.35;
-      transition:
-        0.5s ease opacity,
-        0.3s ease color;
+      //transition:
+        //0.5s ease opacity,
+        //0.3s ease color;
       &.in-view {
         opacity: 0.75;
       }
+    }
+    & li {
+      margin: 0px;
     }
   }
   > ul.overflow {
