@@ -14,8 +14,8 @@ It is believed by many that magic is not native to [[Seath]], acting in oppositi
 # Disciplines
 There are many disciplines in the study and practice of magic, many intersecting and overlapping.
 
-## [[Magagora#College of Magic|Magagoric]] Disciplines
-The division of disciplines according to the college of magic in [[Magagora]] is as follows:
+## Magagoric Disciplines
+The division of disciplines according to the [[Magagora#College of Magic|college of magic]] in Magagora is as follows:
 
 - [[Alchemy]], transmutation using magic
 - [[Antimagic]], countering and dispelling magic
