@@ -5,12 +5,17 @@ tags:
   - 
 ---
 
+> The ability to understand magic requires years of patience, decades of devotion, a lifetime of study. The ability to wield magic, much to our dismay, requires either unknowable aptitude or lucky happenstance. — Agamon, Basil of [[Magagora]].
+
 To the average person, **magic**[^mag] (also known as **sorcery**[^sorc]) broadly encompasses all mysterious and supernatural phenomena. To more empirically-minded practitioners of magic, there exists a more precise description of magic: as the behaviors and nuances of the [[Thaumic Field|thaumic field]].
 
 It is believed by many that magic is not native to [[Seath]], acting in opposition to the natural order of the world. It is believed that magic stems from the otherworldly intervention of the [[Races#Actors and Agents|actor races]]; that magic is native to elsewhere. In [[Humans|humans]] (and certain species of [[Animals|animal]]), magic has the unique property of interfacing with the [[Psyche|psyche]] or soul—a fundamental relationship at the core of all forms of sorcery. 
 
-# Disciplines of Magic
-There are many disciplines in the study and practice of magic. 
+# Disciplines
+There are many disciplines in the study and practice of magic, many intersecting and overlapping.
+
+## [[Magagora#College of Magic|Magagoric]] Disciplines
+The division of disciplines according to the college of magic in [[Magagora]] is as follows:
 
 - [[Alchemy]], transmutation using magic
 - [[Antimagic]], countering and dispelling magic
@@ -25,8 +30,10 @@ There are many disciplines in the study and practice of magic.
 - [[Poiesis]], magic into matter
 
 # Obscurities
-**Obscurities** are any form of magic that evade all attempts at human understanding and replication. Unlike the disciplines, obscurities cannot be taught or gifted outright, but rather appear and disappear as a raw, anomalous phenomena. 
+**Obscurities** are any form of magic that evade all attempts at human understanding and replication. Unlike the disciplines—which are studied extensively—obscurities cannot be taught or gifted outright, but rather manifest as a raw, anomalous phenomena. 
 
+- [[Ensoulment]]
+- [[True Names]]
 - [[Quirk Magic]]
 - [[Wanderwhimsy]]
 

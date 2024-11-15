@@ -18,3 +18,5 @@ The central governing body of the Orisir is a council of elders, comprised of th
 # Further Reading
 - [[Polities]]
 - [[Lineages]]
+
+# Footnotes

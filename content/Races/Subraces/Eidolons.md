@@ -27,7 +27,7 @@ When an eidolon tries to possess another living being, their psyche entwines wit
 [[Psychopomps]] are also capable of possession, but are not required to do so in order to extend their worldly tenure.
 
 ## Thorybism
-As a manifestation of the psyche, eidolons can produce a phenomena similar to [[Psyche#Ensoulment|ensoulment]], in an anomalous disturbance called a **thorybism**[^thor]. In a thorybism, inanimate objects around an eidolon are tossed, moved, or destroyed, typically in a loud and noisy disturbance. Unlike ensoulment, a thorybism is far more temporary, as whatever temporary magic imbued upon effected objects rapidly dissipates. Thorybisms often occur in eidolons exhibiting overflowing with the extremes of emotion, typically wrath or grief. Often thorybisms are involuntary, and rarely do eidolons cause a thorybism purposefully.
+As a manifestation of the psyche, eidolons can produce a phenomena similar to [[Ensoulment|ensoulment]], in an anomalous disturbance called a **thorybism**[^thor]. In a thorybism, inanimate objects around an eidolon are tossed, moved, or destroyed, typically in a loud and noisy disturbance. Unlike ensoulment, a thorybism is far more temporary, as whatever temporary magic imbued upon effected objects rapidly dissipates. Thorybisms often occur in eidolons exhibiting overflowing with the extremes of emotion, typically wrath or grief. Often thorybisms are involuntary, and rarely do eidolons cause a thorybism purposefully.
 
 # Further Reading
 - [[Ephemerals]]

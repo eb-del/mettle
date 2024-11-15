@@ -10,7 +10,8 @@ A **polity**[^pol] is a group of individuals, typically [[humans]], that have fo
 ## [[Humans|Human]]
 - [[Acheriom]], a ruined human city-state
 - [[Farasia]], a human tribal confederacy
-- The [[Orisir]], a human city-state and mountain hegemon
+- [[Magagora]], a human magocratic city-state 
+- The [[Orisir]], a human city-state and [[Parnithine Mountains|Parnithine]] hegemon
 - [[Saramnatia]], a human city-state and coastal hegemon
 
 # Further Reading

@@ -13,7 +13,7 @@ All eternals operate on separate planes of existence to the [[Seath|world]], abi
 
 It is unclear to humanity whether their mortal perspective can capture the true and complete nature of the eternals; some eternals possess a power far greater than what has been shown humans, while others have their role, reach, and interest in the world vastly overstated. 
 
-Despite their potential for great power, however, none have managed to overcome the [[World Soul#Evicting Force|pressure]] imposed by the [[World Soul|world soul]]. Eternals visiting Seath constantly risk enfeeblement or banishment to their original plane. Some eternals accept enfeeblement willingly to be among humanity, such as [[Gureumnim]], the cloud herald.
+Despite their potential for great power, however, none have managed to overcome the [[World Soul#Evicting Force|pressure]] imposed by the [[World Soul|world soul]]. Eternals visiting Seath constantly risk enfeeblement or banishment to their original plane. Some eternals accept enfeeblement willingly to be among humanity, such as [[Gureumnim]].
 
 ## Common Features
 There are a handful of features common to all eternals. 

@@ -15,7 +15,7 @@ The health of the world soul provides direct insight upon balance of nature. Som
 ## Evicting Force
 The world soul imposes a conscious, willing, and deliberate evicting force that weakens the presence and influence of the [[Races#Actors and Agents|actor races]], not dissimilar to an immune system responding to pathogens.
 
-[[Ephemerals]] born from the psyche (such as [[Eidolons|eidolons]]) are compelled to be sent to the [[Afterlife|afterlife]]. Other classes of ephemeral are gradually eroded or outright evaporated, and returned to the [[Thaumic Field|ether]]. [[Eternals]] are compelled to return to their original [[Places#Planes|planes of existence]], or risk losing their immortality or godly potency. [[Primordials]] become subject to derangement and disfigurement, the presence of the world soul toxic to them.
+[[Ephemerals]] born from the psyche (such as [[Eidolons|eidolons]]) are compelled to be sent to the [[Afterlife|afterlife]]—others are gradually eroded and returned to the [[Thaumic Field|ether]]. [[Eternals]] are compelled to return to their original [[Places#Planes|planes of existence]], or risk losing their immortality and godly potency. [[Primordials]] become subject to derangement and disfigurement, the presence of the world soul toxic to them.
 
 # Further Reading
 - [[Magic]]

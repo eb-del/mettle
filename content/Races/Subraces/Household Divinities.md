@@ -8,7 +8,7 @@ tags:
 **Household divinities** are a subrace of [[Ephemerals#Spirits|ephemeral spirit]], known for living in household earthenware vessels, such as lidded pots, jars, urns, and ovens, granting those vessels supernatural properties.
 
 # Description
-Household divinities are invisible and immaterial. They have very little ability to interact with the physical world, yet produce phenomena extremely similar to (and often mistaken for) [[Psyche#Ensoulment|ensoulment]] or [[quirk magic]]. For this reason, household divinities are also often mistaken for [[wisps]]. Unlike wisps, however, household divinities exhibit a personality, a social tendency, an individual consciousness, an understanding of property, and a sense of courtesy. 
+Household divinities are invisible and immaterial. They have very little ability to interact with the physical world, yet produce phenomena extremely similar to (and often mistaken for) [[Ensoulment|ensoulment]] or [[Quirk Magic]]. For this reason, household divinities are also often mistaken for [[wisps]]. Unlike wisps, however, household divinities exhibit a personality, a social tendency, an individual consciousness, an understanding of property, and a sense of courtesy. 
 
 Though household divinities do not communicate with [[Humans|humans]] through language, they often show their approval or disapproval of a human's behavior by the altering state of the vessel they inhabit. Extreme indignation by a household divinity can often lead to damage or outright destruction of a vessel.
 

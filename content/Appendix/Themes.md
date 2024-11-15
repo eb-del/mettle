@@ -35,7 +35,7 @@ In medicine, cancer is described as the natural processes of one's cells malfunc
 For example, an animal's hunger is a natural and beneficial encouragement towards staying fed. In contrast, a [[Primordials|primordial's]] hunger is distorted into something persistent, gluttonous, and decoupled from actual nourishment—it is a source of suffering as a cost for longevity and power.
 
 ## Names
-Names have greater value in this setting than in the real world. Names are that which discerns something significant from something insignificant. To grant something (particularly something inanimate) a name is not a trivial matter, with consequences such as [[Psyche#Ensoulment|ensoulment]].
+Names have greater value in this setting than in the real world. Names are that which discerns something significant from something insignificant. To grant something (particularly something inanimate) a name is not a trivial matter, with consequences such as [[Ensoulment|ensoulment]].
 
 See also [[True Names]].
 

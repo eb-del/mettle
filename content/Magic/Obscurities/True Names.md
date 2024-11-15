@@ -29,7 +29,7 @@ Those who know the Panonoma, know all true names, and therefor are immune to all
 # Approximates
 Nearly all true names are incoherent and uninterpretable to [[Humans|human]] modes of communication. The few true names that humanity does know of (such as that of the world, [[Seath]]) are often manifest as **verisimilar names** (sometimes called **approximate names**), versions of a true name that are made pronounceable, communicable, and repeatable by humans. 
 
-To know a verisimilar name grants none of the powers of knowing a true name, except for the privilege of knowing that true names (as an idea) exist.
+To know a verisimilar name grants none of the powers of knowing a true name, except for the privilege of knowing that true names (as an idea) exist. The near impossibility of replicating true names, and the few successes in onomastics, makes the human perspective and use of true names a type of [[Magic#Obscurities|obscurity]].
 
 # Further Reading
 - [[Magic]]

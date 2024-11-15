@@ -5,7 +5,7 @@ tags:
   - 
 ---
 
-**Factions**[^fac] are used to describe structured groups of individuals, who are coordinated in their beliefs, ideals, or goals. 
+**Factions**[^fac] are used to describe structured groups of individuals, who are coordinated on some level in their beliefs, ideals, or goals—typically in opposition to individuals in other factions.
 
 The individual subgroups that form factions fall under the following categories:
 - [[Guilds]]

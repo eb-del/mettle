@@ -5,7 +5,10 @@ tags:
   - 
 ---
 
-A **pantheon**[^pan] is a [[Humans|human]]-defined set of—either or both—[[Eternals|gods]] (eternals) and other deified beings, applied in the context of human worship, religion, and tradition. A vast variety of pantheons exist across the world, some overlapping. Not all pantheons describe the true relationships between eternals, and not all eternals have been placed into pantheons.
+A **pantheon**[^pan] is a [[Humans|human]]-defined set of—either or both—[[Eternals|gods]] (eternals) and other deified beings, applied in the context of human worship, religion, and tradition. 
+
+# Known Pantheons
+A vast variety of pantheons exist across the world, some overlapping. Not all pantheons describe the true relationships between eternals, and not all eternals have been placed into pantheons (see [[Eternals#No Known Pantheon|eternals with no known pantheon]]).
 
 - [[Adelphine Pantheon]]
 - [[Oric Pantheon]]
