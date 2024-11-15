@@ -47,3 +47,5 @@ Eternals are never omnipotent, and only one is truly omnipresent.
 
 # Further Reading
 - [[Races]]
+
+# Footnotes

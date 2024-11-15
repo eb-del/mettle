@@ -25,3 +25,5 @@ Though spirits tend to have longer worldly tenures than other types of ephemeral
 # Further Reading
 - [[Races]]
 - [[The Sentry]], a well-known story about meeting an incarnate
+
+# Footnotes

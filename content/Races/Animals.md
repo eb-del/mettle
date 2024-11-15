@@ -17,3 +17,5 @@ Some animals have established themselves in humanity's history, as legendary cre
 
 # Further Reading
 - [[Races]]
+
+# Footnotes

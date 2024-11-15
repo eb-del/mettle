@@ -9,13 +9,6 @@ To the average person, **magic**[^mag] (also known as **sorcery**[^sorc]) broadl
 
 It is believed by many that magic is not native to [[Seath]], acting in opposition to the natural order of the world. It is believed that magic stems from the otherworldly intervention of the [[Races#Actors and Agents|actor races]]; that magic is native to elsewhere. In [[Humans|humans]] (and certain species of [[Animals|animal]]), magic has the unique property of interfacing with the [[Psyche|psyche]] or soul—a fundamental relationship at the core of all forms of sorcery. 
 
-# Practitioners
-The most common and most broad term used for any [[Humans|human]] magic-practitioner is **sorcerer**[^sorc]. The term often carries the connotation of someone who uses magic to capture, bend, and weave fate; to oppose the natural order with one's ambition. This connotation can come with both praise and prejudice. The terms  **mage**[^mag] and **wizard**[^wiz] are alternative titles for sorcerers, typically associated with more experienced, older practitioners.
-
-When an individual diversifies their responsibilities and areas of study beyond the use of magic (as is often encouraged), **philosopher** and **sage** are also sometimes used—sage in particular is often used for traditional, hereditary magic-practitioners from smaller chiefdoms.
-
-In addition to these broader titles, there are also more specific, specialist titles from the many disciplines and subdisciplines of magic (such as pyrokinesist, a practitioner of [[Kinesis#Pyrokinesis|pyrokinesis]]).
-
 # Disciplines of Magic
 There are many disciplines in the study and practice of magic. 
 
@@ -37,10 +30,16 @@ There are many disciplines in the study and practice of magic.
 - [[Quirk Magic]]
 - [[Wanderwhimsy]]
 
+# Practitioners
+The most common and most broad term used for any [[Humans|human]] magic-practitioner is **sorcerer**[^sorc]. The term often carries the connotation of someone who uses magic to capture, bend, and weave fate; to oppose the natural order with one's ambition. This connotation can come with both praise and prejudice. The terms  **mage**[^mag] and **wizard**[^wiz] are alternative titles for sorcerers, typically associated with more experienced, older practitioners.
+
+When an individual diversifies their responsibilities and areas of study beyond the use of magic (or those who have added magic to supplement an existing mastery), **philosopher** and **sage** are also used—sage in particular is often used for traditional magic-practitioners from smaller chiefdoms.
+
+In addition to these broader titles, there are also more specific, specialist titles from the many disciplines and subdisciplines of magic (such as pyrokinesist, a practitioner of [[Kinesis#Pyrokinesis|pyrokinesis]]).
+
 # Further Reading
 - [[index|Make and Mettle]]
 - [[Psyche]], the soul and principal interface with magic
-
 
 # Footnotes
 [^mag]: ![[Uyu.svg|12]] **[[OOU]]**: The English words "magic" and "mage" has origins in the Ancient Greek word "magikós" (μαγικός), as in pertaining to the qualities of a "mágos" (μάγος), which itself is a borrowed word from Old Persian "maguš⁠" (written in cuneiform), a word referencing priests to the deity Mazda. 

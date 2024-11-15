@@ -27,3 +27,5 @@ Pureblooded primordials are the non-chimera primordials, seen as colossal versio
 
 # Further Reading
 - [[Races]]
+
+# Footnotes

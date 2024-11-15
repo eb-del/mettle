@@ -30,7 +30,7 @@ Liminalities often only reveal themselves to individuals enthralled and enraptur
 
 Liminalities are not constrained by time or the laws of nature. They can depict any setting, and often are of the superlative, fantastical variety. Liminalities often appeal or resonate with the exaggerated perceptions of a poor emotional state.
 
-As an incarnate-like being, liminalities also have a simulacrum of a psyche permeating the setting that is detectable by evocators. This persistent presence of a soul-like essence discerns a liminality from most real spaces. This psyche-like signature, however, leaves no trace after the liminality disappears, thus seldom are they studied by practitioners of [[egersis]].
+As an incarnate-like being, liminalities also have a simulacrum of a psyche permeating the setting that is detectable by evocators. This persistent presence of a soul-like essence discerns a liminality from most real spaces. This psyche-like signature, however, leaves no trace after the liminality disappears, thus seldom are they studied by [[Egersis|evocators]].
 
 Many traditional, folk-belief oriented rites of passages or coming of age trials involve liminalities (often unknowingly). [[The Burning City|An account]] written by the last king of [[Acheriom]] contains a presumed encounted with a liminality.
 
