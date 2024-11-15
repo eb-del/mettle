@@ -14,12 +14,10 @@ Of all magic subdisciplines, Mantis is the most beholden to tradition and folk p
 **Prophecy** (whose practitioners are called **prophets**) is the study and practice of foretelling by communication with a supernatural being, typically a [[Eternals|god]].
 
 ## Shamanism
-**Shamanism** (whose practitioners are called **shamans**) is the study and practice of foretelling by communion with the [[Psyche#Anima|network of life essence]] permeating throughout [[Seath]] (anima mundi). Shamanism is a broad and diverse subdiscipline with facets from other, narrower, more specialized mantis subdisciplines, such as aeromancy, necromancy, and prophecy. 
-
-Shamanism and its widespread practice is strongly associated with the [[Farasia|Farasian]] tribes.
+**Shamanism** (whose practitioners are called **shamans**) is the study and practice of foretelling by communion with the [[World Soul|world soul]]. Shamanism is a broad and diverse subdiscipline with facets from other, narrower, more specialized mantis subdisciplines, such as aeromancy, necromancy, and prophecy. 
 
 ## Astromancy
-Not to be confused with astronomy, **Astromancy** (whose practitioners are called **astromancers**) is the study and practice of foretelling by the movement of stars and celestial bodies. Astromancy as a subdiscipline has considerable overlap with prophecy, as celestial motions are often correlated with eternal influence or divine design.
+Not to be confused with [[Astronomy|astronomy]], **Astromancy** (whose practitioners are called **astromancers**) is the study and practice of foretelling by the movement of stars and celestial bodies. Astromancy as a subdiscipline has considerable overlap with prophecy, as celestial motions are often correlated with eternal influence or divine design.
 
 ## Pyromancy
 **Pyromancy** (whose practitioners are called **pyromancers**) is the study and practice of foretelling by fire, either by the motion of the flames itself, or by the observation of items burned in fire. Many forms of pyromancy exist, with their own terminology and cultural significance.

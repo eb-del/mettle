@@ -11,7 +11,7 @@ tags:
 ## Physiology
 In their humanoid form, Ungin are indistinguishable from the [[Harthwrichts|average human]], aside from a tendency towards denser hair of the head and body.
 
-The shapeshifting process of an Ungin is magical in nature; one of the naturally occurring versions of true and perfect [[morphosis]]. The transformation is akin to reconciling the two modes of the Ungin [[psyche]]. Ungin are best described as having two bodies to which they switch between freely: one that is completely human, and one that is completely bear. There is no middle-ground or half-changed state for an Ungin. 
+The shapeshifting process of an Ungin is magical in nature; one of the naturally occurring versions of true and perfect [[Morphosis]]. The transformation is akin to reconciling the two modes of the Ungin [[psyche]]. Ungin are best described as having two bodies to which they switch between freely: one that is completely human, and one that is completely bear. There is no middle-ground or half-changed state for an Ungin. 
 
 Ungin experience shapeshifting for the first time in adolescence, often involuntarily. To learn how to control one's shapeshifting is often considered a right of passage into adulthood for many Ungin.
 
