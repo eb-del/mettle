@@ -7,7 +7,7 @@ tags:
 
 The **Orisir** is a [[Humans|human]] [[Polities|city-state]], located where the [[Armine River]] passes through the [[Parnithine Mountains]]. The city is most known for its mosaiced central avenue, [[Horasis|seer]] watchtowers, and signature ziggurat. The Orisir serves as a regional hub for [[Oric Pantheon|Oric]] worship and related religious services.
 
-As a faction, the Orisir is aligned with the [[Oric Pantheon]] and the [[Orisir#Or dynasty|Or dynasty]]. The demonym for the citizens of the Orisir is **Orisirian**.
+The demonym for the citizens of the Orisir is **Orisirian**.
 
 # Government
 ## Or dynasty

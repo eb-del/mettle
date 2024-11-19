@@ -7,7 +7,7 @@ tags:
 
 **Acheriom**[^ache] is nearly-ruinous [[Humans|human]] [[Polities|city-state]], located at the center of the [[Asphon Plains]]. Though far from its original prestige, Acheriom maintains its legacy through its most noteworthy [[Places#Monuments|monument]]: the [[Letheia]], the seat of significance for the [[Thanatan Pantheon|Thanatan discipleship]]. 
 
-The demonym for the citizens of Acheriom is **Acherii**.
+The demonym for the citizens of Acheriom is **Acherian**.
 
 # Government
 Acheriom has a very small population (including the Thanatan disciples), and as such has a very small administrative body. Present-day Acheriom is led by a singular "archon", democratically elected by the citizens of Acheriom. Traditionally, the archon of Acheriom does not have a position of leadership in the Thanatan discipleship. The government of Acheriom is distinct from the leadership of the Thanatan pantheon, and instead concerns itself with leading and organizing the citizens at the periphery.

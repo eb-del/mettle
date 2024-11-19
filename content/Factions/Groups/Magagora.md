@@ -7,6 +7,8 @@ tags:
 
 **Magagora**[^mago] is a [[Humans|human]] [[Polities|city-state]], located near the confluence where the [[Asterine River]] joins the [[Armine River]]. The city is known primarily for its  [[Guilds|college]] of [[Magic|magic]]—the only of its kind in the region.
 
+The demonym for the citizens of Magagora is **Magagoran**.
+
 # Government
 Magagora is a **magocracy** (or a mage-meritocracy), where aptitude and achievement as a magic-practitioner correlates with placement in the governing hierarchy. The highest position of office in the Magagora is a basil[^basl] (meaning monarch). 
 
