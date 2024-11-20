@@ -12,11 +12,13 @@ tags:
 ## Primordial Curse
 Primordials are believed to have once been normal [[Animals|animals]], corrupted by an ancient, [[Magic|magical]] affliction of unknown origin known as the **primordial curse**. 
 
-The primordial curse drastically alters an animal's physiology and gradually replaces their [[Psyche#Anima|anima]] and [[Psyche|psyche]] with a vacuous, insatiable hunger. These afflicted animals engorge themselves on their diet of choice while absorbing vast swathes of ambient magic. Soon, a threshold is reached where the afflicted animal has consumed enough mass and magic to awaken and become a sentient (yet soul-less) primordial.
+The primordial curse drastically alters an animal's physiology and gradually replaces their [[Psyche#Anima|anima]] with a [[Analisk|vacuous, insatiable hunger]]. These afflicted animals engorge themselves on their diet of choice while absorbing vast swathes of ambient magic. Soon, a threshold is reached where the afflicted animal has consumed enough mass and magic to awaken a [[Psyche|psyche]] and become a sentient primordial. The newly formed psyche, however, is still subject to erosion as a primordial's apetite grows.
 
-Without a psyche, a primordial's body becomes subject to a form of corruption; a cancer. In humans and certain species of animal, the psyche is the tether that connects one's will and identity to their physical form. With that tether severed, the body and mind fail to reconcile, assailed by the [[World Soul#Evicting Force|pressure]] of the [[World Soul|world soul]], leading to mutation and madness. The only force keeping this natural progression at bay is for the primordial to feed relentlessly for the rest of its life. Never will a primordial's hunger be sated again. 
+With a damaged psyche, a primordial's body becomes subject to a form of corruption unique to the primordial curse; a sort of cancer. In humans and certain species of animal, the psyche is the tether that connects one's will and identity to their physical form. With that tether damaged, the body and mind fail to reconcile, rendered vulnerable by the [[World Soul#Evicting Force|pressure]] of the [[World Soul|world soul]], leading to mutation and madness. The only force keeping this natural progression at bay—preserving what remains of the primordial's psyche—is for the primordial to feed relentlessly for the rest of its life.
 
-Primordials have learned to use what remains of their cunning and self-control to bind human bloodlines into multigenerational servitude, offering access to magic and wisdom in exchange.
+Primordials have learned to use what remains of their soul to bind human bloodlines into multigenerational servitude, offering access to magic and wisdom in exchange.
+
+Completely starved and feral primordials become entirely and irreversibly soulless, losing all intelligence and sense of self. Somehow, however, a starved primordial mysteriously maintains its vigor and the capacity to wield sorcery. Soulless primordials thrash and writhe against their own hunger, and often die not from starvation, but from self-inflicted wounds and unrestrained, tumorous growth.
 
 # Subraces
 ## Chimeras 
@@ -31,5 +33,6 @@ Pureblooded primordials are the non-chimera primordials, seen as colossal versio
 
 # Further Reading
 - [[Races]]
+- [[Analisk]]
 
 # Footnotes

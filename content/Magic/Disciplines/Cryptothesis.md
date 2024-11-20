@@ -17,6 +17,6 @@ tags:
 - [[True Names]]
 
 # Footnotes
-[^cryp]: ![[Uyu.svg|12]] **[[OOU]]**: The term "cryptothesis" is the combination of the Ancient Greek words "kruptós" (κρυπτός), meaning hidden or secret; and "thésis" (θέσῐς), meaning starting arrangement, placement, conclusion, and also to lower one's voice; thus the common title of whisper-mage. See also *[[Paramnestra#Thanatothesis|Thanatothesis]]*.
+[^cryp]: ![[uyu.svg|12]] **[[OOU]]**: The term "cryptothesis" is the combination of the Ancient Greek words "kruptós" (κρυπτός), meaning hidden or secret; and "thésis" (θέσῐς), meaning starting arrangement, placement, conclusion, and also to lower one's voice; thus the common title of whisper-mage. See also *[[Paramnestra#Thanatothesis|Thanatothesis]]*.
 
-[^theo]: ![[Uyu.svg|12]] **[[OOU]]**: The term "theogenics" is a combinations of the Ancient Greek words "theó-" (θεό-) meaning god, diety; and "-géneia" (-γένεια), meaning production, origin, generation. See also the real-world *Theogony* (*Theogonía*, Θεογονία), a famous poem of antiquity by Hesiod, with the similar suffix "-gony" from Ancient Greek "gonḗ" (γονή), similarly describing production or origin.
+[^theo]: ![[uyu.svg|12]] **[[OOU]]**: The term "theogenics" is a combinations of the Ancient Greek words "theó-" (θεό-) meaning god, diety; and "-géneia" (-γένεια), meaning production, origin, generation. See also the real-world *Theogony* (*Theogonía*, Θεογονία), a famous poem of antiquity by Hesiod, with the similar suffix "-gony" from Ancient Greek "gonḗ" (γονή), similarly describing production or origin.

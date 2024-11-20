@@ -20,4 +20,4 @@ A **polity**[^pol] is a group of individuals, typically [[humans]], that have fo
 - [[Factions]]
 
 # Footnotes
-[^pol]: ![[Uyu.svg|12]] **[[OOU]]**: The English word "polity" comes from the Ancient Greek "polīteíā" (πολιτεία), meaning citizenship, state, government or administration. Polity is a doublet of the English words "policy" (positions of the state and law) and "police" (enforcement of the state and law).
+[^pol]: ![[uyu.svg|12]] **[[OOU]]**: The English word "polity" comes from the Ancient Greek "polīteíā" (πολιτεία), meaning citizenship, state, government or administration. Polity is a doublet of the English words "policy" (positions of the state and law) and "police" (enforcement of the state and law).

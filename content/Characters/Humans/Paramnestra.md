@@ -24,4 +24,4 @@ Paramnestra's *Thanatothesis* would go on to be the most important piece of lite
 - [[Humans]]
 
 # Footnotes
-[^thano]: ![[Uyu.svg|12]] **[[OOU]]**: The title *Thanatothesis* comes from the combination of Ancient Greek god "Thánatos" (Θάνατος), the god of death; and the term "thésis" (θέσῐς), meaning starting arrangement, placement, conclusion. See also [[Cryptothesis]].
+[^thano]: ![[uyu.svg|12]] **[[OOU]]**: The title *Thanatothesis* comes from the combination of Ancient Greek god "Thánatos" (Θάνατος), the god of death; and the term "thésis" (θέσῐς), meaning starting arrangement, placement, conclusion. See also [[Cryptothesis]].

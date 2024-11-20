@@ -17,4 +17,4 @@ Acheriom has a very small population (including the Thanatan disciples), and as 
 - *[[The Burning City]]*
 
 # Footnotes
-[^ache]:![[Uyu.svg|12]] **[[OOU]]**: The name "Acheriom" is an alteration of the Ancient Greek word, "Acheron" (Ἀχέρων), referencing the river through the Epirus in northwest Greece. The Acheron, however, is more known for in its place in Greek Mythology, as the river that acts as the entrance to the underworld (not to be mistaken for the Styx).
+[^ache]:![[uyu.svg|12]] **[[OOU]]**: The name "Acheriom" is an alteration of the Ancient Greek word, "Acheron" (Ἀχέρων), referencing the river through the Epirus in northwest Greece. The Acheron, however, is more known for in its place in Greek Mythology, as the river that acts as the entrance to the underworld (not to be mistaken for the Styx).

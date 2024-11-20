@@ -21,6 +21,6 @@ The sizable territory of Farasia is subdivided into claims where each tribe is r
 - [[Polities]]
 
 # Footnotes
-[^fara]: ![[Uyu.svg|12]] **[[OOU]]**: The name "Farasia" is not derived from the English words "far", as in distant, and "Asia", as in the real-world continent (despite obvious Siberian, Tibetan, Mongolian inspirations), but rather by the fictional, constructed words "fa" and "rasia". There are no real-world inspirations for these terms, despite the coincidental similarity to the Tok Pisin (New Guinea Pidgin) word, "Rasia", meaning Russia.
+[^fara]: ![[uyu.svg|12]] **[[OOU]]**: The name "Farasia" is not derived from the English words "far", as in distant, and "Asia", as in the real-world continent (despite obvious Siberian, Tibetan, Mongolian inspirations), but rather by the fictional, constructed words "fa" and "rasia". There are no real-world inspirations for these terms, despite the coincidental similarity to the Tok Pisin (New Guinea Pidgin) word, "Rasia", meaning Russia.
 
-[^faik]: ![[Uyu.svg|12]] **[[OOU]]**: The name "Faikalia" is a simple alteration of the English word "Baikalia", which in Russian is "Pribaykal'ye" (Прибайкалье), representing the geographic region around the real-world Lake Baikal. Faikalia is not the geographic region around an in-world "Lake Faikal", however.
+[^faik]: ![[uyu.svg|12]] **[[OOU]]**: The name "Faikalia" is a simple alteration of the English word "Baikalia", which in Russian is "Pribaykal'ye" (Прибайкалье), representing the geographic region around the real-world Lake Baikal. Faikalia is not the geographic region around an in-world "Lake Faikal", however.

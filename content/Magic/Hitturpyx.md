@@ -17,4 +17,4 @@ Hitturpyx is a nominal system. All words in Hitturpyx are true names, which them
 - [[Cryptothesis]]
 
 # Footnotes
-[^htpx]: ![[Uyu.svg|12]] **[[OOU]]**: The term "Hitturpyx" is onomatopoeic, describing the sound a spoon might make if skipped across a unperturbed pond of spacetime.
+[^htpx]: ![[uyu.svg|12]] **[[OOU]]**: The term "Hitturpyx" is onomatopoeic, describing the sound a spoon might make if skipped across a unperturbed pond of spacetime.

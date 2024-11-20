@@ -12,4 +12,4 @@ tags:
 - [[Eternals]]
 
 # Footnotes
-[^ada]: ![[Uyu.svg|12]] **[[OOU]]**: The term "adamant" comes from the Ancient Greek word "adámas" (ἀδάμας), meaning invincible, uncontested. The word is constructed from "a-"(ἀ-), a prefix meaning not; and "damázō" (δαμάζω) meaning to tame; thus untamed, unrivaled.
+[^ada]: ![[uyu.svg|12]] **[[OOU]]**: The term "adamant" comes from the Ancient Greek word "adámas" (ἀδάμας), meaning invincible, uncontested. The word is constructed from "a-"(ἀ-), a prefix meaning not; and "damázō" (δαμάζω) meaning to tame; thus untamed, unrivaled.

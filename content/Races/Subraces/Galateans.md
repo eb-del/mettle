@@ -40,5 +40,5 @@ Most Galateans find their place among solitary artisans, poets, and craftsmen. T
 - [[Humans]]
 
 # Footnotes
-[^gal]: ![[Uyu.svg|12]] **[[OOU]]**: The name "Galatean" is derived from the Greek myth of Pygmalion and Galatea, as depicted in Ovid's *Metamorphoses*. The story involves the sculptor, Pygmalion, loving a statue, Galatea, with such intensity that Aphrodite brought it to life.
+[^gal]: ![[uyu.svg|12]] **[[OOU]]**: The name "Galatean" is derived from the Greek myth of Pygmalion and Galatea, as depicted in Ovid's *Metamorphoses*. The story involves the sculptor, Pygmalion, loving a statue, Galatea, with such intensity that Aphrodite brought it to life.
 

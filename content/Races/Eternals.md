@@ -46,8 +46,10 @@ Eternals are never omnipotent, and only one is truly omnipresent.
 
 ## No Known Pantheon
 - [[Cornucopia]]
+- [[Maw]]
 
 # Further Reading
 - [[Races]]
+- [[True Names]]
 
 # Footnotes

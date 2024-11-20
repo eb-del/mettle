@@ -31,4 +31,4 @@ Harthwricht form family units of varying sizes, determined more by cultural prec
 - [[Humans]]
 
 # Footnotes
-[^hearth]: ![[Uyu.svg|12]] **[[OOU]]**: The names "Hearthwrights" and "Harthwricht" are constructed words, derived from the English "hearth" / Scots "harth", both from Old English "heorth" meaning a fireplace; and the English "-wright" / Scots "-wricht", both from the Old English "wyrhta" meaning worker, maker of things. See also the English word "shipwright", a maker of ships.
+[^hearth]: ![[uyu.svg|12]] **[[OOU]]**: The names "Hearthwrights" and "Harthwricht" are constructed words, derived from the English "hearth" / Scots "harth", both from Old English "heorth" meaning a fireplace; and the English "-wright" / Scots "-wricht", both from the Old English "wyrhta" meaning worker, maker of things. See also the English word "shipwright", a maker of ships.

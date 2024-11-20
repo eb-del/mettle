@@ -22,5 +22,5 @@ From the 500th day onwards, the planet continues its precession while its axial 
 - [[Places]]
 
 # Footnotes
-[^sth]: ![[Uyu.svg|12]] **[[OOU]]**: The name "Seath" shows an obvious relationship to the English word "sea", reflecting the world's coverage in ocean. The addition of the sharp "-th" comes from the Latin word "saevus" meaning wild or fierce. See also the obvious relationship with the English word "seat" from Old English "sǣte", meaning to sit or a place to sit—as in seat of power (with alternate definitions of "sǣte" meaning house, or a heap of hay). 
+[^sth]: ![[uyu.svg|12]] **[[OOU]]**: The name "Seath" shows an obvious relationship to the English word "sea", reflecting the world's coverage in ocean. The addition of the sharp "-th" comes from the Latin word "saevus" meaning wild or fierce. See also the obvious relationship with the English word "seat" from Old English "sǣte", meaning to sit or a place to sit—as in seat of power (with alternate definitions of "sǣte" meaning house, or a heap of hay). 
 [^tilt]: For calculations, see [[Sun Calculations]] in the Appendix.

@@ -5,7 +5,7 @@ tags:
   - 
 ---
 
-**Rhaphania**[^rhap] is a [[Humans|human]] [[Polities|city-state]], located in a shallow basin where the [[Asterine River]] passes through the [[Parnithine Mountains]]. The city is most known for its reverence and extensive cultivation of the [[palm turnip]].
+**Rhaphania**[^rhap] is a [[Humans|human]] [[Polities|city-state]], located in a shallow basin where the [[Asterine River]] passes through the [[Parnithine Mountains]]. The city is most known for its reverence and extensive cultivation of the [[Palm Turnip]].
 
 The demonym for a citizen of Raphania is **Raphanian**.
 
@@ -21,6 +21,6 @@ The eligibility for political participation (to be able to vote for the citizen-
 - [[Palm Turnip]]
 
 # Footnotes
-[^rhap]:![[Uyu.svg|12]] **[[OOU]]**: The name "Rhaphasia" comes from the Ancient Greek word "rháphus" (ῥάφυς), an alternate spelling of "rhápus" (ῥάπυς) meaning turnip.
+[^rhap]:![[uyu.svg|12]] **[[OOU]]**: The name "Rhaphania" comes from the Ancient Greek word "rháphus" (ῥάφυς), an alternate spelling of "rhápus" (ῥάπυς) meaning turnip.
 
-[^cala]:![[Uyu.svg|12]] **[[OOU]]**: A calathus (κάλαθος) is a real-world vessel in antiquity; a basket shaped like a top hat used to hold wool or fruit, and is often a symbol of abundance and fertility; similar to cornucopia.
+[^cala]:![[uyu.svg|12]] **[[OOU]]**: A calathus (κάλαθος) is a real-world vessel in Greek antiquity; a basket shaped like a top hat used to hold wool or fruit, and is often seen as a symbol of abundance and fertility; similar to cornucopia.

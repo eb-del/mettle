@@ -22,4 +22,4 @@ The world soul imposes a conscious, willing, and deliberate evicting force that 
 - [[Psyche]]
 
 # Footnotes
-[^tag]:![[Uyu.svg|12]] **[[OOU]]**: 
+[^tag]:![[uyu.svg|12]] **[[OOU]]**: 

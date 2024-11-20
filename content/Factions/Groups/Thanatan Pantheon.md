@@ -27,6 +27,6 @@ Outside of the Letheia, Thanatan enclaves of study, service, or worship are ofte
 - [[Mantis#Necromancy|Necromancy]]
 
 # Footnotes
-[^thano]: ![[Uyu.svg|12]] **[[OOU]]**:2]]](<OOU>) The title "Thanatan" comes from the Ancient Greek god of death, "Thánatos" (Θάνατος). Note there is no such singular god of death in this setting, but rather the collective formed by the five Thanatan gods (cooperating to form a singular authority for death). 
+[^thano]: ![[uyu.svg|12]] **[[OOU]]**:2]]](<OOU>) The title "Thanatan" comes from the Ancient Greek god of death, "Thánatos" (Θάνατος). Note there is no such singular god of death in this setting, but rather the collective formed by the five Thanatan gods (cooperating to form a singular authority for death). 
 
-[^arc]: ![[Uyu.svg|12]] **[[OOU]]**: The term "archiater" is an archaic English word, with roots in the Ancient Greek word "arkhiātrós" (ἀρχῐᾱτρός), meaning chief official physician or responsible practitioner of a medical trade.
+[^arc]: ![[uyu.svg|12]] **[[OOU]]**: The term "archiater" is an archaic English word, with roots in the Ancient Greek word "arkhiātrós" (ἀρχῐᾱτρός), meaning chief official physician or responsible practitioner of a medical trade.

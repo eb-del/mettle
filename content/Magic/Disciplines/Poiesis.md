@@ -20,4 +20,4 @@ Poiesis is regarded as one of the rarest and most difficult disciplines of magic
 - [[Magic]]
 
 # Footnotes
-[^poi]:[[Uyu.svg|12]] **[[OOU]]**: The term "poiesis" is from the Ancient Greek, "poíēsis" (ποίησις). meaning to create or the process of creation; it is from this word that the English word "poet" and "poetry" are derived, and hence the in-world title "mage-poet"
+[^poi]:[[uyu.svg|12]] **[[OOU]]**: The term "poiesis" is from the Ancient Greek, "poíēsis" (ποίησις). meaning to create or the process of creation; it is from this word that the English word "poet" and "poetry" are derived, and hence the in-world title "mage-poet"

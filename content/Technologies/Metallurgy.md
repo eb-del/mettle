@@ -23,6 +23,6 @@ The seven metals of [[Seath]] that are most widely used in present-era metallurg
 [[Technologies]]
 
 # Footnotes
-[^met]: ![[Uyu.svg|12]] **[[OOU]]**: The English word "metallurgy" comes from the Ancient Greek word "metallourgós" (μεταλλουργός), from the combination of "métallon" (μέταλλον), meaning metal, and "érgon" (ἔργον), meaning work, literally metalwork.
+[^met]: ![[uyu.svg|12]] **[[OOU]]**: The English word "metallurgy" comes from the Ancient Greek word "metallourgós" (μεταλλουργός), from the combination of "métallon" (μέταλλον), meaning metal, and "érgon" (ἔργον), meaning work, literally metalwork.
 
-[^hg]: ![[Uyu.svg|12]] **[[OOU]]**: The name "water-silver" comes from mercury's real-world original name in Ancient Greek, "hydrargyros" (ὑδράργυρος) from which the modern elemental symbol for mercury "Hg" is derived. From Ancient Greek "hydr-" (ὑδρ-) meaning pertaining to water, hydration; and "argyros" (ἄργυρος), meaning silver; thus "water-silver".
+[^hg]: ![[uyu.svg|12]] **[[OOU]]**: The name "water-silver" comes from mercury's real-world original name in Ancient Greek, "hydrargyros" (ὑδράργυρος) from which the modern elemental symbol for mercury "Hg" is derived. From Ancient Greek "hydr-" (ὑδρ-) meaning pertaining to water, hydration; and "argyros" (ἄργυρος), meaning silver; thus "water-silver".

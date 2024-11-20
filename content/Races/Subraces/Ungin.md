@@ -49,4 +49,4 @@ When encountering actual bears, Ungin are treated as though they are humans, eve
 - [[Humans]]
 
 # Footnotes
-[^ung]: ![[Uyu.svg|12]] **[[OOU]]**: The name "Ungin" is a constructed term. In Korean, the word would be written as "웅인" and in Hanja (Chinese characters) as "熊人"; "熊" means bear, and "人" (Kangxi radical 9) means man or person, thus bear person. Similarly, the name of the real world Korean mythological character "Ungnyeo" (웅녀, Hanja: 熊女) is derived from "熊" again meaning bear, and "女" (Kangxi radical 38) meaning woman; thus bear woman.
+[^ung]: ![[uyu.svg|12]] **[[OOU]]**: The name "Ungin" is a constructed term. In Korean, the word would be written as "웅인" and in Hanja (Chinese characters) as "熊人"; "熊" means bear, and "人" (Kangxi radical 9) means man or person, thus bear person. Similarly, the name of the real world Korean mythological character "Ungnyeo" (웅녀, Hanja: 熊女) is derived from "熊" again meaning bear, and "女" (Kangxi radical 38) meaning woman; thus bear woman.

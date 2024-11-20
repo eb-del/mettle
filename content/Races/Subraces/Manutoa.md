@@ -38,8 +38,8 @@ Manutoans who live in grounded human settlements often find roles as explorers, 
 - [[Humans]]
 
 # Footnotes
-[^toa]: ![[Uyu.svg|12]] **[[OOU]]**: The name "Manutoa" is a constructed word, derived from the *reconstructed* Proto-Polynesian words "manu", meaning bird; and "toqa", meaning man or warrior. 
+[^toa]: ![[uyu.svg|12]] **[[OOU]]**: The name "Manutoa" is a constructed word, derived from the *reconstructed* Proto-Polynesian words "manu", meaning bird; and "toqa", meaning man or warrior. 
 
-[^pei]: ![[Uyu.svg|12]] **[[OOU]]**: The word "peika" is from the *reconstructed* Proto-Italic word "peikā", relating to magpie. The Latin word for magpie, "pica", is a descendant of the word "peikā". See also Latin "pīcus" for woodpecker.
+[^pei]: ![[uyu.svg|12]] **[[OOU]]**: The word "peika" is from the *reconstructed* Proto-Italic word "peikā", relating to magpie. The Latin word for magpie, "pica", is a descendant of the word "peikā". See also Latin "pīcus" for woodpecker.
 
-[^phry]: ![[Uyu.svg|12]] **[[OOU]]**: Phryctoria are real-world beacon towers in Ancient Greece, placed on mountaintops in a relay. The flame of one tower would prompt another to ignite their flame. Together, a network of phryctoria served as a warning system. 
+[^phry]: ![[uyu.svg|12]] **[[OOU]]**: Phryctoria are real-world beacon towers in Ancient Greece, placed on mountaintops in a relay. The flame of one tower would prompt another to ignite their flame. Together, a network of phryctoria served as a warning system. 

@@ -20,6 +20,6 @@ The **Magagoric college of magic** (sometimes simply the **Magagoric college**) 
 - [[Magic]]
 
 # Footnotes
-[^mago]:![[Uyu.svg|12]] **[[OOU]]**:  The name "Magagora" is a combination of the Ancient Greek words "magikós" (μαγικός), of pertaining to [[Magic|magic]] (see footnotes there); and "agorā́" (ᾰ̓γορᾱ́) meaning meeting place, marketplace, popular assembly.
+[^mago]:![[uyu.svg|12]] **[[OOU]]**:  The name "Magagora" is a combination of the Ancient Greek words "magikós" (μαγικός), of pertaining to [[Magic|magic]] (see footnotes there); and "agorā́" (ᾰ̓γορᾱ́) meaning meeting place, marketplace, popular assembly.
 
-[^basl]:![[Uyu.svg|12]] **[[OOU]]**:  The title "basil" is from the Ancient Greek "basileus" (βασιλεύς), meaning king or emperor; as well as the Ancient Greek "basileia" (βασίλεια) or "basilinna" (βασιλίννα), meaning queen or empress. The term "basilikon"—from which the real world plant name "basil" is derived; basilikón phytón (βασιλικόν φυτόν), kingly plant—is the neuter form of the masculine basilikós (βασιλικός), meaning royal, kingly.
+[^basl]:![[uyu.svg|12]] **[[OOU]]**:  The title "basil" is from the Ancient Greek "basileus" (βασιλεύς), meaning king or emperor; as well as the Ancient Greek "basileia" (βασίλεια) or "basilinna" (βασιλίννα), meaning queen or empress. The term "basilikon"—from which the real world plant name "basil" is derived; basilikón phytón (βασιλικόν φυτόν), kingly plant—is the neuter form of the masculine basilikós (βασιλικός), meaning royal, kingly.

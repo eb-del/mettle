@@ -17,4 +17,4 @@ Evocation and its widespread practice is strongly associated with the [[Thanatan
 - [[Paramnestra]]
 
 # Footnotes
-[^ege]:![[Uyu.svg|12]] **[[OOU]]**: The term "egersis" is a real-world theological term meaning awakening or resurrection, from the Ancient Greek word "egersis" (ἔγερσις), meaning to awaken or rouse from sleep; to awaken from death and recover; and the raising of walls.
+[^ege]:![[uyu.svg|12]] **[[OOU]]**: The term "egersis" is a real-world theological term meaning awakening or resurrection, from the Ancient Greek word "egersis" (ἔγερσις), meaning to awaken or rouse from sleep; to awaken from death and recover; and the raising of walls.

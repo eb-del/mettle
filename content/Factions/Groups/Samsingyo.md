@@ -21,4 +21,4 @@ It is encouraged among Samsingyo disciples to have a level of appreciation of fi
 - [[Pantheons]]
 
 # Footnotes
-[^sam]:![[Uyu.svg|12]] **[[OOU]]**: The term "samsingyo" (삼신교) means tritheon or religious trinity, derived from the combination of the Korean words "sam" (삼), meaning three; and the final two characters "-singyo" (신교), found in both "dasingyo" (다신교) and the more archaic "beomsingyo" (범신교); the two meaning polytheism.
+[^sam]:![[uyu.svg|12]] **[[OOU]]**: The term "samsingyo" (삼신교) means tritheon or religious trinity, derived from the combination of the Korean words "sam" (삼), meaning three; and the final two characters "-singyo" (신교), found in both "dasingyo" (다신교) and the more archaic "beomsingyo" (범신교); the two meaning polytheism.

@@ -20,4 +20,4 @@ Some psychopomps act as couriers for messages sent or recieved by [[Mantis#Necro
 - [[Ephemerals]]
 
 # Footnotes
-[^pomp]:![[Uyu.svg|12]] **[[OOU]]**: The word "psychopomp" comes from the Ancient Greek word "psūkhopompós" (ψῡχοπομπός), which itself is a combination of "psūkhḗ" (ψῡχή), meaning soul; and "pompós" (πομπός) meaning conductor; thus soul-conductor.
+[^pomp]:![[uyu.svg|12]] **[[OOU]]**: The word "psychopomp" comes from the Ancient Greek word "psūkhopompós" (ψῡχοπομπός), which itself is a combination of "psūkhḗ" (ψῡχή), meaning soul; and "pompós" (πομπός) meaning conductor; thus soul-conductor.

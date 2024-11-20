@@ -17,6 +17,6 @@ Diagnosis contrasts strongly the disciplines of [[Mantis|mantis]] (the use of ma
 - [[Magic]]
 
 # Footnotes
-[^diag]:![[Uyu.svg|12]] **[[OOU]]**: The term "diagnosis" has familiar medical usages in modern day English. In the Ancient Greek word, "diágnōsis" (διάγνωσις) means to distinguish, resolve, or decide; from "gignṓskō" (γιγνώσκω) meaning to know. This origin of appraisal and insight is the core of diagnosis as a magical discipline, where its medical connotation comes second, such that with scourge-sight.
+[^diag]:![[uyu.svg|12]] **[[OOU]]**: The term "diagnosis" has familiar medical usages in modern day English. In the Ancient Greek word, "diágnōsis" (διάγνωσις) means to distinguish, resolve, or decide; from "gignṓskō" (γιγνώσκω) meaning to know. This origin of appraisal and insight is the core of diagnosis as a magical discipline, where its medical connotation comes second, such that with scourge-sight.
 
-[^dele]: ![[Uyu.svg|12]] **[[OOU]]**: Adding the "deletero-",—from the Ancient Greek "dēlētḗrios" (δηλητήριος) meaning noxious, subtly harmful—brings scourge-sight to mean identification of deleterious harm.
+[^dele]: ![[uyu.svg|12]] **[[OOU]]**: Adding the "deletero-",—from the Ancient Greek "dēlētḗrios" (δηλητήριος) meaning noxious, subtly harmful—brings scourge-sight to mean identification of deleterious harm.

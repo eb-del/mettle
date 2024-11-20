@@ -12,4 +12,4 @@ tags:
 - [[Primordials]]
 
 # Footnotes
-[^khi]:![[Uyu.svg|12]] **[[OOU]]**: The name "Khimore" is an alteration of the Mongolian word, "khiimori" (**хийморь**), meaning "gas horse"/"wind horse" in the context of East and Central Asian shamanistic tradition. The wind horse is symbolic of the human soul in these traditions.
+[^khi]:![[uyu.svg|12]] **[[OOU]]**: The name "Khimore" is an alteration of the Mongolian word, "khiimori" (**хийморь**), meaning "gas horse"/"wind horse" in the context of East and Central Asian shamanistic tradition. The wind horse is symbolic of the human soul in these traditions.

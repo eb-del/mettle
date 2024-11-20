@@ -14,4 +14,4 @@ The exact process for the creation of sidereain is unclear and clouded in supers
 - [[Ephemerals]]
 
 # Footnotes
-[^sid]: ![[Uyu.svg|12]] **[[OOU]]**: The term "sidereain" is an alteration of the English word "sidereal", meaning pertaining to the stars, with origins in Latin "sīdus" meaning star or constellation.
+[^sid]: ![[uyu.svg|12]] **[[OOU]]**: The term "sidereain" is an alteration of the English word "sidereal", meaning pertaining to the stars, with origins in Latin "sīdus" meaning star or constellation.

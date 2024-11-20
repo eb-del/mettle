@@ -15,4 +15,4 @@ tags:
 - [[Magic]]
 
 # Footnotes
-[^hor]: ![[Uyu.svg|12]] **[[OOU]]**: The term "horasis" comes from the Ancient Greek "hórāsis" (ὅρασις), meaning seeing, sight. a vision. It is distinct from horoscope (from hōroskópos, ὡροσκόπος).
+[^hor]: ![[uyu.svg|12]] **[[OOU]]**: The term "horasis" comes from the Ancient Greek "hórāsis" (ὅρασις), meaning seeing, sight. a vision. It is distinct from horoscope (from hōroskópos, ὡροσκόπος).

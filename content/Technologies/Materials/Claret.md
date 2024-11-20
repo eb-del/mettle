@@ -14,4 +14,4 @@ Claret is found as a rock-like formation from the petrified flesh and coagulated
 - [[Primordials]]
 
 # Footnotes
-[^clar]: ![[Uyu.svg|12]] **[[OOU]]**: The English word "claret" is more often associated with wine, as claret has origins in  Medieval Latin "clārātum vīnum", meaning clear or bright (clārus) wine. In this setting, the use of clārus to describe a bright red metal defeats its use to describe a bright red wine.
+[^clar]: ![[uyu.svg|12]] **[[OOU]]**: The English word "claret" is more often associated with wine, as claret has origins in  Medieval Latin "clārātum vīnum", meaning clear or bright (clārus) wine. In this setting, the use of clārus to describe a bright red metal defeats its use to describe a bright red wine.

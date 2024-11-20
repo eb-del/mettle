@@ -17,5 +17,5 @@ The individual subgroups that form factions fall under the following categories:
 - [[index|Make and Mettle]]
 
 # Footnotes
-[^fac]: ![[Uyu.svg|12]] **[[OOU]]**: The English word "faction" comes from the Latin word "factionem", meaning political party or class of persons. The Latin word "factionem" stems from "facere", meaning to do, make, facilitate. 
+[^fac]: ![[uyu.svg|12]] **[[OOU]]**: The English word "faction" comes from the Latin word "factionem", meaning political party or class of persons. The Latin word "factionem" stems from "facere", meaning to do, make, facilitate. 
 

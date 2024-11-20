@@ -16,4 +16,4 @@ The demonym for the citizens of Apontora is **Apontoran**.
 - [[Polities]]
 
 # Footnotes
-[^sar]:![[Uyu.svg|12]] **[[OOU]]**: The name "Apontora" is a from the Ancient Greek word, "apantó" (απαντώ), meaning to meet, to gather, to respond. The name is also, simultaneously, is from the Ancient Greek word "póntos" (πόντος), meaning sea, particularly a closed one, particularly the Black Sea.
+[^sar]:![[uyu.svg|12]] **[[OOU]]**: The name "Apontora" is a from the Ancient Greek word, "apantó" (απαντώ), meaning to meet, to gather, to respond. The name is also, simultaneously, is from the Ancient Greek word "póntos" (πόντος), meaning sea, particularly a closed one, particularly the Black Sea.

@@ -20,4 +20,4 @@ A vast variety of pantheons exist across the world, some overlapping. Not all pa
 - [[Eternals]]
 
 # Footnotes
-[^pan]: ![[Uyu.svg|12]] **[[OOU]]**: The English word "pantheon" comes from the Ancient Greek monument and temple, the "Pántheion" (Πάνθειον), whose is derived the Ancient Greek words "pân" (πᾶν), meaning all; and "theós" (θεός) meaning god.
+[^pan]: ![[uyu.svg|12]] **[[OOU]]**: The English word "pantheon" comes from the Ancient Greek monument and temple, the "Pántheion" (Πάνθειον), whose is derived the Ancient Greek words "pân" (πᾶν), meaning all; and "theós" (θεός) meaning god.

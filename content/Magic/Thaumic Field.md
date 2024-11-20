@@ -21,6 +21,6 @@ In reality, the thaumic field is three-dimensional. The hills and divots of the 
 - [[Magic]]
 
 # Footnotes
-[^qft]: ![[Uyu.svg|12]] **[[OOU]]**: Surprise, it's analogous to Quantum Field Theory (QFT). This scientifically-motivated "hard magic" approach is what makes the setting science fantasy, despite the fact that much of the science is obscured from mankind.
+[^qft]: ![[uyu.svg|12]] **[[OOU]]**: Surprise, it's analogous to Quantum Field Theory (QFT). This scientifically-motivated "hard magic" approach is what makes the setting science fantasy, despite the fact that much of the science is obscured from mankind.
 
-[^thau]: ![[Uyu.svg|12]] **[[OOU]]**: "thaumaturgy" and "thaumatology" are both English words referencing the application of magic to change the physical world, particular to influence forces of nature, or to do miracles (lit. miracle-working and the study of miracles, respectively). The word "thaumaturgy" has origins in Ancient Green from the words "thaûma" (θαῦμα) meaning miracles and "érgon" (ἔργον) meaning work. Similarly, "thaumic field" means miracle field, or the field in which miracles occur.
+[^thau]: ![[uyu.svg|12]] **[[OOU]]**: "thaumaturgy" and "thaumatology" are both English words referencing the application of magic to change the physical world, particular to influence forces of nature, or to do miracles (lit. miracle-working and the study of miracles, respectively). The word "thaumaturgy" has origins in Ancient Green from the words "thaûma" (θαῦμα) meaning miracles and "érgon" (ἔργον) meaning work. Similarly, "thaumic field" means miracle field, or the field in which miracles occur.

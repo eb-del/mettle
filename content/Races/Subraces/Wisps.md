@@ -28,4 +28,4 @@ The conflation of mourning wisps and places of great death has led to the popula
 - [[Quirk Magic]]
 
 # Footnotes
-[^wisp]: ![[Uyu.svg|12]] **[[OOU]]**: The term "wisp" is a direct reference to the entities in British folklore, "will o' the wisp" or "will-o'-wisp". In this context, "wisp" refers to a bundle of hay used as a torch, with roots in Old English. See also Middle Low German "wispel" (a measure of grain).
+[^wisp]: ![[uyu.svg|12]] **[[OOU]]**: The term "wisp" is a direct reference to the entities in British folklore, "will o' the wisp" or "will-o'-wisp". In this context, "wisp" refers to a bundle of hay used as a torch, with roots in Old English. See also Middle Low German "wispel" (a measure of grain).

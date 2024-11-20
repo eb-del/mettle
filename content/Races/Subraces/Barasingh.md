@@ -34,6 +34,6 @@ A Barasingh's natural eye for decoration, either of self or of spaces, lends the
 - [[Humans]]
 
 # Footnotes
-[^bara]: ![[Uyu.svg|12]] **[[OOU]]**: The name "Barasingh" is an alternate spelling of the English word "barasingha", referencing a real-world species of swamp deer native to the Indian subcontinent. The English word is derived from Hindi "bārahsinggā" (बारहसिंगा) meaning twelve-horned.
+[^bara]: ![[uyu.svg|12]] **[[OOU]]**: The name "Barasingh" is an alternate spelling of the English word "barasingha", referencing a real-world species of swamp deer native to the Indian subcontinent. The English word is derived from Hindi "bārahsinggā" (बारहसिंगा) meaning twelve-horned.
 
-[^makh]: ![[Uyu.svg|12]] **[[OOU]]**: The term "makhamal" is the romanization of the Hindi word for velvet (मखमल). "Velvet" is the term for the vascular tissue around an antler that grows as it matures.
+[^makh]: ![[uyu.svg|12]] **[[OOU]]**: The term "makhamal" is the romanization of the Hindi word for velvet (मखमल). "Velvet" is the term for the vascular tissue around an antler that grows as it matures.

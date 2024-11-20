@@ -46,11 +46,12 @@ In addition to these broader titles, there are also more specific, specialist ti
 
 # Further Reading
 - [[index|Make and Mettle]]
-- [[Psyche]], the soul and principal interface with magic
+- [[Psyche]]
+- [[Analisk]]
 
 # Footnotes
-[^mag]: ![[Uyu.svg|12]] **[[OOU]]**: The English words "magic" and "mage" has origins in the Ancient Greek word "magikós" (μαγικός), as in pertaining to the qualities of a "mágos" (μάγος), which itself is a borrowed word from Old Persian "maguš⁠" (written in cuneiform), a word referencing priests to the deity Mazda. 
+[^mag]: ![[uyu.svg|12]] **[[OOU]]**: The English words "magic" and "mage" has origins in the Ancient Greek word "magikós" (μαγικός), as in pertaining to the qualities of a "mágos" (μάγος), which itself is a borrowed word from Old Persian "maguš⁠" (written in cuneiform), a word referencing priests to the deity Mazda. 
 
-[^sorc]: ![[Uyu.svg|12]] **[[OOU]]**: The English words "sorcery" and "sorcerer" ultimately comes from Latin "sors", meaning fate, from *reconstructed* Proto-Indo-European "ser-" meaning to bind, or thread. The notion of sorcery as "fate-weaving" comes from the etymological origin.
+[^sorc]: ![[uyu.svg|12]] **[[OOU]]**: The English words "sorcery" and "sorcerer" ultimately comes from Latin "sors", meaning fate, from *reconstructed* Proto-Indo-European "ser-" meaning to bind, or thread. The notion of sorcery as "fate-weaving" comes from the etymological origin.
 
-[^wiz]: ![[Uyu.svg|12]] **[[OOU]]**: The English words "wizard" comes from Middle English "wysard", meaning an individual who is wise. The conflation of wizards and magic did not appear until the 1500s.
+[^wiz]: ![[uyu.svg|12]] **[[OOU]]**: The English words "wizard" comes from Middle English "wysard", meaning an individual who is wise. The conflation of wizards and magic did not appear until the 1500s.

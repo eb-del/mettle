@@ -36,6 +36,6 @@ To know a verisimilar name grants none of the powers of knowing a true name, exc
 - [[Eternals]]
 
 # Footnotes
-[^ono]: ![[Uyu.svg|12]] **[[OOU]]**: The term "onomastics" and "onomastician" are real-world English words referring to the study of proper names, including their etymology, history, and use.
+[^ono]: ![[uyu.svg|12]] **[[OOU]]**: The term "onomastics" and "onomastician" are real-world English words referring to the study of proper names, including their etymology, history, and use.
 
-[^pan]: ![[Uyu.svg|12]] **[[OOU]]**: The term "Panonoma" is constructed from the Ancient Greek "pan-" (πᾰν-) meaning all, and "ónoma" (ὄνομᾰ), meaning name. 
+[^pan]: ![[uyu.svg|12]] **[[OOU]]**: The term "Panonoma" is constructed from the Ancient Greek "pan-" (πᾰν-) meaning all, and "ónoma" (ὄνομᾰ), meaning name. 
