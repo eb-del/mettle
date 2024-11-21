@@ -25,6 +25,6 @@ A **true zoophyte** is any organism that genuinely inhabits the intersection bet
 
 [^cnid]: ![[uyu.svg|12]] **[[OOU]]**:  In the real world, these organisms fall into Radiata, Cnidaria, Porifora, and Ctenophora.
 
-[^fungi]: ![[uyu.svg|12]] **[[OOU]]**: It is important to note that the [[Plants|plant genus]] in this setting also encompasses most fungi. The real-world formal separation of fungi from the plants was set in stone in 1969, with Robert Whittaker's five-kingdom taxonomic system.
+[^fungi]: ![[uyu.svg|12]] **[[OOU]]**: It is important to note that the [[Plants|plant genus]] in this setting also encompasses most fungi. The real-world formal separation of fungi from the plants was set in stone in 1969 AD, with Robert Whittaker's five-kingdom taxonomic system.
 
 [^cord]: ![[uyu.svg|12]] **[[OOU]]**:  In the real world, these are the Cordyceps.

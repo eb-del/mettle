@@ -25,6 +25,7 @@ Some animals have established themselves in humanity's history, as legendary cre
 
 # Further Reading
 - [[Genera]] 
+- [[Seath]]
 
 # Footnotes
 [^aris]: ![[uyu.svg|12]] **[[OOU]]**:  Ancient Greek in origin, the distinction "enhaima" (blooded; ἔναιμα) and "anhaima" (bloodless; ἄναιμα) is based on Aristotle's classification of animals, which very loosely correlated with vertebrates and invertebrates respectively.
