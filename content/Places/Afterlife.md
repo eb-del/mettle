@@ -12,7 +12,7 @@ Seath and the afterlife are two opposing planes that represent the natural duali
 
 Unlike  Seath, the afterlife does not have a [[World Soul|world soul]].
 
-Some [[eternals]] reside permanently in the afterlife. These eternals are often vying for the placement of human souls into their dominion or realm. 
+Some [[Eternals]] reside permanently in the afterlife. These eternals are often vying for the placement of human souls into their dominion or realm. 
 
 # Further Reading
 - [[Places]]

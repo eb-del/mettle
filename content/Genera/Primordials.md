@@ -5,7 +5,7 @@ tags:
   - 
 ---
 
-**Primordials** (also known as **trickster beasts**) are a venerable and monstrous [[Races|race]], known for their colossal size, ancient curse, and the blood pacts they make with [[Humans|human]] [[Lineages|lineages]]. Primordials are often better recognized by their most populous subrace, the chimeras.
+**Primordials** (also known as **trickster beasts**) are a venerable and monstrous [[Genera|genus]], known for their colossal size, ancient curse, and the blood pacts they make with [[Humans|human]] [[Lineages|lineages]]. Primordials are often better recognized by their most populous  [[Genera#Subgenera|subgenus]], the chimeras.
 
 # Description
 
@@ -20,7 +20,7 @@ Primordials have learned to use what remains of their soul to bind human bloodli
 
 Completely starved and feral primordials become entirely and irreversibly soulless, losing all intelligence and sense of self. Somehow, however, a starved primordial mysteriously maintains its vigor and the capacity to wield sorcery. Soulless primordials thrash and writhe against their own hunger, and often die not from starvation, but from self-inflicted wounds and unrestrained, tumorous growth.
 
-# Subraces
+#  Subgenera
 ## Chimeras 
 **Chimeras** are the most common form of primordial, often characterized as creatures made from a combination of various animal features. Chimeras sometimes have multiple heads. Chimeras are usually identified and labeled by the species of their original animal (i.e. a horse chimera is a primordial horse that became chimeric with other animals features).
 
@@ -32,7 +32,7 @@ Pureblooded primordials are the non-chimera primordials, seen as colossal versio
 - [[Goliath]], the great millipede
 
 # Further Reading
-- [[Races]]
+- [[Genera]]
 - [[Analisk]]
 
 # Footnotes

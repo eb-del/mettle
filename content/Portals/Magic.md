@@ -9,7 +9,7 @@ tags:
 
 To the average person, **magic**[^mag] (also known as **sorcery**[^sorc]) broadly encompasses all mysterious and supernatural phenomena. To more empirically-minded practitioners of magic, there exists a more precise description of magic: as the behaviors and nuances of the [[Thaumic Field|thaumic field]].
 
-It is believed by many that magic is not native to [[Seath]], acting in opposition to the natural order of the world. It is believed that magic stems from the otherworldly intervention of the [[Races#Actors and Agents|actor races]]; that magic is native to elsewhere. In [[Humans|humans]] (and certain species of [[Animals|animal]]), magic has the unique property of interfacing with the [[Psyche|psyche]] or soul—a fundamental relationship at the core of all forms of sorcery. 
+It is believed by many that magic is not native to [[Seath]], acting in opposition to the natural order of the world. It is believed that magic stems from the otherworldly intervention of the [[Genera#Eternal Contest|actor races]]; that magic is native to elsewhere. In [[Humans|humans]] (and certain species of [[Animals|animal]]), magic has the unique property of interfacing with the [[Psyche|psyche]] or soul—a fundamental relationship at the core of all forms of sorcery. 
 
 # Disciplines
 There are many disciplines in the study and practice of magic, many intersecting and overlapping.

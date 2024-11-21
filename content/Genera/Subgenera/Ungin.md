@@ -5,7 +5,7 @@ tags:
   - 
 ---
 
-**Ungin**[^ung]  (sometimes called **bearkin**) are a [[Humans|human]] subrace known for their innate ability to [[Morphosis|shapeshift]] between human and bear forms. They are regarded as the descendants of the hero, [[Ungnyeo]][^ung].
+**Ungin**[^ung]  (sometimes called **bearkin**) are a  [[Genera#Subgenera|subgenus]]  of [[Humans|human]] known for their innate ability to [[Morphosis|shapeshift]] between human and bear forms. They are regarded as the descendants of the hero, [[Ungnyeo]][^ung].
 
 # Features
 ## Physiology
@@ -19,7 +19,7 @@ An Ungin's human hair color corresponds to the color of their bear form's fur.
 
 Ungin are omnivorous, favoring a highly variable diet. Ungin are capable of eating raw meat in either form, though cooked meat is universally preferred. Nutrition is important to an Ungin, as their ability to maintain their bear form relies on being well-fed. A starving Ungin is unable to shapeshift, often returning to their human form (which has lower nutritional demands than their bear form). Most Ungin prefer to eat their meals in human form.
 
-Ungin are born as the offspring of any coupling where one or both of the parents are also Ungin. In mixed-subrace unions, the likelihood of producing a purely Ungin child is twice that of producing a child of another subrace. This prevalence in genetic probability leads to a steady increase in the Ungin population, balanced only by the Ungin preference for three or fewer offspring. There are no Ungin half-breeds; if a parent of an Ungin is of another subrace, only [[Humans#Common Features|common features]] are imparted.
+Ungin are born as the offspring of any coupling where one or both of the parents are also Ungin. In mixed-subgenus unions, the likelihood of producing a purely Ungin child is twice that of producing a child of another type. This prevalence in genetic probability leads to a steady increase in the Ungin population, balanced only by the Ungin preference for three or fewer offspring. There are no Ungin half-breeds; if a parent of an Ungin is of another subgenus, only [[Humans#Common Features|common features]] are imparted.
 
 ## Personality
 Ungin have a heightened sense of proportionality of self, understanding clearly how much space their bodies occupy. Ungin have a tendency to keep away from narrow or cramped spaces, and will often give others a wide berth. Some Ungin get irritable in crowded areas or if their personal space is invaded. The extremes of this natural tendency can manifest as claustrophobia or agoraphobia.
@@ -36,7 +36,7 @@ Ungin-specific attire is often preferred. Ungin-specific attire typically involv
 There also exist a sizable fraction of Ungin that favor nudity, minimizing hinderances to shapeshifting entirely. These Ungin are more often in their bear form, than in their human form.
 
 # Society
-Like the [[Barasingh]], a history of discrimination against animal-like subraces—often believed to bare the [[Primordials#Primordial Curse|primordial curse]]—continues to promote seclusion and distancing among the Ungin.
+Like the [[Barasingh]], a history of discrimination against animal-like subgenera—often believed to bare the [[Primordials#Primordial Curse|primordial curse]]—continues to promote seclusion and distancing among the Ungin.
 
 Ungin prefer isolated, self-sufficient lives at the peripheries of human settlements. Like the [[Eoten]], Ungin of this nature typically adopt lifestyles that embrace small-scale agriculture, in addition to hunting and gathering. Ungin enjoy fortified dwellings, constructing barriers of any kind around the perimeter of their claim (such as simple walls and fences).
 
@@ -45,7 +45,7 @@ For the Ungin that live within larger settlements, they typically find themselve
 When encountering actual bears, Ungin are treated as though they are humans, even in their bear form. Ungin lack any innate ability to communicate with actual bears, despite being able to produce their huffs, growls, and jaw-pops.
 
 # Further Reading
-- [[Races]]
+- [[Genera]]
 - [[Humans]]
 
 # Footnotes

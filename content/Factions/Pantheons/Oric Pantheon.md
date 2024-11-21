@@ -5,7 +5,7 @@ tags:
   - 
 ---
 
-The **Oric pantheon** is a [[Pantheons|pantheon]] that contains no [[eternals]], but instead many deified [[Humans|humans]], primarily members of the [[Orisir#Or dynasty|Or dynasty]], and the broader leadership of the [[Orisir]]. 
+The **Oric pantheon** is a [[Pantheons|pantheon]] that contains no [[Eternals]], but instead many deified [[Humans|humans]], primarily members of the [[Orisir#Or dynasty|Or dynasty]], and the broader leadership of the [[Orisir]]. 
 
 # Discipleship
 As a religion, the Oric pantheon portrays the members of the Or dynasty as a lineage with divinity in their blood. The powers granted to the Or dynasty via the blood pact with [[Python]] are disguised as a godly heritage, rooted in the lineage's founder, [[Or]].

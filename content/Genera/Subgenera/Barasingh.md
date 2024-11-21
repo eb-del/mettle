@@ -5,7 +5,7 @@ tags:
   - 
 ---
 
-**Barasingh**[^bara] (sometimes called **deerfolk**) are a [[Humans|human]] subrace known for their insular culture, tendency towards ornamentation, and cervine antlers.
+**Barasingh**[^bara] (sometimes called **deerfolk**) are a [[Genera#Subgenera|subgenus]] of [[Humans|human]] known for their insular culture, tendency towards ornamentation, and cervine antlers.
 
 # Features
 ## Physiology
@@ -23,14 +23,14 @@ Despite their ostentatious self-expression in their dress and adornments, Barasi
 To reference a Barasingh's antlers with any amount of disrespect (in particular, calling them "horns") is considered a universal insult, regardless of a Barasingh's tribe, beliefs, allegiances, or values.
 
 # Society
-Like the [[Ungin]], a history of discrimination against giant or animal-like subraces—often wrongly believed to bare the [[Primordials#Primordial Curse|primordial curse]]—continues to promote seclusion and distancing among the Barasingh.
+Like the [[Ungin]], a history of discrimination against giant or animal-like human subgenera—often wrongly believed to bare the [[Primordials#Primordial Curse|primordial curse]]—continues to promote seclusion and distancing among the Barasingh.
 
 As a result, Barasingh redirect their sociable tendencies inward, and tend to form units (families, organizations, tribes) with other Barasingh. In more diverse human settlements, Barasingh form enclaves, self-segregating as a natural tendency. 
 
 A Barasingh's natural eye for decoration, either of self or of spaces, lends them to artisan roles such as jewelers, weavers, clothiers, rugmakers, and more. 
 
 # Further Reading
-- [[Races]]
+- [[Genera]]
 - [[Humans]]
 
 # Footnotes

@@ -5,7 +5,7 @@ tags:
   - 
 ---
 
-**Manutoa**[^toa]  (sometimes  pejoratively called **peika**[^pei]) are a [[Humans|human]] subrace known for their [[Sawaiki|flying city]], unburdened nomadism, and their natural talent with [[Kinesis#Aerokinesis|aerokinetic flight]].
+**Manutoa**[^toa]  (sometimes  pejoratively called **peika**[^pei]) are a  [[Genera#Subgenera|subgenus]] of [[Humans|human]] known for their [[Sawaiki|flying ancestral city]], unburdened nomadism, and their natural talent with [[Kinesis#Aerokinesis|aerokinetic flight]].
 
 # Features
 ## Physiology
@@ -16,15 +16,15 @@ The Manutoa's primary uniqueness in physiology is in their internal organs. Thei
 Collectively Manutoan anatomy reflects evolutionary optimization for flight. As a result of these optimizations, Manutoa are deficient in other areas, such as physical strength in lifting, carrying, and pushing. Manutoa are easily over encumbered. Despite being able to fly, Manutoa do not have any outward bird-like features.
 
 ## Personality
-Manutoa are, by many perspectives, the most cohesive of the human subraces. This leads to culture and tradition mixing with tendencies in personality.
+Manutoa are, by many perspectives, the most cohesive of the human subgenera. This leads to culture and tradition mixing with tendencies in personality.
 
 Manutoa are free-spirited and inclined to explore. Manutoa spend much of their early adulthood compeled to see the entirety of the [[Seath|world]]. Despite their strong wanderlust, Manutoa also naturally gravitate towards home, perpetuating a cycle of venture and return. This cycle is endorsed and praised in Manutoan culture.
 
-As their cardiovascular and nuerological systems are overclocked, Manutoa are often more energetic and stimulated than the other subraces. This can manifest as any combination of extroverted, anxious, over-expressive, hypervigilant, and fastidious behaviors. 
+As their cardiovascular and nuerological systems are overclocked, Manutoa are often more energetic and stimulated than the other human subgenera. This can manifest as any combination of extroverted, anxious, over-expressive, hypervigilant, and fastidious behaviors. 
 
 As Manutoan anatomy is specialized towards being lightweight and flight-capable, they've developed a natural aversion to physical burdens and encumbrance. When transporting items, Manutoans are more willing to make multiple lightweight journeys, rather than singular bulk movements. This physical tendency is also reflected in their perspective when solving problems. Manutoa tend to take large tasks and subdivide them into lists of simpler subtasks—less mature Manutoans become irritable when a task can't be subdivided.
 
-Many Manutoa have an uncommon relationship with property, believing need over ownership. The idea of owning something that one doesn't immediately need seems to many Manutoa as a needless burden. Traveling Manutoa believe in foraging, trading, or purchasing what they need as they go, rather than preparing luggage in advance. Manutoa lacking empathy, foresight, and mindfulness gravitate towards petty theft and kleptomania, hence spurring the pejorative nickname of "peika" (magpies) from other subraces of human.
+Many Manutoa have an uncommon relationship with property, believing need over ownership. The idea of owning something that one doesn't immediately need seems to many Manutoa as a needless burden. Traveling Manutoa believe in foraging, trading, or purchasing what they need as they go, rather than preparing luggage in advance. Manutoa lacking empathy, foresight, and mindfulness gravitate towards petty theft and kleptomania, hence spurring the pejorative nickname of "peika" (magpies) from other types of human.
 
 # Society
 All Manutoa have ancestral ties with the flying city-state of [[Sawaiki]].
@@ -34,7 +34,7 @@ Manutoan society revolves around Sawaiki, believing the city as the great origin
 Manutoans who live in grounded human settlements often find roles as explorers, couriers, and scouts. Many maps in human society have been charted by Manutoans. Manutoa have a natural comfort at altitude, lending them to mountaineering roles such as guiding travelers through difficult mountain passes, or as attendants for phryctoria[^phry].
 
 # Further Reading
-- [[Races]]
+- [[Genera]]
 - [[Humans]]
 
 # Footnotes

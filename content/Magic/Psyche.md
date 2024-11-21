@@ -15,7 +15,7 @@ The discipline of magic that studies the psyche (predominantly in the context of
 ## Anima
 The term psyche is often reserved for animals capable of mental individuality, and most often applies to species of vertebrates (animals with a axial endoskeleton; a spine) with few exceptions (the cephalopods and arachnids, for example). 
 
-For the vast remainder of living creatures, such as insects, fungi, plants, and [[Animals#Nigoda|nigoda]] (microbia), the term **anima** is used, describing a simpler living essence. Some believe that animas and psyches are fundamentally the same with different levels of complexity, and that this complexity is responsible for an organism's force of will.
+For the vast remainder of living creatures, such as insects, [[Plants|plants]][^plant], and [[Animals#Nigoda|nigoda]] (microbia), the term **anima** is used, describing a simpler living essence. Some believe that animas and psyches are fundamentally the same with different levels of complexity, and that this complexity is responsible for an organism's force of will.
 
 The broad category of all living beings (with or without a psyche) are called the **animate**. The remainder of the physical world that lacks any form of living essence is often called the **inanimate**. 
 
@@ -26,3 +26,5 @@ The broad category of all living beings (with or without a psyche) are called th
 
 # Footnotes
 [^psy]: ![[uyu.svg|12]] **[[OOU]]**: The term "psyche" is an Ancient Greek concept, derived from the word "psūkhḗ" (ψῡχή), which is the noun form of the verb "psū́khō" (ψῡ́χω). The word "psūkhḗ" is never used, however, to describe the act of blowing, but instead explicitly as the immaterial essence of life, the animating force, the soul; to breathe life into something, ensoulment.
+
+[^plant]: ![[uyu.svg|12]] **[[OOU]]**: It is important to note that the [[Plants|plant genus]] in this setting also encompasses most fungi—as taxonomic classification in this setting is under-developed and still in its infancy. The real-world formal separation of fungi from the plants was set in stone in 1969, with Robert Whittaker's five-kingdom taxonomic system.

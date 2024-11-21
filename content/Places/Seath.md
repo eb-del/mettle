@@ -5,7 +5,7 @@ tags:
   - 
 ---
 
-**Seath**[^sth] is both the [[Places#Planes|plane of existence]] and the world in which the [[Races#Actors and Agents|agent races]], [[Humans|humans]] and [[Animals|animals]], are native to. The presence of life on Seath has granted the world a [[World Soul|world soul]], a pseudo-consciousness that seeks to maintain balance across its ecosystems.
+**Seath**[^sth] is both the [[Places#Planes|plane of existence]] and the world in which the [[Genera#Eternal Contest|agent races]] (the [[Plants|plants]], [[Animals|animals]], and [[Humans|humans]]) are native to. The presence of life on Seath has granted the world a [[World Soul|world soul]], a pseudo-consciousness that seeks to maintain the survival of life and a balance across its ecosystems.
 
 # Name
 The [[True Names#Approximates|verisimilar name]] "Seath" was given to humanity by the [[Eternals|eternal]] [[Cornucopia]].

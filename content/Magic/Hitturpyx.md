@@ -5,7 +5,7 @@ tags:
   - 
 ---
 
-**Hitturpyx**[^htpx] is a nominal language-like algorithm used as the only method for writing [[True Names]]. All true names and [[True Names#Approximates|verisimilar names]] revealed to [[Humans|humanity]] by an [[eternals|eternal]] were done so using Hitturpyx.
+**Hitturpyx**[^htpx] is a nominal language-like algorithm used as the only method for writing [[True Names]]. All true names and [[True Names#Approximates|verisimilar names]] revealed to [[Humans|humanity]] by an [[Eternals|eternal]] were done so using Hitturpyx.
 
 # Description
 Hitturpyx is a nominal system. All words in Hitturpyx are true names, which themselves are proper nouns. There are no other lexical categories in Hitturpyx; many verbs, adjectives, and other words of other lexical categories have been nominalized (made into a noun).

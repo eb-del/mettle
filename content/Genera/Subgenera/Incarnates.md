@@ -5,12 +5,12 @@ tags:
   - 
 ---
 
-**Incarnates**[^inc] are an extremely transient subrace of [[Ephemerals|ephemeral]], appearing as personifications of ideas and experiences unique or significant to the human condition. 
+**Incarnates**[^inc] are an extremely transient  [[Genera#Subgenera|subgenus]] of [[Ephemerals|ephemeral]], appearing as personifications of ideas and experiences unique or significant to the human condition. 
 
 # Description
 Incarnates are among the most fleeting of the ephemerals, and are akin to performers in a play: they are living embodiments representing a particular facet of humanity, who then disappear the moment they leave one's attention. Incarnates are indistinguishable from humans; often individuals don't realize that they've encountered an incarnate until long after they've disappear. Incarnates the mysterious property to smooth an individual's attentiveness, to be naturally inconspicuous, to seem like they belong wherever they are. It is extremely rare for anyone to be suspicious of an incarnate's identity.
 
-Unlike [[eidolons]], incarnates are completely material, and impose an influence on the physical world. Additionally, unlike eidolons, incarnates are not born from a psyche, but rather are simply created from ambient magic, perturbed and coalesced by the human force of will; an echo of the human endeavor. Despite their corporeal form, they and their possessions can disappear, suggesting their existence as some kind of mass illusion.
+Unlike [[Eidolons]], incarnates are completely material, and impose an influence on the physical world. Additionally, unlike eidolons, incarnates are not born from a psyche, but rather are simply created from ambient magic, perturbed and coalesced by the human force of will; an echo of the human endeavor. Despite their corporeal form, they and their possessions can disappear, suggesting their existence as some kind of mass illusion.
 
 Incarnates lack an identity or even any real personality beyond that which they are embedded with; they are incomplete, narrow, specific representations of humanity. Incarnates are condemned to a story or goal whose events cannot be altered. Incarnates are never aware that they are an incarnate, instead enthralled in their synthetic memories and the moment or emotion that they are trying to capture.
 

@@ -15,7 +15,7 @@ The exact transition between a familiar place and unfamiliar place is always sub
 Somewhere along the journey is a natural threshold—such as a tunnel, a hollow tree, a waterfall, a blind bend, a forgotten doorway—that serves as the gateway between Seath and the unfamiliar destination. This threshold is the only means of return.
 
 # Destinations
-Wanderwhimsy always takes people to a place that does not exist on [[Seath]]. These places can be alternate [[Places#Planes|plane of existence]], such as those in which [[eternals]] may permanently reside. These places can be fictitious, temporary worlds forged by an [[Ephemerals|ephemeral]], such as a [[Incarnates#Liminalities|liminality]]. 
+Wanderwhimsy always takes people to a place that does not exist on [[Seath]]. These places can be alternate [[Places#Planes|plane of existence]], such as those in which [[Eternals]] may permanently reside. These places can be fictitious, temporary worlds forged by an [[Ephemerals|ephemeral]], such as a [[Incarnates#Liminalities|liminality]]. 
 
 Wanderwhimsy never takes those enthralled by it to outright uncomfortable, inhospitable, or dangerous locations. Wanderwhimsy has a tendency towards maintaining a state of absent-mindedness and avoiding places that'd cause alarm or alertness; a tendency reflected in the destinations that people often arrive to.
 

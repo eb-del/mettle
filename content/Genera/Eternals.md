@@ -5,7 +5,7 @@ tags:
   - 
 ---
 
-**Eternals** (referenced popularly by [[Humans|humans]] as **gods**) are a timeless and powerful [[Races|race]] from other [[Places#Planes|planes of existence]], known for their immortality and role in [[Pantheons|religion]]. 
+**Eternals** (referenced popularly by [[Humans|humans]] as **gods**) are a timeless and powerful [[Genera|genus]] from other [[Places#Planes|planes of existence]], known for their immortality and role in [[Pantheons|religion]]. 
  
 
 # Description
@@ -20,7 +20,7 @@ There are a handful of features common to all eternals.
 
 Eternals are regarded as immortal in the eyes of humans; many have existed since the beginning of time. This is not to say eternals are invulnerable. Many eternals engage in divine, unseen conflicts, with versions of war and death that easily transcend the understanding of Seath's inhabitants.
 
-Eternals universally have the ability to travel between planes of existence, regarded as visitors to Seath's dominion. Some are subject to unique rules and courtesies while others can travel freely. The frequent visitation of eternals throughout history is widely regarded as the source of all [[magic]] in the world.
+Eternals universally have the ability to travel between planes of existence, regarded as visitors to Seath's dominion. Some are subject to unique rules and courtesies while others can travel freely. The frequent visitation of eternals throughout history is widely regarded as the source of all [[Magic]] in the world.
 
 Eternals, regardless of origin or ability, can communicate on some capacity with any other eternal, and can readily identify any other lesser (non-eternal) being by their [[True Names]]. The ability to use true names grants eternals a small degree of omniscience over humanity. Through the [[True Names#Properties|natural properties]] of true names, an eternal can recognize the constituent components of that human: their values, their language, their allegiances, their truths, their deceptions, their possessions. A common gift to humanity is to be taught an important [[True Names#Approximates|verisimilar name]].
 
@@ -49,7 +49,7 @@ Eternals are never omnipotent, and only one is truly omnipresent.
 - [[Maw]]
 
 # Further Reading
-- [[Races]]
+- [[Genera]]
 - [[True Names]]
 
 # Footnotes

@@ -5,11 +5,11 @@ tags:
   - 
 ---
 
-**Galateans**[^gal] are a [[Humans|human]] subrace, known for their outward beauty, sensitivity of emotion, and mysterious origins in chiseled stone.
+**Galateans**[^gal] are a  [[Genera#Subgenera|subgenus]] of [[Humans|human]], known for their outward beauty, sensitivity of emotion, and mysterious origins in chiseled stone.
 
 # Features
 ## Physiology
-A mysterious subrace of human, Galateans are born from statues baring the human form, particularly that of [[Harthwrichts]] . Galateans emerge indistinguishable from their a regular human, aside from a subtle discoloration pattern on their skin that resembles the veins in their source marble. 
+Galateans are born from statues baring the human form, particularly that of [[Harthwrichts]] . Galateans emerge indistinguishable from their a regular human, aside from a subtle discoloration pattern on their skin that resembles the veins in their source marble. 
 
  It is impossible to create a Galatean purposefully, as the statues they are born from are often neglected, unseen, and forgotten from memory. A Galatean's age at birth depends on that which is depicted by their statue; the statue of a child produces a child, the statue of an adult produces an adult. Any damage to a statue is not reflected in the produced individual; as though the newborn Galatean is the perfect image that the original sculptor attempted to capture in stone. Statues are often made of noteworthy people, as a result, Galateans often bare a resemblance to some important figure—though they are often quick to find some level of individual expression in their hair, dress, and stylings.
 
@@ -28,7 +28,7 @@ At the extremes, a Galatean's emotions can become their greatest vulnerability. 
 
 When a Galatean's willpower is on the verge of breaking (either by stress or eventually as they age), they immediately seek seclusion and isolation. Alone, when their will to live is depleted, a Galatean will gradually turn again to stone—an irreversible process.
 
-The strong emotional states of Galatean cause them to naturally invite the presence of [[incarnates]]. Nearly all Galateans encounter an incarnate at least once in their lives.
+The strong emotional states of Galatean cause them to naturally invite the presence of [[Incarnates]]. Nearly all Galateans encounter an incarnate at least once in their lives.
 
 To suggest that a Galatean is not a person (and by extension, unentitled to courtesy and kindness) because they are "made" and not "born" is considered a universal insult, regardless of a Galatean's tribe, beliefs, allegiances, or values. Similarly, Galateans universally show an innate and almost violent aversion towards any attempt or mention of manufacturing their people; of purposefully making statues to produce more Galateans. 
 
@@ -36,7 +36,7 @@ To suggest that a Galatean is not a person (and by extension, unentitled to cour
 Most Galateans find their place among solitary artisans, poets, and craftsmen. They have a natural talent for the arts and for handiworks. Galateans also grasp aspects of geometry faster than other humans, such as proportions, distances, and scales. Many Galateans are meticulous and detail oriented, some serving as planners and advisors in great cities for works in construction.
 
 # Further Reading
-- [[Races]]
+- [[Genera]]
 - [[Humans]]
 
 # Footnotes

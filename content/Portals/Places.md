@@ -13,7 +13,7 @@ In general (and as an [[OOU|out-of-universe]] convention), settlements and [[Pol
 The idea of a human settlement being a permanent place is still—like civilization as a whole—in its infancy, not unlike the seasonal nests of birds. These territorial claims are better known by their nearby natural features, such as rivers, mountains, or seas.
 
 ## Monuments
-**Monuments** constitute the few artificial structures in the world that have lifespans rivaling mountains and rivers. Monuments can either be man-made, or created by any of the [[Races#Actors and Agents|actor races]]. Some monuments even outlast the settlements that envelop them, such as the colossal [[Letheia]] and the ruined city-state of [[Acheriom]].
+**Monuments** constitute the few artificial structures in the world that have lifespans rivaling mountains and rivers. Monuments can either be man-made, or created by any of the [[Genera#Eternal Contest|actor races]]. Some monuments even outlast the settlements that envelop them, such as the colossal [[Letheia]] and the ruined city-state of [[Acheriom]].
 
 # Planes
 A **plane of existence** (also known as a **plane**) describes self-contained, planet-like places throughout the *Make & Mettle* universe. Though they are planet-like, they cannot be seen or visited by any kind of [[Astronomy|astronomy]]; the ability to travel between planes without cost or hinderance is a luxury of the [[Eternals|eternals]].

@@ -5,7 +5,7 @@ tags:
   - 
 ---
 
-A **polity**[^pol] is a group of individuals, typically [[humans]], that have formed a collective identity, with the ability to coordinate the movement and distribution of resources through the use of institutions (such as a government or other organization). **States** or **countries** (such as kingdoms, confederacies, and empires) are considered a more static form of polity.  See also [[Places#Human Claims|human claims]].
+A **polity**[^pol] is a group of individuals, typically [[Humans]], that have formed a collective identity, with the ability to coordinate the movement and distribution of resources through the use of institutions (such as a government or other organization). **States** or **countries** (such as kingdoms, confederacies, and empires) are considered a more static form of polity.  See also [[Places#Human Claims|human claims]].
 
 ## [[Humans|Human]]
 - [[Acheriom]]

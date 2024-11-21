@@ -9,7 +9,7 @@ This is a worldbuilding project currently under construction.
 
 # Further Reading
 - [[Factions]]
-- [[Races]]
+- [[Genera]]
 - [[Places]]
 - [[Magic]]
 - [[Technologies]]

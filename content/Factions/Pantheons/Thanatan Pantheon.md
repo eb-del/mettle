@@ -5,7 +5,7 @@ tags:
   - 
 ---
 
-The **Thanatan pantheon**[^thano] is a [[Pantheons|pantheon]] that contains five [[eternals]]: [[Hypone]], [[Agrypone]], [[Miserone]], [[Euthymone]], and [[Nycta]]; the [[Primordials|primordial]] millipede [[Goliath]]; and countless additional deified humans (known as archiaters). 
+The **Thanatan pantheon**[^thano] is a [[Pantheons|pantheon]] that contains five [[Eternals]]: [[Hypone]], [[Agrypone]], [[Miserone]], [[Euthymone]], and [[Nycta]]; the [[Primordials|primordial]] millipede [[Goliath]]; and countless additional deified humans (known as archiaters). 
 
 # Worship
 In human worship, the Thanatan pantheon focuses on humanity's relationship with death. Hypone and Agrypone are competing eternals that embody a "sleeping death" (peaceful, without suffering) and a "waking death" (violent, with suffering), respectively. Miserone and Euthymone are competing eternals that embody emotions around death relating to dread (misery) or joy (euthemy), respectively. Nycta is an eternal without a competing pair, embodying "pure and complete death"—an ambiguous concept debated by Thanatan disciples; though popularly attributed to "death by forgetting".
