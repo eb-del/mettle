@@ -19,7 +19,7 @@ There are presently six known genera. While the boundaries between the genera ar
 
 
 ## Subgenera
-A **subgenus** (plural: **subgenera**, also commonly known as **subrace**) describes more specific classification within a broader genus. The distinction as to what defines a subgenus differs from genus to genus: The boundaries [[Humans|human]] subgenera are blurry, whereas the boundaries in [[Animals|animal]] subgenera are more concrete; speciated.
+A **subgenus**[^gen] (plural: **subgenera**, also commonly known as **subrace**) describes more specific classification within a broader genus. The distinction as to what defines a subgenus differs from genus to genus: The boundaries [[Humans|human]] subgenera are blurry, whereas the boundaries in [[Animals|animal]] subgenera are more concrete; speciated.
 
 # Eternal Contest
 One of the central sources of cooperation and conflict within the world of *Make & Mettle* is the relationship between the **actor races** (the [[Eternals|eternals]], [[Ephemerals|ephemerals]], and [[Primordials|primordials]]) and the **agent races** (the natural, [[Psyche#anima|animate]] inhabitants of [[Seath]]:  the [[Plants|plants]], [[Animals|animals]], and [[Humans|humans]]). 
@@ -32,4 +32,4 @@ A common method of keeping this hold is for the actor races to offer supernatura
 - [[index|Make and Mettle]]
 
 # Footnotes
-[^gen]:  ![[uyu.svg|12]] **[[OOU]]**: Ancient Greek in origin, the terms "genus" come from Aristotle's use of "génos" (γένος; featured in *Topics*) meaning stock, breed, kin; featured primarily in the classification of animals. The use here contrasts modern taxonomy's usage of genus and subdenus, which are more motivated by evolution and genetics (as of yet undiscovered and undiscussed in this setting). 
+[^gen]:  ![[uyu.svg|12]] **[[OOU]]**: Ancient Greek in origin, the terms "genus" and "subgenus" come from the Ancient Greek word "génos" (γένος; featured in Aristotle's *Topics*) meaning stock, breed, kin; oriented primarily in the classification of animals. The use here contrasts modern taxonomy's usage of genus and subgenus, which are more motivated by evolution and genetics (as of yet undiscovered and undiscussed in this setting). 

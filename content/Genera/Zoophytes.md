@@ -10,9 +10,7 @@ A **zoophyte**[^zoop] is an organism that resides in the [[Genera|generic]] inte
 # Description
 Though many [[Humans|humans]] assert a clear distinction between plants and animals, there are still some organisms that reside in the grey area between the genera. 
 
-The zoophytes are comprised primarily of animals with a mostly vegetative, static nature, such as sea sponges, corals, barnacles, urchins, and starfish[^cnid]. A smaller fraction of zoophytes contain animals that use plant-like mimicry, such as the stick bugs and leaf insects; as well as plants that use animal-like mimicry, such as the corpse flower.
-
-Zoophytes also contain plant[^plant]-animal symbiotic pairings that are near inseparable, such as parasitic molds that inhabit and control insects[^cord] or in jellyfish that harbor algae as their sole food source. 
+The zoophytes are comprised primarily of carnivorous plants (such as the pitcher plant and fly trap) and animals with a mostly vegetative, static nature, (such as sea sponges, corals, barnacles, urchins, and starfish)[^cnid]. A smaller fraction of zoophytes contain animals that use plant-like mimicry, such as the stick bugs and leaf insects; as well as plants that use animal-like mimicry, such as the corpse flower. Zoophytes also contain plant-animal symbiotic pairings that are near inseparable, such as parasitic molds[^fungi][^cord] that inhabit and control insects or jellyfish that harbor algae as their sole food source. 
 
 ## True Zoophytes
 A **true zoophyte** is any organism that genuinely inhabits the intersection between plants and animals, rather than from misattribution or insufficient understanding. The most recognizable true zoophyte is the [[Barometz]], a plant that produces sheep as fruit.
@@ -27,6 +25,6 @@ A **true zoophyte** is any organism that genuinely inhabits the intersection bet
 
 [^cnid]: ![[uyu.svg|12]] **[[OOU]]**:  In the real world, these organisms fall into Radiata, Cnidaria, Porifora, and Ctenophora.
 
-[^plant]: ![[uyu.svg|12]] **[[OOU]]**: It is important to note that the [[Plants|plant genus]] in this setting also encompasses most fungi. The real-world formal separation of fungi from the plants was set in stone in 1969, with Robert Whittaker's five-kingdom taxonomic system.
+[^fungi]: ![[uyu.svg|12]] **[[OOU]]**: It is important to note that the [[Plants|plant genus]] in this setting also encompasses most fungi. The real-world formal separation of fungi from the plants was set in stone in 1969, with Robert Whittaker's five-kingdom taxonomic system.
 
 [^cord]: ![[uyu.svg|12]] **[[OOU]]**:  In the real world, these are the Cordyceps.
