@@ -7,11 +7,8 @@ tags:
 
 A **genus**[^gen] (plural: **genera**, also commonly known as **race**) is an informal division of stakeholders in the world, discerned by any combination of their physical nature, design of the [[Psyche|psyche]], place of origin, or ancestry. 
 
-## Subgenera
-A **subgenus**[^gen] (plural: **subgenera**, also commonly known as **subrace**) describes more specific classification within a broader genus. The distinction as to what defines a subgenus differs from genus to genus: The boundaries [[Humans|human]] subgenera are blurry, whereas the boundaries in [[Animals|animal]] subgenera are more concrete; speciated.
-
 # Known Genera
-There are presently six known genera. While the boundaries between the genera are often clear, there exists intersections, such as in the [[Zoophytes|zoophyes]] (plant-animals).
+There are presently six known genera. While the boundaries between the genera are often clear, there exists intersections, such as in the [[Zoophytes|zoophytes]] (plant-animals).
 
 - [[Humans]]
 - [[Plants]]
@@ -20,6 +17,9 @@ There are presently six known genera. While the boundaries between the genera ar
 - [[Eternals]]
 - [[Primordials]]
 
+
+## Subgenera
+A **subgenus** (plural: **subgenera**, also commonly known as **subrace**) describes more specific classification within a broader genus. The distinction as to what defines a subgenus differs from genus to genus: The boundaries [[Humans|human]] subgenera are blurry, whereas the boundaries in [[Animals|animal]] subgenera are more concrete; speciated.
 
 # Eternal Contest
 One of the central sources of cooperation and conflict within the world of *Make & Mettle* is the relationship between the **actor races** (the [[Eternals|eternals]], [[Ephemerals|ephemerals]], and [[Primordials|primordials]]) and the **agent races** (the natural, [[Psyche#anima|animate]] inhabitants of [[Seath]]:  the [[Plants|plants]], [[Animals|animals]], and [[Humans|humans]]). 
