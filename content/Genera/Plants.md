@@ -15,22 +15,14 @@ For the intersectionality with animals, see [[Zoophytes|zoophytes]].
 # Subgenera
 Compared to the other genera, plants have the largest number of [[Genera#Subgenera|subgenera]]. Plants are most broadly organized into **phanerogamae**[^phng] (singular: phanerogam, meaning visible seeds) and **cryptogamae**[^cptg] (singular: cryptogam, meaning hidden seeds; flowerless or spores).
 
-Among the phanerogamae are the **gymnosperms** (naked seeds; flowerless, fruitless), the **angiosperms** (enclosed seeds; flowering, fruiting).
+Among the phanerogamae are the **gymnosperms** (naked seeds; flowerless, fruitless), the **angiosperms** (enclosed seeds; flowering, fruiting). Among the cryptogamae are the **thalloids** (lichens, algae, molds), **bruons** (mosses, liverworts, hornworts), **ferns**, and **mushrooms**.
 
-## Flowerless
-
-## Flowering
-- [[Palm Turnip]]
-
-Among the cryptogamae are the **thalloids** (lichens, algae, molds), **bruons**[^brn] (mosses, liverworts, hornworts), **ferns**, and **mushrooms**.
-
-## Thalloids
-
-## Bruons
-
-## Ferns
-
-## Mushrooms
+- [[Gymnosperms]]
+- [[Angiosperms]]
+- [[Thalloids]]
+- [[Bruons]]
+- [[Ferns]]
+- [[Mushrooms]]
 
 # Further Reading
 - [[Genera]]
@@ -45,4 +37,3 @@ Among the cryptogamae are the **thalloids** (lichens, algae, molds), **bruons**[
 
 [^cptg]: ![[uyu.svg|12]] **[[OOU]]**:  The English word "cryptogamae" comes from the Ancient Greek "kruptós" (κρυπτός) meaning "hidden"; and "gaméō" (γαμέω) meaning to marry; this hidden marriage-parts (seeds).
 
-[^brn]: ![[uyu.svg|12]] **[[OOU]]**:  The word "bruon" comes from the Ancient Greek "brúon" (βρύον) meaning liverwort. In the real world, this subgenera represents the Bryophytes.
