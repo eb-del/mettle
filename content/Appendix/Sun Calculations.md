@@ -7,6 +7,8 @@ tags:
 
 [[Seath]] is known for having a variable axial tilt (obliquity). This impacts the length of a day over the year, as well as how much solar energy a latitude receives.
 
+![[insolation.png]]
+
 # Orbital Description
 Described by text, the orbital pattern over a year (comprised of 1000 days) is described as follows: 
 
@@ -23,122 +25,122 @@ Our goal is to calculate how precession impacts the apparent effects of axial ti
 
 When the planet is tilted towards or away from the sun, the apparent axial tilt is maximized (equal to the true axial tilt). When the planet is tilted in a direction perpendicular to the direction of the sun (as in neither towards nor away from the sun), the apparent axial tilt is minimized (equal to zero, as if the planet isn't tilted at all).
 
-The absolute precessional displacement in degrees, $\theta_\mbox{P}$ is given by:
+The absolute precessional displacement in degrees, $\theta_\text{P}$ is given by:
 $$
-\theta_\mbox{P} \equiv \begin{cases} 0, & 0\leq\mbox{day}<250 \\
-k(\mbox{day} - 250)^2, & 250\leq\mbox{day}<500 \\ 
--k(\mbox{day} - 750)^2 + 360, & 500\leq\mbox{day}<750 \\ 
-360, & 750\leq\mbox{day}<1000\end{cases}
+\theta_\text{P} \equiv \begin{cases} 0, & 0\leq\text{day}<250 \\
+k(\text{day} - 250)^2, & 250\leq\text{day}<500 \\ 
+-k(\text{day} - 750)^2 + 360, & 500\leq\text{day}<750 \\ 
+360, & 750\leq\text{day}<1000\end{cases}
 $$
 $$
-\mbox{where } k= 0.00288
+\text{where } k= 0.00288
 $$
 which can be rewritten as
 
 $$
-\theta_\mbox{P} = \begin{cases} k\left(\dfrac{|\mbox{day} - 250| + (\mbox{day} - 250)}{2}\right)^2, & 0\leq\mbox{day}<500 \\ 
--k\left(\dfrac{|\mbox{day} - 750| - (\mbox{day} - 750)}{2}\right)^2 + 360, & 500\leq\mbox{day}<1000 \\ \end{cases}
+\theta_\text{P} = \begin{cases} k\left(\dfrac{|\text{day} - 250| + (\text{day} - 250)}{2}\right)^2, & 0\leq\text{day}<500 \\ 
+-k\left(\dfrac{|\text{day} - 750| - (\text{day} - 750)}{2}\right)^2 + 360, & 500\leq\text{day}<1000 \\ \end{cases}
 $$
 $$
-\mbox{where } k= 0.00288
+\text{where } k= 0.00288
 $$
 
 This quantity isn't very useful to an observer on the surface of the planet, as it's a from a top-down frame of reference overlooking the entire system. It does not take into consideration the planet's position during its revolution around the sun.
 
-The absolute solar angle in degrees is $\theta_\mbox{S}$, where an angle of 0° describes the orientation of the sun relative to the world on the first day of the year, as viewed from the earlier top-down frame of reference. On the 500th day of the year,  $\theta_\mbox{S} = \theta_\mbox{P} = 180°$. $\theta_\mbox{S}$ is given by:
+The absolute solar angle in degrees is $\theta_\text{S}$, where an angle of 0° describes the orientation of the sun relative to the world on the first day of the year, as viewed from the earlier top-down frame of reference. On the 500th day of the year,  $\theta_\text{S} = \theta_\text{P} = 180°$. $\theta_\text{S}$ is given by:
 
 $$
-\theta_\mbox{S} \equiv \dfrac{360}{1000}\mbox{day}
+\theta_\text{S} \equiv \dfrac{360}{1000}\text{day}
 $$
 
-The solar displacement angle in degrees, $\theta_\mbox{D}$, is the magnitude of the angular displacement between  $\theta_\mbox{P}$ and $\theta_\mbox{S}$. $\theta_\mbox{D}$ is given by:
+The solar displacement angle in degrees, $\theta_\text{D}$, is the magnitude of the angular displacement between  $\theta_\text{P}$ and $\theta_\text{S}$. $\theta_\text{D}$ is given by:
 
 $$
-\theta_\mbox{D} = |\theta_\mbox{S}-\theta_\mbox{P}|
+\theta_\text{D} = |\theta_\text{S}-\theta_\text{P}|
 $$
 
 which can be expanded as
 
-$$\theta_\mbox{D} = \begin{cases} \left|\dfrac{360}{1000}\mbox{day} - k\left(\dfrac{|\mbox{day} - 250| + (\mbox{day} - 250)}{2}\right)^2\right|, & 1\leq\mbox{day}<500 \\ 
-\left|\dfrac{360}{1000}\mbox{day} + k\left(\dfrac{|\mbox{day} - 750| - (\mbox{day} - 750)}{2}\right)^2 + 360\right|, & 500\leq\mbox{day}<1000 \\ \end{cases}
+$$\theta_\text{D} = \begin{cases} \left|\dfrac{360}{1000}\text{day} - k\left(\dfrac{|\text{day} - 250| + (\text{day} - 250)}{2}\right)^2\right|, & 1\leq\text{day}<500 \\ 
+\left|\dfrac{360}{1000}\text{day} + k\left(\dfrac{|\text{day} - 750| - (\text{day} - 750)}{2}\right)^2 + 360\right|, & 500\leq\text{day}<1000 \\ \end{cases}
 $$
 $$
-\mbox{where } k= 0.00288
+\text{where } k= 0.00288
 $$
 
-We can use $\theta_\mbox{D}$ to produce a normalized scale. That way, we can multiply with the absolute axial tilt to give an apparent axial tilt (solar declination, our original goal), but we need to make a few adjustments first.
+We can use $\theta_\text{D}$ to produce a normalized scale. That way, we can multiply with the absolute axial tilt to give an apparent axial tilt (solar declination, our original goal), but we need to make a few adjustments first.
 
-First we recognize that when $\theta_\mbox{D} = 90º$ (the planet is tilted in a direction perpendicular to the direction of the sun), the apparent axial tilt is minimized, at 0º. When $\theta_\mbox{D} < 90º$, the apparent axial tilt is approaching its true axial tilt. When $\theta_\mbox{D} = 0º$, apparent axial tilt is maximized, equal to the true axial tilt. Interestingly, when $\theta_\mbox{D} > 90º$, this means that the apparent axial tilt has tipped in the opposite direction of the true axial tilt (a negative solar declination; the north pole is pointing away from the sun, which occurs a negligible amount, twice per year),
+First we recognize that when $\theta_\text{D} = 90º$ (the planet is tilted in a direction perpendicular to the direction of the sun), the apparent axial tilt is minimized, at 0º. When $\theta_\text{D} < 90º$, the apparent axial tilt is approaching its true axial tilt. When $\theta_\text{D} = 0º$, apparent axial tilt is maximized, equal to the true axial tilt. Interestingly, when $\theta_\text{D} > 90º$, this means that the apparent axial tilt has tipped in the opposite direction of the true axial tilt (a negative solar declination; the north pole is pointing away from the sun, which occurs a negligible amount, twice per year),
 
-We are now going to normalize $\theta_\mbox{D}$ (called $\theta_\mbox{D}^{\prime}$, where we force the values to be on a range from 0 to 1), but we have to define what our values mean again in this new context. After normalization, a value of 0 means that apparent axial tilt is minimized and equal to 0º, a value of 1 means the apparent axial tilt is equal to the true axial tilt. a value less than 0 means that the apparent axial tilt is in the opposite direction of the true axial tilt. 
+We are now going to normalize $\theta_\text{D}$ (called $\theta_\text{D}^{\prime}$, where we force the values to be on a range from 0 to 1), but we have to define what our values mean again in this new context. After normalization, a value of 0 means that apparent axial tilt is minimized and equal to 0º, a value of 1 means the apparent axial tilt is equal to the true axial tilt. a value less than 0 means that the apparent axial tilt is in the opposite direction of the true axial tilt. 
 
 To recap simply: 
 $$
-\begin{aligned} \theta_\mbox{D}^{\prime} = 0 : \theta_\mbox{D} = 90º \\ \\
-\theta_\mbox{D}^{\prime} = 1 : \theta_\mbox{D} = 0º \end{aligned}
+\begin{aligned} \theta_\text{D}^{\prime} = 0 : \theta_\text{D} = 90º \\ \\
+\theta_\text{D}^{\prime} = 1 : \theta_\text{D} = 0º \end{aligned}
 $$
 
-The first adjustment we make is flipping and sliding $\theta_\mbox{D}$ along the y axis to produce  $\theta_\mbox{DI}$. This adjustment is necessary to produce the range we want, while un-inverting the correlation.
+The first adjustment we make is flipping and sliding $\theta_\text{D}$ along the y axis to produce  $\theta_\text{DI}$. This adjustment is necessary to produce the range we want, while un-inverting the correlation.
 
 $$
-\theta_\mbox{DI} \equiv -\theta_\mbox{D} +90
+\theta_\text{DI} \equiv -\theta_\text{D} +90
 $$
 
 Now we can normalize by min-max feature scaling. Recall that our bounds are 0º and 90º.
 
 $$
-\begin{aligned} \theta_\mbox{D}^{\prime} \equiv \dfrac{\theta_\mbox{DI} - \theta_{\mbox{DI}_\mbox{min}}}{\theta_{\mbox{DI}_\mbox{max}}-\theta_{\mbox{DI}_\mbox{min}}} = \dfrac{-\theta_\mbox{D} +90}{90} = \dfrac{-\theta_\mbox{D}}{90}+1 \end{aligned} 
+\begin{aligned} \theta_\text{D}^{\prime} \equiv \dfrac{\theta_\text{DI} - \theta_{\text{DI}_\text{min}}}{\theta_{\text{DI}_\text{max}}-\theta_{\text{DI}_\text{min}}} = \dfrac{-\theta_\text{D} +90}{90} = \dfrac{-\theta_\text{D}}{90}+1 \end{aligned} 
 $$
 
 We then substitute in earlier equations:
 
 $$
-\theta_\mbox{D}^{\prime} = \begin{cases} \dfrac{-\left|\dfrac{360}{1000}\mbox{day} - k\left(\dfrac{|\mbox{day} - 250| + (\mbox{day} - 250)}{2}\right)^2\right|}{90} + 1, & 1\leq\mbox{day}<500 \\ 
-\dfrac{-\left|\dfrac{360}{1000}\mbox{day} + k\left(\dfrac{|\mbox{day} - 750| - (\mbox{day} - 750)}{2}\right)^2 - 360\right|}{90} + 1, & 500\leq\mbox{day}<1000 \\ \end{cases}
+\theta_\text{D}^{\prime} = \begin{cases} \dfrac{-\left|\dfrac{360}{1000}\text{day} - k\left(\dfrac{|\text{day} - 250| + (\text{day} - 250)}{2}\right)^2\right|}{90} + 1, & 1\leq\text{day}<500 \\ 
+\dfrac{-\left|\dfrac{360}{1000}\text{day} + k\left(\dfrac{|\text{day} - 750| - (\text{day} - 750)}{2}\right)^2 - 360\right|}{90} + 1, & 500\leq\text{day}<1000 \\ \end{cases}
 $$
-Yikes. This equation covers information across the whole year, yet the relevant range is only between the end of the old equinox (250th day) and the beginning of the new equinox (750th day). We can backtrack and use an earlier form of $\theta_\mbox{P}$ with the ranges we care about, producing:
+Yikes. This equation covers information across the whole year, yet the relevant range is only between the end of the old equinox (250th day) and the beginning of the new equinox (750th day). We can backtrack and use an earlier form of $\theta_\text{P}$ with the ranges we care about, producing:
 
-$$\theta_\mbox{D} = \begin{cases} \left|\dfrac{360}{1000}\mbox{day} - k\left(\mbox{day} - 250\right)^2\right|, & 250\leq\mbox{day}<500 \\ 
-\left|\dfrac{360}{1000}\mbox{day} + k\left(\mbox{day} - 750\right)^2 - 360\right|, & 500\leq\mbox{day}<750 \\ \end{cases}
+$$\theta_\text{D} = \begin{cases} \left|\dfrac{360}{1000}\text{day} - k\left(\text{day} - 250\right)^2\right|, & 250\leq\text{day}<500 \\ 
+\left|\dfrac{360}{1000}\text{day} + k\left(\text{day} - 750\right)^2 - 360\right|, & 500\leq\text{day}<750 \\ \end{cases}
 $$
 $$
-\mbox{where } k= 0.00288
-$$
-
-And then substitute into the equation for $\theta_\mbox{D}^{\prime}$:
-
-$$
-\theta_\mbox{D}^{\prime} = \begin{cases} \dfrac{-\left|\dfrac{360}{1000}\mbox{day} - k\left(\mbox{day} - 250\right)^2\right|}{90} + 1, & 250\leq\mbox{day}<500 \\ 
-\dfrac{-\left|\dfrac{360}{1000}\mbox{day} + k\left(\mbox{day} - 750\right)^2 - 360\right|}{90} + 1, & 500\leq\mbox{day}<750 \\ \end{cases}
-$$
-$$
-\mbox{where } k= 0.00288
+\text{where } k= 0.00288
 $$
 
-We have our normalized solar displacement factor $\theta_\mbox{D}^{\prime}$. Now all we have to do is multiply it by the equation for the true axial tilt in degrees, $\varepsilon_\mbox{T}$, to produce the apparent axial tilt in degrees, $\varepsilon_\mbox{A}$.
+And then substitute into the equation for $\theta_\text{D}^{\prime}$:
 
 $$
-\varepsilon_\mbox{A} \equiv \theta_\mbox{D}^{\prime}\cdot \varepsilon_\mbox{T}
+\theta_\text{D}^{\prime} = \begin{cases} \dfrac{-\left|\dfrac{360}{1000}\text{day} - k\left(\text{day} - 250\right)^2\right|}{90} + 1, & 250\leq\text{day}<500 \\ 
+\dfrac{-\left|\dfrac{360}{1000}\text{day} + k\left(\text{day} - 750\right)^2 - 360\right|}{90} + 1, & 500\leq\text{day}<750 \\ \end{cases}
+$$
+$$
+\text{where } k= 0.00288
+$$
+
+We have our normalized solar displacement factor $\theta_\text{D}^{\prime}$. Now all we have to do is multiply it by the equation for the true axial tilt in degrees, $\varepsilon_\text{T}$, to produce the apparent axial tilt in degrees, $\varepsilon_\text{A}$.
+
+$$
+\varepsilon_\text{A} \equiv \theta_\text{D}^{\prime}\cdot \varepsilon_\text{T}
 $$
 
 The true axial tilt can be expressed as the derivative of the logistic function (because why not).
 
 $$
-\varepsilon_\mbox{T} \equiv 120 \dfrac{e^{K\left(\mbox{day} - 500\right)}}{\left(1+e^{K\left(\mbox{day} - 500\right)}\right)^2}
+\varepsilon_\text{T} \equiv 120 \dfrac{e^{K\left(\text{day} - 500\right)}}{\left(1+e^{K\left(\text{day} - 500\right)}\right)^2}
 $$
 $$
-\mbox{where } K = 0.03
+\text{where } K = 0.03
 $$
 
 We can then substitute to produce our final equation for apparent axial tilt (solar declination).
 
 $$
-\varepsilon_\mbox{A} = \begin{cases} 120 \dfrac{e^{K\left(\mbox{day} - 500\right)}}{\left(1+e^{K\left(\mbox{day} - 500\right)}\right)^2} \cdot \left( \dfrac{-\left|\dfrac{360}{1000}\mbox{day} - k\left(\mbox{day} - 250\right)^2\right|}{90} + 1 \right), & 250\leq\mbox{day}<500 
+\varepsilon_\text{A} = \begin{cases} 120 \dfrac{e^{K\left(\text{day} - 500\right)}}{\left(1+e^{K\left(\text{day} - 500\right)}\right)^2} \cdot \left( \dfrac{-\left|\dfrac{360}{1000}\text{day} - k\left(\text{day} - 250\right)^2\right|}{90} + 1 \right), & 250\leq\text{day}<500 
 \\ 
-120 \dfrac{e^{K\left(\mbox{day} - 500\right)}}{\left(1+e^{K\left(\mbox{day} - 500\right)}\right)^2} \cdot \left(\dfrac{-\left|\dfrac{360}{1000}\mbox{day} + k\left(\mbox{day} - 750\right)^2 - 360\right|}{90} + 1 \right), & 500\leq\mbox{day}<750 \\ \end{cases}
+120 \dfrac{e^{K\left(\text{day} - 500\right)}}{\left(1+e^{K\left(\text{day} - 500\right)}\right)^2} \cdot \left(\dfrac{-\left|\dfrac{360}{1000}\text{day} + k\left(\text{day} - 750\right)^2 - 360\right|}{90} + 1 \right), & 500\leq\text{day}<750 \\ \end{cases}
 $$
 $$
-\mbox{where } K = 0.03 \mbox{ and } k= 0.00288
+\text{where } K = 0.03 \text{ and } k= 0.00288
 $$
 
 # Approximate Fraction Daylight Hours
@@ -162,7 +164,7 @@ $$
 This conversion produces values from 0º to 180º, where 0º represents polar night (days without daylight) and 180º represents polar day (days without night). We can normalize with an easy min-max feature scaling to produce a fraction (as a decimal).
 
 $$
-\omega^{\prime} \equiv \dfrac{\omega - \omega_\mbox{min}}{\omega_\mbox{max}-\omega_\mbox{min}}
+\omega^{\prime} \equiv \dfrac{\omega - \omega_\text{min}}{\omega_\text{max}-\omega_\text{min}}
 = \dfrac{\omega}{180}
 $$
 which can simply be expanded as:
