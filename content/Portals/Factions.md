@@ -14,7 +14,7 @@ The individual **subfactions** that form larger factions fall under the followin
 - [[Lineages]]
 
 # Further Reading
-- [[index|Make and Mettle]]
+- [[index|Index]]
 
 # Footnotes
 [^fac]: ![[uyu.svg|12]] **[[OOU]]**: The English word "faction" comes from the Latin word "factionem", meaning political party or class of persons. The Latin word "factionem" stems from "facere", meaning to do, make, facilitate. 

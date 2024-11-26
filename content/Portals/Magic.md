@@ -45,7 +45,7 @@ When an individual diversifies their responsibilities and areas of study beyond 
 In addition to these broader titles, there are also more specific, specialist titles from the many disciplines and subdisciplines of magic (such as pyrokinesist, a practitioner of [[Kinesis#Pyrokinesis|pyrokinesis]]).
 
 # Further Reading
-- [[index|Make and Mettle]]
+- [[index|Index]]
 - [[Psyche]]
 - [[Analisk]]
 

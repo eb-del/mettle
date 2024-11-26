@@ -1,4 +1,4 @@
-**[Main Site](https://eb-del.github.io/mettle)**
+**[Main Site](https://eb-del.github.io/soltide)**
 
 *Soltide* is a worldbuilding project.
 

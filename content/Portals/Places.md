@@ -22,5 +22,5 @@ A **plane of existence** (also known as a **plane**) describes self-contained, p
 - [[Afterlife]]
 
 # Further Reading
-- [[index|Make and Mettle]]
+- [[index|Index]]
 - [[Wanderwhimsy]]
