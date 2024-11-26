@@ -5,8 +5,8 @@
 
 @media screen and (min-width:768px) {
     .page {
-        max-width: 70%;
-        min-width: 70%;
+        max-width: 80%;
+        min-width: 80%;
     }
 
     [saved-theme=light] article.popover-hint {
@@ -51,7 +51,7 @@ p {
     margin-top: 0px;
     font-family: Arial;
     font-size: 0.75rem;
-    line-height: 1.4rem;
+    line-height: 1.3rem;
     text-align: justify;
     hyphens: none;
 
@@ -74,7 +74,7 @@ ul,
 {
    font-family: Arial;
    font-size: 0.75rem ;
-   line-height: 1.4rem;
+   line-height: 1.3rem;
    & li {
         margin: 0;
    }
@@ -95,11 +95,6 @@ ul.no-bullets {
    }
 }
 
-.footer {
-    line-height: 1rem !important;
-    font-size: 0.6rem !important;
-}
-
 .article-title {
     padding-top: 0px;
     margin-top: 20px;
@@ -115,7 +110,7 @@ h1 {
     font-family: Georgia;
     font-weight: 500;
     font-size: 1.2rem;
-    line-height:1rem;
+    line-height:1.2rem;
     letter-spacing: 0.8px;
 
     padding-top: 10px;
