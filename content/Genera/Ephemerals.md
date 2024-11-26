@@ -8,7 +8,7 @@ tags:
 **Ephemerals** are an abstract and diverse [[Genera|genus]], known for their their transient and temporary nature. The most widely recognized type of ephemeral are [[Eidolons#Ghosts|ghosts]].
 
 # Description
-Ephemerals are the antithesis to the ageless and immortal [[Eternals|eternals]]. Of the [[Genera#Eternal Contest|actor races]], ephemerals suffer the greatest casualties against the [[World Soul#Evicting Force|pressures]] of the [[World Soul|world soul]]. Ephemerals are purged regularly, some sent to other [[Places#Planes|planes of existence]], others simply dissolved and returned to the [[Thaumic Field|ether]]. 
+Ephemerals are the antithesis to the ageless and immortal [[Eternals|eternals]]. Of the [[Themes#Eternal Contest|actor races]], ephemerals suffer the greatest casualties against the [[World Soul#Evicting Force|pressures]] of the [[World Soul|world soul]]. Ephemerals are purged regularly, some sent to other [[Places#Planes|planes of existence]], others simply dissolved and returned to the [[Thaumic Field|ether]]. 
 
 Ephemerals embody the frailty in being incorporeal. For this reason, the types of ephemeral that seek longer worldly tenures are forced to rely on vessels, such as the earthenware pots of the [[Household Divinities|household divinities]], or as seen in an [[Eidolons|eidolon's]] ability to [[Eidolons#Possession|possess]]. Other types of ephemeral embrace their fleeting nature by design, serving singular purposes before disappearing, such as the human caricatures encoded in the [[Incarnates|incarnates]].
 

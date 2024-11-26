@@ -5,19 +5,27 @@ tags:
   - 
 ---
 
-The central narrative is described by a series of **themes** that serve as the backbone to make the world design more cohesive.
+The central narrative within *Soltide* is described by a series of **themes** that serve as the backbone to make the world design more cohesive.
 
-# Central Theme
-A central theme of this setting are that humanity is constantly evaluated by two qualities: their *make*—the qualities they are born with, their natural biases, their preconditions from their experiences, their allegiances, their values, their physical abilities—and their *mettle*—their ability to remain resolute and motivated when faced with the challenges of the world. For all major characters and their stories, one or both of these two qualities undergo change. Either they change themselves to suit the challenges of the world, they change the world to better suit themselves, or they meet somewhere in the middle. 
+# Core Theme
+The core theme of the *Soltide* setting is the the **gamble**. Life on [[Seath]] is difficult; survival is the primary concern for a vast majority of people, with comfort and prestige being easily-lost luxuries. The gamble describes the idea that individuals (primarily [[Humans|humans]]) can escape the natural state of the world (fate, luck, circumstance) by risking a part of themselves for the reward of extraordinary [[Magic|magical]] powers. 
 
-Those who fail to implement these changes willingly, are often unknowingly changed by the force of their present circumstances—for better or for worse. 
+The end result, however, is that access to magic imposes a strict (and often unknowing) responsibility for one's own outcome in the world. Sorcerers are not entitled miracles, as they are expected to make their own. For some, participating in the gamble is worth any and all trouble that comes with it. For others, it is hubris and nemesis.
+
+## Eternal Contest
+One of the central sources of cooperation and conflict within the world of *Soltide* is the relationship between the **actor races** (the [[Eternals|eternals]], [[Ephemerals|ephemerals]], and [[Primordials|primordials]]) and the **agent races** (the natural, [[Psyche#anima|animate]] inhabitants of Seath:  the [[Plants|plants]], [[Animals|animals]], and [[Humans|humans]]). 
+
+The world is [[World Soul#Evicting Force|naturally inhospitable]] towards the actor races, evicting, enfeebling, or outright destroying them. For various reasons, however, the actor races still toil and persist to keep some hold, purchase, or influence upon Seath. 
+
+A common method of keeping this hold is for the actor races to offer supernatural abilities in exchange for service or representation from the agent races. The eternals often form [[Pantheons|systems of worship]]; the ephemerals often form individual, fleeting relationships; and the primordials often form blood pacts with [[Lineages|human lineages]].
+
 
 # Secondary Themes
 ## Karma
 Cruelty to others, cruelty to the world, and cruelty to oneself are always, in some way, punished. This is especially true for individuals who use cruelty to make short-term gains or to pursue foolish ambitions. On the other end of the spectrum, kindness, sincerity, and integrity are often rewarded, indirectly, by some karmic force. 
 
 ## Nature and Industry
-The world itself has a measure of willpower, in that it exudes a strong resilience against being exploited, over-harvested, or its balance being abused. Mythical beasts, cataclysmic weather, and other forces of nature act as enforcers against those that seek to take more than their fair share. This constant contest for between civilization and its environment is a common source of conflict. 
+The world itself has a measure of willpower, in that it exudes a strong resilience against being exploited, over-harvested, or its balance being abused. Mythical beasts, cataclysmic weather, and other forces of nature act as enforcers against those that seek to take more than their fair share. This constant contest for between civilization and its environment is a common source of conflict—and makes participation in the eternal contest all the more alluring.
 
 The times in which either humanity or the environment overwhelming prevails, should constantly provide conflicting perspectives and mixed sentiment.
 

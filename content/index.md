@@ -1,11 +1,11 @@
 ---
-title: "Make & Mettle"
+title: "Soltide"
 draft: false
 tags:
   - 
 ---
 
-This is a worldbuilding project currently under construction.
+*Soltide* is a worldbuilding project currently under construction.
 
 # Further Reading
 - [[Factions]]

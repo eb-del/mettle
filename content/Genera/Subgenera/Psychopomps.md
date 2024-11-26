@@ -8,7 +8,7 @@ tags:
 **Psychopomps**[^pomp] are a [[Genera#Subgenera|subgenus]] of [[Ephemerals#Spirits|ephemeral spirit]], with the unique responsibility of ushering [[Eidolons#Ghosts|ghosts]] to the [[Afterlife|afterlife]].
 
 # Description
-A form of psychopomp exists in almost every culture's funerary tradition. Like all [[Ephemerals|ephermerals]], psychopomps are fleeting in nature, yet they persist for a far great time than ghosts. Unlike ghosts, psychopomps have personalities, individual identities, unique memories, and a capacity for  true emotion. Also unlike ghosts, psychopomps are not as strongly compelled to leave [[Seath]], one of the few exceptions to the general inhospitality suffered by the [[Genera#Eternal Contest|actor races]].
+A form of psychopomp exists in almost every culture's funerary tradition. Like all [[Ephemerals|ephermerals]], psychopomps are fleeting in nature, yet they persist for a far great time than ghosts. Unlike ghosts, psychopomps have personalities, individual identities, unique memories, and a capacity for  true emotion. Also unlike ghosts, psychopomps are not as strongly compelled to leave [[Seath]], one of the few exceptions to the general inhospitality suffered by the [[Themes#Eternal Contest|actor races]].
 
 Some psychopomps also act as extensions or servants of an [[Eternals|eternal]], particularly any eternal with some stake in the afterlife, or eternals that seek to collect [[Psyche|souls]].
 

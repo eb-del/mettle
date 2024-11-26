@@ -1,6 +1,6 @@
 **[Main Site](https://eb-del.github.io/mettle)**
 
-A worldbuilding project.
+*Soltide* is a worldbuilding project.
 
 ## License
 This project is published using [Quartz 4.4.0](https://quartz.jzhao.xyz/) (distributed under the MIT License).

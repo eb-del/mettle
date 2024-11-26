@@ -5,7 +5,7 @@ tags:
   - 
 ---
 
-The concept of **out-of-universe** information (often abbreviated as **OOU**) represents any information that exists outside the *Make & Mettle* setting—characters within this setting will never have the possibility of accessing OOU information. The term contrasts **in-universe** information. Out-of-universe information is most often used when discussing real-world inspirations, etymology, background research, or anything that does not exist inside the *Make & Mettle* universe.
+The concept of **out-of-universe** information (often abbreviated as **OOU**) represents any information that exists outside the *Soltide* setting—characters within this setting will never have the possibility of accessing OOU information. The term contrasts **in-universe** information. Out-of-universe information is most often used when discussing real-world inspirations, etymology, background research, or anything that does not exist inside the *Soltide* universe.
 
 The milk symbol ![[uyu.svg|12]] is also used to represent out-of-universe information in this resource. The korean word for milk "uyu" (우유; pronounced "oo-yoo") resembles the acronym "OOU".
 

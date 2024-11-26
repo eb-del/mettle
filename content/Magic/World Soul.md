@@ -13,7 +13,7 @@ Unlike an individual's [[Psyche|psyche]], the world soul does not encode a perso
 The health of the world soul provides direct insight upon balance of nature. Some classes of natural disaster are believed to be directly caused by illnesses afflicting the world soul. Nearly all cultures that acknowledge the existence of the world soul, also acknowledge the idea that the death of the world soul would mean the total extinction of all life on Seath forever.
 
 ## Evicting Force
-The world soul imposes a conscious, willing, and deliberate evicting force that weakens the presence and influence of the [[Genera#Eternal Contest|actor races]], not dissimilar to an immune system responding to pathogens.
+The world soul imposes a conscious, willing, and deliberate evicting force that weakens the presence and influence of the [[Themes#Eternal Contest|actor races]], not dissimilar to an immune system responding to pathogens.
 
 [[Ephemerals]] born from the psyche (such as [[Eidolons|eidolons]]) are compelled to be sent to the [[Afterlife|afterlife]]—others are gradually eroded and returned to the [[Thaumic Field|ether]]. [[Eternals]] are compelled to return to their original [[Places#Planes|planes of existence]], or risk losing their immortality and godly potency. [[Primordials]] become subject to derangement and disfigurement, the presence of the world soul toxic to them.
 
