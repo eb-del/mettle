@@ -61,11 +61,11 @@ $$
 
 which can be expanded as
 
-$$\theta_\text{D} = \begin{cases} \left|\dfrac{360}{1000}\text{day} - k\left(\dfrac{|\text{day} - 250| + (\text{day} - 250)}{2}\right)^2\right|, & 1\leq\text{day}<500 \\ 
-\left|\dfrac{360}{1000}\text{day} + k\left(\dfrac{|\text{day} - 750| - (\text{day} - 750)}{2}\right)^2 + 360\right|, & 500\leq\text{day}<1000 \\ \end{cases}
+$$
+\theta_\text{D} = \begin{cases} \left|\dfrac{360}{1000}\text{day} - k\left(\dfrac{|\text{day} - 250| + (\text{day} - 250)}{2}\right)^2\right|, & 1\leq\text{day}<500 \\ \left|\dfrac{360}{1000}\text{day} + k\left(\dfrac{|\text{day} - 750| - (\text{day} - 750)}{2}\right)^2 + 360\right|, & 500\leq\text{day}<1000 \\ \end{cases}
 $$
 $$
-\text{where } k= 0.00288
+\text{where } k = 0.00288
 $$
 
 We can use $\theta_\text{D}$ to produce a normalized scale. That way, we can multiply with the absolute axial tilt to give an apparent axial tilt (solar declination, our original goal), but we need to make a few adjustments first.
@@ -100,8 +100,8 @@ $$
 $$
 Yikes. This equation covers information across the whole year, yet the relevant range is only between the end of the old equinox (250th day) and the beginning of the new equinox (750th day). We can backtrack and use an earlier form of $\theta_\text{P}$ with the ranges we care about, producing:
 
-$$\theta_\text{D} = \begin{cases} \left|\dfrac{360}{1000}\text{day} - k\left(\text{day} - 250\right)^2\right|, & 250\leq\text{day}<500 \\ 
-\left|\dfrac{360}{1000}\text{day} + k\left(\text{day} - 750\right)^2 - 360\right|, & 500\leq\text{day}<750 \\ \end{cases}
+$$
+\theta_\text{D} = \begin{cases} \left|\dfrac{360}{1000}\text{day} - k\left(\text{day} - 250\right)^2\right|, & 250\leq\text{day}<500 \\ \left|\dfrac{360}{1000}\text{day} + k\left(\text{day} - 750\right)^2 - 360\right|, & 500\leq\text{day}<750 \\ \end{cases}
 $$
 $$
 \text{where } k= 0.00288
