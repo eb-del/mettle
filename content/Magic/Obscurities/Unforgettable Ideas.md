@@ -1,5 +1,5 @@
 ---
-title: "Article Template"
+title: "Unforgettable Ideas"
 draft: true
 tags:
   - 
