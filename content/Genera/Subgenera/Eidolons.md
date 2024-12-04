@@ -10,9 +10,9 @@ An **eidolon**[^eid] (plural: eidolons) are a [[Genera#Subgenera|subgenus]] of [
 # Description
 Often eidolons are momentary captures of the appearance, emotions, goals, and personality of their original being moments before their separation from the body—rarely do they stray from this state, as if trapped in time. Though often the case, it is not required that the human or animal be dead to produce an eidolon. 
 
-All eidolons are visually indistinguishable from living individuals. Eidolons cannot interact with the physical world, and any interaction they do exhibit is a form of illusion. For example, an eidolon may walk in the sand, even make the sounds of the sand beneath their feet, but they will leave no footprints; an eidolon can swim, make the sounds of splashing, but the water remain still. In human-like eidolons, their outward garments of possessions are regarded to be as much a part of the eidolon as their skin or their flesh.
+All eidolons are visually indistinguishable from living individuals. Eidolons cannot interact with the physical world, and any interaction they do exhibit is a form of illusion. For example, an eidolon may walk in the sand, even make the sounds of the sand beneath their feet, but they will leave no footprints; an eidolon can swim, make the sounds of splashing, but the water remain still. In human-like eidolons, their outward garments or possessions are regarded to be as much a part of the eidolon as their ephemeral flesh.
 
-Eidolons are constantly subject to an evicting pressure that compels them to be sent to the [[Afterlife|afterlife]], regardless if their original body is dead or alive.
+Eidolons are constantly subject to an evicting pressure that compels them to be sent to the [[Afterlife|afterlife]], regardless if their original body is dead or alive. This evicting pressure can be evaded through possession.
 
 ## Ghosts
 **Ghosts** refer specifically to the eidolons of the deceased. People or animals that undergo gruesome or traumatic deaths often manifest ghosts that reflect their manner of death. Some ghosts, however, take on the form they most identify with, such as their appearance at the height of their power, or versions of themselves that they had wished to become.
@@ -22,7 +22,7 @@ Most ghosts have reasons for persisting in the world, such as unresolved goals, 
 ## Possession
 Eidolons can inhabit a body or vessel different from their original, through a process called **possession**. Possession allows an eidolon to extend their worldly tenure by temporarily evading the pressure to be sent to the afterlife.
 
-When an eidolon tries to possess another living being, their psyche entwines with—and sometimes outright dominates—another. Corporeal forms can rarely hold two psyches, resulting in the possessing eidolon replacing or destroying the living being's psyche. When a living, conscious being is possessed by an eidolon, there is a natural incompatibility—a mismatch between body and soul. This results in either the eventual expulsion of the possessing eidolon or the deterioration of the possessed body.
+When an eidolon tries to possess another living being, their psyche entwines with—and sometimes outright dominates—another. Living corporeal forms can rarely hold two psyches, resulting in the possessing eidolon evicting or absorbing the living being's original psyche. When a living corporeal form is completely possessed by an eidolon, there is a natural incompatibility—a mismatch between body and soul. This results in either the eventual expulsion of the possessing eidolon or the deterioration of the possessed body.
 
 [[Psychopomps]] are also capable of possession, but are not required to do so in order to extend their worldly tenure.
 

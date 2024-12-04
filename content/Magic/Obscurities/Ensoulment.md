@@ -14,6 +14,6 @@ Ensoulment most often occurs with an inanimate possession with the greatest emot
 Like all obscurities, ensoulment, thus far, has never happened purposefully; willing ensoulment by a person upon their own possessions is popularly regarded (especially by evocators) as an endeavor that is both arrogant and futile. The exact mechanism behind ensoulment is regarded as the greatest mystery of interest to evocators—as understanding this mechanism would clues as to the origin of the human psyche.
 
 # Further Reading
-- [[Magic]]
+- [[Magic#Obscurities|Obscurities]]
 
 # Footnotes

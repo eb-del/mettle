@@ -14,6 +14,6 @@ Examples of quirk magic in household items could be a garment that distorts stai
 A common superstition among [[Humans|humans]] is that magical quirks are caused by the presence and habitation of [[Wisps|wisps]].
 
 # Further Reading
-- [[Magic]]
+- [[Magic#Obscurities|Obscurities]]
 
 # Footnotes

@@ -15,7 +15,7 @@ export default ((opts?: Options) => {
       <footer class={`${displayClass ?? ""}`}>
         <p>
 <i>Soltide</i> is a worldbuilding project made by ebdel and the <i>Soltide</i> community, published using <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a>.
-Any and all written works and images used in this site contributed by either ebdel or members of the <i>Soltide</i> community are licensed under the <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> license. © {year}
+Any and all works used in this project contributed by either ebdel or members of the <i>Soltide</i> community are licensed under the <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> license. © {year}
         </p>
         <ul>
           {Object.entries(links).map(([text, link]) => (

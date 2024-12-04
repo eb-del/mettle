@@ -30,11 +30,13 @@ The division of disciplines according to the [[Magagora#College of Magic|college
 - [[Poiesis]], magic into matter
 
 # Obscurities
-**Obscurities** are any form of magic that evade all attempts at human understanding and replication. Unlike the disciplines—which are studied extensively—obscurities cannot be taught or gifted outright, but rather manifest as a raw, anomalous phenomena. 
+**Obscurities** are any form of magic that evade all attempts at human understanding and replication. Unlike disciplines—which are studied extensively—obscurities cannot be dismantled; there are no sub-obscurities, and no obscurity can be explained through scholarly pursuit. Obscurities exist "as-they-are" as whole, complete, phenomena.
 
 - [[Ensoulment]]
 - [[True Names]]
 - [[Quirk Magic]]
+- [[Unforgettable Ideas]]
+- [[Veilcalling]]
 - [[Wanderwhimsy]]
 
 # Practitioners

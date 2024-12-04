@@ -5,13 +5,13 @@ tags:
   - 
 ---
 
-A **true name** is the unique name of an item, idea, or being that expresses, or is somehow identical to, its true nature. This contrasts the **given name**, which is a name that is taught or created through language, and are not guaranteed to be unique.
+A **true name** is an [[Magic#Obscurities|obscurity]] that describes the unique name of an item, idea, or being that expresses, or is somehow identical to, its true nature. This contrasts the **given name**, which is a name that is taught or created through language, and are not guaranteed to be unique.
 
 The [[Humans|human]] study of magic that seeks to understand and catalog true names is called **onomastics**[^ono] (whose practitioners are called **onomasticians**). Onomastics and [[Thaumic Field|thaumaturgy]] form the combined discipline of magic called [[Cryptothesis|cryptothesis]].
 
 True names are encoded and shared using [[Hitturpyx]].
 
-# Properties
+# Description
 All items, ideas, and beings—that have existed, do exist, or will eventually come to exist—have a true name that is unique, untransferable, and independent of all language. A true name is unchangeable and exists in all [[Places#Planes|planes of existence]] across all modes of existence. Nearly all things or beings in all of existence have their true name hidden from all knowledge, with the true name instead encoded into the fabric of reality itself.
 
 ## Divisibility
@@ -32,7 +32,7 @@ Nearly all true names are incoherent and uninterpretable to [[Humans|human]] mod
 To know a verisimilar name grants none of the powers of knowing a true name, except for the privilege of knowing that true names (as an idea) exist. The near impossibility of replicating true names, and the few successes in onomastics, makes the human perspective and use of true names a type of [[Magic#Obscurities|obscurity]].
 
 # Further Reading
-- [[Magic]]
+- [[Magic#Obscurities|Obscurities]]
 - [[Eternals]]
 
 # Footnotes
