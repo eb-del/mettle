@@ -22,9 +22,9 @@ Eternals are regarded as immortal in the eyes of humans; many have existed since
 
 Eternals universally have the ability to travel between planes of existence, regarded as visitors to Seath's dominion. Some are subject to unique rules and courtesies while others can travel freely. The frequent visitation of eternals throughout history is widely regarded as the source of all [[Magic]] in the world.
 
-Eternals, regardless of origin or ability, can communicate on some capacity with any other eternal, and can readily identify any other lesser (non-eternal) being by their [[True Names|true name]]. The ability to use true names grants eternals a small degree of omniscience over humanity. Through the [[True Names#Properties|natural properties]] of true names, an eternal can recognize the constituent components of that human: their values, their language, their allegiances, their truths, their deceptions, their possessions. A common gift to humanity is to be taught an important [[True Names#Approximates|verisimilar name]]. 
+Eternals, regardless of origin or ability, can communicate on some capacity with any other eternal, and can readily identify any other lesser (non-eternal) being by their [[True Names|true name]]. The ability to use true names grants eternals a small degree of omniscience over humanity. Through the [[True Names#Properties|natural properties]] of true names, an eternal can recognize the constituent components of that human: their values, their language, their allegiances, their truths, their deceptions, their possessions. A common gift to humanity is to be taught an important [[True Names#Approximates|verisimilar name]] of something in the mortal world; such as the name of the world itself: [[Seath]]. 
 
-When issued a [[Veilcalling|true call]] by a human, an eternal cannot refuse to answer, nor can they answer with any amount of dishonestly. Eternals are most known by humans by their responses to a true call.
+When issued a [[Communion#Naming Call|naming call]] by a human, an eternal cannot refuse to answer, nor can they answer with any amount of dishonestly. Eternals are most known by humans by their responses to a true call.
 
 Eternals are never omnipotent, and only one is truly omnipresent.
 

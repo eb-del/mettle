@@ -36,7 +36,7 @@ The division of disciplines according to the [[Magagora#College of Magic|college
 - [[True Names]]
 - [[Quirk Magic]]
 - [[Unforgettable Ideas]]
-- [[Veilcalling]]
+- [[Communion]]
 - [[Wanderwhimsy]]
 
 # Practitioners

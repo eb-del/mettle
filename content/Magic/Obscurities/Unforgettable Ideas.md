@@ -1,6 +1,6 @@
 ---
 title: "Unforgettable Ideas"
-draft: true
+draft: false
 tags:
   - 
 ---
@@ -8,7 +8,7 @@ tags:
 An **unforgettable idea** (also called an **unforgettable memory**) as an [[Magic#Obscurities|obscurity]] describes an idea or memory that is embedded permanently into one's mind by means of [[Magic|magic]]—typically by an [[Eternals|eternal]]. 
 
 # Description
-When something is unforgettable by means of magic, it is remembered clearly, in its entirety, without distortion or alteration by one's own perspective. The memory or idea itself is distinct and specific; approximate or adjacent ideas and memories are not necessarily unforgettable. For example, a person will always remember an eternal's unforgettable response to a [[Veilcalling|veilcall]] but are not guaranteed to remember any of the circumstances around hearing the response to the veilcall.
+When something is unforgettable by means of magic, it is remembered clearly, in its entirety, without distortion or alteration by one's own perspective. The memory or idea itself is distinct and specific; approximate or adjacent ideas and memories are not necessarily unforgettable. For example, a person will always remember an eternal's unforgettable response to a [[Communion#Naming Call|naming call]] but are not guaranteed to remember any of the circumstances around hearing the response to the naming call.
 
 Unforgettable ideas do not necessarily need to be comprehensible. On the contrary, unforgettable ideas can feel out of place, as they are the only ideas in an individual's mind unaltered by their personal biases and semantic memory.
 
