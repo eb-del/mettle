@@ -12,7 +12,7 @@ Fungi are regarded as a seedless (cryptogamae) and leafless subgenera of plant. 
 
 **Mycelium**[^spho] (plural: mycelia) is a thready, root-like structure unique to fungi. Unlike the roots of other subgenera of plant, mycelia does not necessarily require soil as a substrate, able to instead intermingle among detritus. 
 
-Unbeknownst to [[Humans|humanity]], fungi are more closely related to [[Animals|animals]] than they are plants, especially with regard to the yeasts being among the [[Animals#Nigoda|nigoda]] (microbia). Also unbenknownst to humanity, molds are a type of a fungi, but are classified as [[Thalloids]] due to the absence of a fruit-body (mushroom). Some scholars regard fungi as a [[Zoophytes|zoophyte]]. 
+Unbeknownst to [[Humans|humanity]], fungi are more closely related to [[Animals|animals]] than they are plants, especially with regard to the yeasts being among the [[Animals#Nigoda|nigoda]] (microbia). Also unbenknownst to humanity, molds are a type of a fungi, but are presently classified as [[Thalloids]] due to the absence of a fruit-body (mushroom). Some scholars presently regard fungi as a [[Zoophytes|zoophyte]]. 
 
 # Further Reading
 - [[Plants]]

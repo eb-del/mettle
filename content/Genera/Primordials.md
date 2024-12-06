@@ -27,9 +27,12 @@ Completely starved and feral primordials become entirely and irreversibly soulle
 - [[Khimore]], a horse chimera
 
 ## Purebloods
-Pureblooded primordials are the non-chimera primordials, seen as colossal versions of their animal counterparts. They are known for having unique feeding patterns that have allowed them to avoid the more common chimeric mutation of other primordials.
+**Pureblooded** primordials are the non-chimera Seath-born primordials, seen as colossal versions of their animal counterparts. They are known for having unique feeding patterns that have allowed them to avoid the more common chimeric mutation of other primordials.
 - [[Python]], the great serpent
 - [[Goliath]], the great millipede
+
+## Daemons
+**Daemons** (also spelled demons) are primordials from other [[Places#Planes|planes of existence]]. There exists worlds beyond Seath completely dominated by primordials, enslaved to the "eat or be eaten" mindset. Primordials from other worlds are completely exotic to humanity in their appearance and abilities. Though few have made an appearance on Seath, those that are known have brought with them cataclysm and legions of daemonspawn.
 
 # Further Reading
 - [[Genera]]
