@@ -13,9 +13,9 @@ The psyche includes the mind (as a thinking, conscious entity), but excludes the
 The discipline of magic that studies the psyche (predominantly in the context of resurrection) is [[Egersis|evocation]] (egersis). 
 
 ## Anima
-The term psyche is often reserved for animals capable of mental individuality, and most often applies to species of vertebrates (animals with a axial endoskeleton; a spine) with few exceptions (the cephalopods and arachnids, for example). 
+The term psyche is often reserved for animals capable of mental individuality, and most often applies to species of vertebrates (animals with a axial endoskeleton; a spine) with few exceptions (the [[Cephalopods|cephalopods]] and  certain[[Arthropods|arthropods]], for example). 
 
-For the vast remainder of living creatures, such as insects, [[Plants|plants]][^plant], and [[Animals#Nigoda|nigoda]] (microbia), the term **anima** is used, describing a simpler living essence. Some believe that animas and psyches are fundamentally the same with different levels of complexity, and that this complexity is responsible for an organism's force of will.
+For the vast remainder of living creatures, such as mosts insects, worms, [[Zoophytes|zoophytes]], [[Plants|plants]][^plant], and [[Animals#Nigoda|nigoda]] (microbia), the term **anima** is used, describing a simpler living essence. Some believe that animas and psyches are fundamentally the same with different levels of complexity, and that this complexity is responsible for an organism's force of will.
 
 The broad category of all living beings (with or without a psyche) are called the **animate**. The remainder of the physical world that lacks any form of living essence is often called the **inanimate**. 
 

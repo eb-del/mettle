@@ -13,14 +13,14 @@ All animals have an [[Psyche#Anima|anima]] (from which the name "animal" is deri
 For the intersectionality with plants, see [[Zoophytes|zoophytes]].
 
 # Subgenera
-There are a vast number of animal [[Genera#Subgenera|subgenera]]. Animals are most broadly classified into **spondyles** (also known as **vertebrates**), and **aspondyles** (also known as **invertebrates**). Another popular classification of animals is between those with blood (known as the **enhaima**[^aris]) and those without blood (known as the **anhaima**[^aris]).
+There are a vast number of animal [[Genera#Subgenera|subgenera]]. Animals are most broadly classified into **spondyles** (better known as **vertebrates**), and **aspondyles** (better known as **invertebrates**). Another popular classification of animals is between those with blood (known as the **enhaima**[^aris]) and those without blood (known as the **anhaima**[^aris]).
 
-Among the spondyles are the **thilastics** (also known as **mammals**), **ornithes** (also known as **birds**), **herpetons** (including both **reptiles** and **amphibians**), and **ichthyses** (also known as **fish**). Though vertebrates are the more widely studied and appreciated by humanity, a much greater majority of the world's creates are invertebrate. The most recognizable types of invertebrate are the **arthropods**, **cephalopods**, and **scolices** (also known as **worms**).
+Among the spondyles are the **therions** (better known as **mammals**), **ornithes** (better known as **birds**), **herpetons** (including both **reptiles** and **amphibians**), and **ichthyses** (better known as **fish**). Though vertebrates are the more widely studied and appreciated by humanity, a much greater majority of the world's creates are invertebrate. The most recognizable types of invertebrate are the **arthropods**, **cephalopods**, and **scolices** (also known as **worms**).
 
-- [[Thilastics]]
+- [[Therions]]
 - [[Ornithes]]
 - [[Herpetons]]
-- [[Icthyses]]
+- [[Ichthyses]]
 - [[Arthropods]]
 - [[Cephalopods]]
 - [[Scolices]]

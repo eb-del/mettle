@@ -5,7 +5,7 @@ tags:
   - 
 ---
 
-A **fungus**[^spho] (plural: fungi, sometimes also called **myces**[^spho]) is a distinct [[Genera#Subgenera|subgenera]] of [[Plants|plant]][^fungi], known for its distinctive fruit-body (a mushroom).
+**Fungi**[^spho] (singular: fungus, sometimes also called **myces**[^spho]) describes a distinct [[Genera#Subgenera|subgenera]] of [[Plants|plant]][^fungi], known for its distinctive fruit-body (a mushroom).
 
 # Description
 Fungi are regarded as a seedless (cryptogamae) and leafless subgenera of plant. Many people associate fungi with rot and decay.

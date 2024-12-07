@@ -5,7 +5,7 @@ tags:
   - 
 ---
 
-A **bruon**[^brn] is a [[Genera#Subgenera|subgenera]] of [[Plants|plant]] containing mosses, liverworts, hornworts. 
+**Bruon**[^brn] (singular: bruon) describes a [[Genera#Subgenera|subgenus]] of [[Plants|plant]] containing mosses, liverworts, hornworts. 
 
 # Further Reading
 - [[Plants]]

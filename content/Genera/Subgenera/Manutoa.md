@@ -13,7 +13,7 @@ When comparing outward features between the Manutoa and [[Harthwrichts|common hu
 
 The Manutoa's primary uniqueness in physiology is in their internal organs. Their bones are different, lighter than that of a humans. Their muscles are highly efficient, able to produce greater force per unit of bodymass. A Manutoa's heart is highly adaptable; their cardiovascular system is optimized to compensate for drastic changes in heart rate and blood pressure. This allows a Manutoa to maintain adequate blood flow at a variety of altitudes. Manutoa have a natural resistance to forces imposed by acceleration, able to maintain consciousness even while performing aggressive aerial acrobatics. 
 
-Collectively Manutoan anatomy reflects evolutionary optimization for flight. As a result of these optimizations, Manutoa are deficient in other areas, such as physical strength in lifting, carrying, and pushing. Manutoa are easily over encumbered. Despite being able to fly, Manutoa do not have any outward bird-like features.
+Collectively Manutoan anatomy reflects evolutionary optimization for flight. As a result of these optimizations, Manutoa are deficient in other areas, such as physical strength in lifting, carrying, and pushing. Manutoa are easily over encumbered. Despite being able to fly, Manutoa do not have any outward [[Ornithes|bird]]-like features.
 
 ## Personality
 Manutoa are, by many perspectives, the most cohesive of the human subgenera. This leads to culture and tradition mixing with tendencies in personality.
