@@ -7,7 +7,7 @@ tags:
 
 The **thaumic field**[^qft][^thau] (sometimes called the **ether**) is an empirically-motivated quantitative and spatial description of [[Magic|magic]].  
 
-The [[Humans|human]] quantitative study of the the thaumic field is called **thaumaturgy**[^thau] (also known as **thaumatology**; whose practitioners are known as **thaumaturgists**). Thaumaturgy and [[True Names|onomastics]] form the discipline of magic called [[Cryptothesis|cryptothesis]].
+The [[Humans|human]] quantitative study of the the thaumic field is called **thaumaturgy**[^thau] (also known as **thaumatology**; whose practitioners are known as **thaumaturgists**). Thaumaturgy and [[Eunomoi|onomastics]] form the discipline of magic called [[Cryptothesis|cryptothesis]].
 
 # Description
 The thaumic field is best understood as an invisible, intangible "air" (from which the word "ether" is derived) that permeates across the [[Seath|world]]. This field can have loci (also called potentials), in which the magnitude or concentration of thaumic energy  can vary from the average energy across the entire field. Unbenkownst to humanity (requiring further advances in physics and mathematics), the thaumic field is analogous to other fields such as electric fields, magnetic fields, gravitational fields.

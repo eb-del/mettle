@@ -15,7 +15,7 @@ In the progression of the [[Primordials#Primordial Curse|primordial curse]] in [
 Those that advocate for the existence of the analisk often use the analogy that the psyche is a pushing, producing force and the analisk is a pulling, devouring force. Often, this analogy is used to explain how primordials are able to use and grant magic without a psyche or anima.
 
 # Debate
-The initial idea of the analisk was spurred when whisper-mages were revealed the [[True Names#Approximates|verisimilar name]] "analisk" by the [[Eternals|eternal]] [[Maw]], who describes such a word as meaning "an essence of life that begets death; an opposite".
+The initial idea of the analisk was spurred when whisper-mages were revealed the [[Eunomoi#Approximates|verisimilar name]] "analisk" by the [[Eternals|eternal]] [[Maw]], who describes such a word as meaning "an essence of life that begets death; an opposite".
 
 [[Egersis|Evocators]] rebuke the idea of the existence of the analisk, as such an essence is undetectable through evocation. Instead, within primordials and soul-deprived beings is a noticeable emptiness; a hole where the psyche ought be. Similarly, [[Eidolons|eidolons]] are produced from the human psyche, yet no such beings exist for the analisk. 
 

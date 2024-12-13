@@ -45,7 +45,7 @@ For example, an animal's hunger is a natural and beneficial encouragement toward
 ## Names
 Names have greater value in this setting than in the real world. Names are that which discerns something significant from something insignificant. To grant something (particularly something inanimate) a name is not a trivial matter, with consequences such as [[Ensoulment|ensoulment]].
 
-See also [[True Names]].
+See also [[Eunomoi]].
 
 ## Words and Power
 The idea that words and language have either tremendous power or no power at all is a reoccurring theme in this setting, as the idea of a common language is still in its infancy. Many groups of people in the world are divided and lack the capacity for communication. As a result, universal means of sharing ideas—such as violence and mercy; kindness, and cruelty—are often the only solution towards survival.

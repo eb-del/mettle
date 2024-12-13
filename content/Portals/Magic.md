@@ -33,7 +33,7 @@ The division of disciplines according to the [[Magagora#College of Magic|college
 **Obscurities** are any form of magic that evade all attempts at human understanding and replication. Unlike disciplines—which are studied extensively—obscurities cannot be dismantled; there are no sub-obscurities, and no obscurity can be explained through scholarly pursuit. Obscurities exist "as-they-are" as whole, complete, phenomena.
 
 - [[Ensoulment]]
-- [[True Names]]
+- [[Eunomoi]]
 - [[Quirk Magic]]
 - [[Unforgettable Ideas]]
 - [[Communion]]

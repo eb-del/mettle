@@ -8,12 +8,12 @@ tags:
 **Plants** are the most abundant and diverse [[Genera|genus]] on [[Seath]], known for being predominantly anodonic[^photo] (toothless; does not bite) and hydrophagic[^photo] (water-eating; does not eat food).
 
 # Description
-In the present state of classifying organisms, plants are widely regarded as any organism with a predominantly vegetative, immobile state—thus including also molds, yeasts, and fungi[^fungi]. With humanity's current state of the sciences, it is widely regarded that anything clearly not belonging to any of the other genera is a plant. 
+In the present state of classifying organisms, plants are widely regarded as any organism with a predominantly vegetative, sessile state—thus including also molds, yeasts, and fungi[^fungi]. With humanity's current state of the sciences, it is widely regarded that anything clearly not belonging to any of the other genera is a plant. 
 
 For the intersectionality with animals, see [[Zoophytes|zoophytes]].
 
 # Subgenera
-Compared to the other genera, plants have the largest number of [[Genera#Subgenera|subgenera]]. Plants are most broadly organized into **phanerogamae**[^phng] (singular: phanerogam, meaning visible seeds) and **cryptogamae**[^cptg] (singular: cryptogam, meaning hidden seeds; flowerless or spores).
+Compared to the other genera, plants have the largest number of [[Genera#Subgenera|subgenera]]. Plants are most broadly organized into **phanerogamae**[^phng] (singular: phanerogam, meaning visible seeds) and **cryptogamae**[^cptg] (singular: cryptogam, meaning hidden seeds; often using spores instead).
 
 Among the phanerogamae are the **gymnosperms** (naked seeds; flowerless, fruitless), the **angiosperms** (enclosed seeds; flowering, fruiting). Among the cryptogamae are the **thalloids** (lichens, algae, molds), **bruons** (mosses, liverworts, hornworts), **ferns**, and **fungi**.
 

@@ -5,7 +5,7 @@ tags:
   - 
 ---
 
-**Cryptothesis**[^cryp] (whose practitioners are called **cryptothesists**, **cryptothesians**, or more commonly **whisper-mages**) is the esoteric study and practice of the fundamental forces behind [[Magic|magic]]—namely by descriptions of "quantitative magnitudes and qualitative identities". More precisely, cryptothesis is the intersection between [[Thaumic Field|thaumaturgy]] and [[True Names|onomastics]]. 
+**Cryptothesis**[^cryp] (whose practitioners are called **cryptothesists**, **cryptothesians**, or more commonly **whisper-mages**) is the esoteric study and practice of the fundamental forces behind [[Magic|magic]]—namely by descriptions of "quantitative magnitudes and qualitative identities". More precisely, cryptothesis is the intersection between [[Thaumic Field|thaumaturgy]] and [[Eunomoi|onomastics]]. 
 
 # Subdisciplines
 ## Theogenics
@@ -14,7 +14,7 @@ tags:
 # Further Reading
 - [[Magic]]
 - [[Thaumic Field]]
-- [[True Names]]
+- [[Eunomoi]]
 
 # Footnotes
 [^cryp]: ![[uyu.svg|12]] **[[OOU]]**: The term "cryptothesis" is the combination of the Ancient Greek words "kruptós" (κρυπτός), meaning hidden or secret; and "thésis" (θέσῐς), meaning starting arrangement, placement, conclusion, and also to lower one's voice; thus the common title of whisper-mage. See also *[[Paramnestra#Thanatothesis|Thanatothesis]]*.

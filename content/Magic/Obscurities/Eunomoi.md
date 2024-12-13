@@ -1,11 +1,11 @@
 ---
-title: "True Names"
+title: "Eunomoi"
 draft: false
 tags:
   - 
 ---
 
-A **true name** is an [[Magic#Obscurities|obscurity]] that describes the unique name of an item, idea, or being that expresses, or is somehow identical to, its true nature. This contrasts the **given name**, which is a name that is taught or created through language, and are not guaranteed to be unique.
+A **eunomos** (plural: eunomoi, better known as a **true name**) is an [[Magic#Obscurities|obscurity]] that describes the unique name of an item, idea, or being that expresses, or is somehow identical to, its true nature. This contrasts the **given name**, which is a name that is taught or created through language, and are not guaranteed to be unique.
 
 The [[Humans|human]] study of magic that seeks to understand and catalog true names is called **onomastics**[^ono] (whose practitioners are called **onomasticians**). Onomastics and [[Thaumic Field|thaumaturgy]] form the combined discipline of magic called [[Cryptothesis|cryptothesis]].
 

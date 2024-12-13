@@ -8,7 +8,7 @@ tags:
 **Seath**[^sth] is both the [[Places#Planes|plane of existence]] and the world in which the [[Themes#Eternal Contest|agent races]] (the [[Plants|plants]], [[Animals|animals]], and [[Humans|humans]]) are native to. The presence of life on Seath has granted the world a [[World Soul|world soul]], a pseudo-consciousness that seeks to maintain the survival of life and a balance across its ecosystems.
 
 # Name
-The [[True Names#Approximates|verisimilar name]] "Seath" was given to humanity by the [[Eternals|eternal]] [[Cornucopia]].
+The [[Eunomoi#Approximates|verisimilar name]] "Seath" was given to humanity by the [[Eternals|eternal]] [[Cornucopia]].
 
 # Orbit
 Seath is the only terrestrial planet orbiting its star. Seath's orbit is circular, centered at the sun, and completes a single orbit once every 1000 solar days. 

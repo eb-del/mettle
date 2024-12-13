@@ -15,6 +15,6 @@ There exists systems of communication that are language-like. Typically these sy
 
 # Further Reading
 - [[Technologies]]
-- [[True Names]]
+- [[Eunomoi]]
 
 # Footnotes
